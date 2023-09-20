@@ -1,0 +1,34 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "IoDuckDebuggingDevIcon145991",
+      "FabMarkdown",
+      "Io4519024DevIcon",
+      "OiFileTypeNodeIcon130301",
+      "OiLinuxOriginalLogoIcon146433"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true
+  },
+  "LINUX/Terminologia Linux.md": "FabDev",
+  "javascript": "OiFileTypeJsOfficialIcon130509",
+  "Node": "OiFileTypeNodeIcon130301",
+  "LINUX": "OiLinuxOriginalLogoIcon146433",
+  "Comandos Markdown.md": "FabMarkdown",
+  "Cores Markedown.md": "FabMarkdown",
+  "Git": "OiIcons8Git",
+  "Design de sistemas": "Io4519024DevIcon",
+  "GROSSÁRIO DE DESENVOLVEDOR.md": "IoDuckDebuggingDevIcon145991"
+}
