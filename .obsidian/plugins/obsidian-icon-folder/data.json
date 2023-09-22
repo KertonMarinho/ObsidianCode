@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "IoDuckDebuggingDevIcon145991",
-      "FabMarkdown",
-      "Io4519024DevIcon",
+      "OiPdf",
+      "OiHtml",
       "OiFileTypeNodeIcon130301",
-      "OiLinuxOriginalLogoIcon146433"
+      "OiDuckDebuggingDevIcon145991",
+      "Oi4519024DevIcon"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -23,12 +23,29 @@
     "iconInTabsEnabled": true
   },
   "LINUX/Terminologia Linux.md": "FabDev",
-  "javascript": "OiFileTypeJsOfficialIcon130509",
-  "Node": "OiFileTypeNodeIcon130301",
-  "LINUX": "OiLinuxOriginalLogoIcon146433",
+  "javascript": {
+    "iconName": "OiFileTypeJsOfficialIcon130509",
+    "inheritanceIcon": "OiFileTypeJsOfficialIcon130509"
+  },
+  "Node": {
+    "iconName": "OiFileTypeNodeIcon130301",
+    "inheritanceIcon": "OiFileTypeNodeIcon130301"
+  },
+  "LINUX": {
+    "iconName": "OiLinuxOriginalLogoIcon146433",
+    "inheritanceIcon": "OiLinuxOriginalLogoIcon146433"
+  },
   "Comandos Markdown.md": "FabMarkdown",
   "Cores Markedown.md": "FabMarkdown",
-  "Git": "OiIcons8Git",
-  "Design de sistemas": "Io4519024DevIcon",
-  "GROSSÁRIO DE DESENVOLVEDOR.md": "IoDuckDebuggingDevIcon145991"
+  "GROSSÁRIO DE DESENVOLVEDOR.md": "OiDuckDebuggingDevIcon145991",
+  "Git": {
+    "iconName": "OiIcons8Git",
+    "inheritanceIcon": "OiIcons8Git"
+  },
+  "Design de sistemas": {
+    "iconName": "Oi4519024DevIcon",
+    "inheritanceIcon": "Oi4519024DevIcon"
+  },
+  "Html e protocolos": "OiHtml",
+  "pdf": "OiPdf"
 }

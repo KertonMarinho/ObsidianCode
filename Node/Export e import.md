@@ -1,6 +1,6 @@
 #node #js #design
 ## Usando a função  de exportar padrão do node(commonJs)
-: habitar para uso em outros arquivos
+-  habilitar para uso em outros arquivos
 
 1. exporte o que vc quer exportar
  
@@ -25,5 +25,33 @@ Para usar:
 	matematica.somar();
 ```
 
-# import e export com ES6(mais avançado)
+# Import e export com ES6(mais avançado)
 
+- neste é só colocar o ``expert`` antes:
+
+```js
+export function nomefunção(..);
+```
+- Para exportação uma única coisa:
+
+```js
+export default {
+	SOMAR,
+	SUBTRAIR,
+	MULTIPLICAR
+	VERSÃO
+};
+//PARA ESSA NA HORA DE IMPORTAR TEM QUE USAR A IMPORTAÇÃO TUDO
+```
+
+- Para importar  tudo:
+
+```js
+import * as NomeDaExportação from `./localDoArquivo`;
+//NomeDaExportação:qualquer nome é valido
+```
+- Importar apenas um modulo:
+
+```js
+import {moduloDeExportação1, moduloDeExportação2}  from `./localDoArquivo`;
+```
