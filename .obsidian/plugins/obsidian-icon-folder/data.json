@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "OiImgFiletypeIcon151817",
       "OiPdf",
       "OiHtml",
       "OiFileTypeNodeIcon130301",
-      "OiDuckDebuggingDevIcon145991",
-      "Oi4519024DevIcon"
+      "OiDuckDebuggingDevIcon145991"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -46,6 +46,10 @@
     "iconName": "Oi4519024DevIcon",
     "inheritanceIcon": "Oi4519024DevIcon"
   },
-  "Html e protocolos": "OiHtml",
-  "pdf": "OiPdf"
+  "Html e protocolos": {
+    "iconName": "OiHtml",
+    "inheritanceIcon": "OiHtml"
+  },
+  "pdf": "OiPdf",
+  "pictures": "OiImgFiletypeIcon151817"
 }
