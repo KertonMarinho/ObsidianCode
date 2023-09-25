@@ -6,13 +6,18 @@
 - <span style="color:orange">push</span> Envia as mudanças ao repositório remoto(se houver)
 
 ---
-# 1° passo - Git add
+# 1° passo -Entra n pasta do projeto
+
+```shell
+cd <pasta do projeto>
+```
+----
+# 2° passo - Git add
 - adiciona as mudanças ao arquivo temporário Index
 - Sintaxe: 
 
 ```shell
-git add <arquivo>
-git add*
+git add -A
 // (*) primeiro commit adcione tudo
 ```
 ---
@@ -24,10 +29,17 @@ git add*
 git commit -m "comente suas modificações"
 ```
 ---
+# 3°passo - Cria um nove repositório gitHub
+- em New repositório
+> [!SUMMARY] Initialize this repositório
+> Add a radme file - Adicione automaticamente o README
+> ADD .gitignore - ignore alguns arquivos
+> Chose a license -  escolhe o tipo de licença
+
+- Siga os passos do tutorial do github
 # 3° passo - git push
-- Envia as alterações do HEAD do repositório local para um repositório remoto
+- Passe do repositório origin(local) para master(remoto)
 - Sintaxe:
 
 ```shell
-git push origin master
-git push origin funcionalidade_x
+git push -u origin main

@@ -32,24 +32,12 @@
             }
           },
           {
-            "id": "7283854169add8b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/Git init.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "29d8c89c3c07d1fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Git Fluxo de trabalho.md",
+                "file": "Git/Novo repositório.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,67 +92,31 @@
             }
           },
           {
-            "id": "65636b00a8ffcb09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/Git init.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "eb391fd8c4557945",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Git init.md",
+                "file": "Git/Instalando o Git.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ca6ed990e0533dc1",
+            "id": "af357d9627c86b24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design de sistemas/licenças de software.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0ae66aced3e76bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atualizando o arquivo remoto do gitHub.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6fbff235af3c12d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cores Markedown.md",
+                "file": "Git/Novo repositório.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -230,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atualizando o arquivo remoto do gitHub.md",
+                "file": "Git/Novo repositório.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atualizando o arquivo remoto do gitHub.md",
+                "file": "Git/Novo repositório.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atualizando o arquivo remoto do gitHub.md"
+                "file": "Git/Novo repositório.md"
               }
             }
           },
@@ -301,40 +253,40 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "b0ae66aced3e76bd",
+  "active": "def1af6ec34e20f0",
   "lastOpenFiles": [
-    "Design de sistemas/licenças de software.md",
-    "Atualizando o arquivo remoto do gitHub.md",
+    "Git/Instalando o Git.md",
+    "Git/Atualizando o arquivo remoto do gitHub.md",
+    "Git/Novo repositório.md",
     "Git/Git init.md",
     "Git/Sincronizando o repositório local com o GitHub.md",
     "Git/Conectando ao GitHub com ssh.md",
+    "Git/Git branch.md",
+    "Git/Git configuração.md",
+    "Design de sistemas/licenças de software.md",
+    "Cores Markedown.md",
+    "Git/ignore arquivos do gitHUb.md",
     "Comandos Markdown.md",
     "pictures/Pasted image 20230924212807.png",
-    "Git/Instalando o Git.md",
     "Comandos do terminal do windows.md",
-    "Git/Git configuração.md",
     "Comandos terminal windows/Sem título.md",
     "Comandos terminal windows",
     "Comandps",
     "LINUX/Compactadores de arquivos.md",
     "pdf/Múltiplas contas GIT no mesmo computador.pdf",
     "LINUX/Comando de manipulação de diretórios.md",
-    "Cores Markedown.md",
     "Node/Export e import.md",
     "Node/Criando o primeiro projeto.md",
     "LINUX/Comandos de gerenciamentos de pacotes(Ubunto).md",
     "LINUX/Comandos de sistemas.md",
     "LINUX/Comandos no terminal.md",
-    "Git/Git Fluxo de trabalho.md",
     "Html e protocolos/Input.md",
     "Html e protocolos/PROTOCOLOS E INFRAESTRUTURA.md",
     "Html e protocolos/Tags.md",
     "LINUX/Comandos de acesso e permissões.md",
-    "Git/Git branch.md",
     "Node/Importar bibliotecas de terceiros.md",
     "pictures/Pasted image 20230922232650.png",
     "pictures/Pasted image 20230922232056.png",
-    "Html e protocolos/Tabelas.md",
     "pictures/Pasted image 20230922225919.png",
     "pictures/Pasted image 20230922225449.png",
     "pictures/Pasted image 20230922225224.png",
