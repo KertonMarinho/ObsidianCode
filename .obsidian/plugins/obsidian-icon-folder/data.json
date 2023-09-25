@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "OiTerminalWindowIcon143500",
       "OiImgFiletypeIcon151817",
       "OiPdf",
       "OiHtml",
-      "OiFileTypeNodeIcon130301",
-      "OiDuckDebuggingDevIcon145991"
+      "OiFileTypeNodeIcon130301"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -51,5 +51,6 @@
     "inheritanceIcon": "OiHtml"
   },
   "pdf": "OiPdf",
-  "pictures": "OiImgFiletypeIcon151817"
+  "pictures": "OiImgFiletypeIcon151817",
+  "Comandos do terminal do windows.md": "OiTerminalWindowIcon143500"
 }

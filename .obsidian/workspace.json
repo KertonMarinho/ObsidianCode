@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/GitHub.md",
+                "file": "Git/Conectando ao GitHub com ssh.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node/Importar bibliotecas de terceiros.md",
+                "file": "LINUX/Compactadores de arquivos.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Git configuração.md",
+                "file": "Git/Git init.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb391fd8c4557945",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Git init.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca6ed990e0533dc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Sincronizando o repositório local com o GitHub.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -194,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node/Importar bibliotecas de terceiros.md",
+                "file": "Git/Sincronizando o repositório local com o GitHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node/Importar bibliotecas de terceiros.md",
+                "file": "Git/Sincronizando o repositório local com o GitHub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node/Importar bibliotecas de terceiros.md"
+                "file": "Git/Sincronizando o repositório local com o GitHub.md"
               }
             }
           },
@@ -265,56 +289,57 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "d1f94724f2f37d4a",
+  "active": "ca6ed990e0533dc1",
   "lastOpenFiles": [
+    "Git/Conectando ao GitHub com ssh.md",
+    "Comandos Markdown.md",
+    "Git/Sincronizando o repositório local com o GitHub.md",
     "Git/Git init.md",
-    "Git/GitHub.md",
+    "pictures/Pasted image 20230924212807.png",
+    "Git/Instalando o Git.md",
+    "Comandos do terminal do windows.md",
+    "Git/Git configuração.md",
+    "Comandos terminal windows/Sem título.md",
+    "Comandos terminal windows",
+    "Comandps",
+    "LINUX/Compactadores de arquivos.md",
+    "pdf/Múltiplas contas GIT no mesmo computador.pdf",
+    "LINUX/Comando de manipulação de diretórios.md",
+    "Cores Markedown.md",
+    "Node/Export e import.md",
+    "Node/Criando o primeiro projeto.md",
+    "LINUX/Comandos de gerenciamentos de pacotes(Ubunto).md",
+    "LINUX/Comandos de sistemas.md",
+    "LINUX/Comandos no terminal.md",
+    "Git/Git Fluxo de trabalho.md",
+    "Html e protocolos/Input.md",
+    "Html e protocolos/PROTOCOLOS E INFRAESTRUTURA.md",
+    "Html e protocolos/Tags.md",
+    "LINUX/Comandos de acesso e permissões.md",
+    "Git/Git branch.md",
     "Node/Importar bibliotecas de terceiros.md",
     "pictures/Pasted image 20230922232650.png",
     "pictures/Pasted image 20230922232056.png",
-    "Comandos Markdown.md",
-    "Node/Export e import.md",
     "Html e protocolos/Tabelas.md",
     "pictures/Pasted image 20230922225919.png",
     "pictures/Pasted image 20230922225449.png",
     "pictures/Pasted image 20230922225224.png",
-    "Html e protocolos/Input.md",
-    "Cores Markedown.md",
     "pictures/Pasted image 20230922222200.png",
     "pictures/Pasted image 20230922222117.png",
     "pictures/Pasted image 20230922221940.png",
     "pictures/Pasted image 20230922221705.png",
-    "pictures/Pasted image 20230922221158.png",
-    "Git/Git Fluxo de trabalho.md",
-    "Html e protocolos/PROTOCOLOS E INFRAESTRUTURA.md",
     "Html e protocolos",
     "GROSSÁRIO DE DESENVOLVEDOR.md",
-    "Git/Git configuração.md",
-    "Git/Git branch.md",
-    "LINUX/Comandos no terminal.md",
     "pdf/Tutorial_criar_conta_000webhost_vf.pdf",
     "Git",
-    "Node/Criando o primeiro projeto.md",
     "javascript/Declaração de função.md",
-    "Pasted.md",
-    "Node/Template engines/mustache (instalação).md",
-    "Node/Template engines/Template engines significado.md",
-    "20230916104840.png.md",
-    "pictures/Servidor de hospedagem gratis webHost.md",
     "pdf/Não confirmado 339552.crdownload",
     "pdf",
     "Nova pasta",
-    "Node/habilitar no shell do windows para rodar script.md",
-    "SCRIPT NO NODE.md",
-    "Design de sistemas/licenças de software.md",
-    "!notes.md",
     "Sem título.canvas",
     "Sem título 3.canvas",
     "Sem título 2.canvas",
     "Sem título 1.canvas",
-    "pictures",
-    "LINUX",
-    "Grossário de desenvolvedor",
-    "Node/Template engines/template engines siginificado"
+    "pictures"
   ]
 }

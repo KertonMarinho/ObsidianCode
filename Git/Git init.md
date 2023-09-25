@@ -5,15 +5,22 @@ cd <pasta do projeto>
 ```
 ``VC PODE COPIAR O NOME DA PASTA DO PROJETO DO EXPLORER E COLAR COM CD``
 
-2. De o primeiro git add no projeto:
-
-```shell
-git add*
+---
+2.  Na pasta do projeto cria a pasta modulogit ou ou inicia o git que automaticamente cria uma pasta oculta,para iniciar:
+```sheel
+git init
 ```
-3. faça o commit:
+
+3. 
+4. De o primeiro git add no projeto:
 
 ```shell
-git -m "Commit inicial"
+git add -A
+```
+3. faça o primeiro commit:
+
+```shell
+git -am "Commit inicial"
 ```
 4. Cria um novo repositório do Github
 - em New repositore
