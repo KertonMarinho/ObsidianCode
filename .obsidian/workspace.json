@@ -133,7 +133,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Sincronizando o repositório local com o GitHub.md",
+                "file": "Design de sistemas/licenças de software.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0ae66aced3e76bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atualizando o arquivo remoto do gitHub.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -218,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Sincronizando o repositório local com o GitHub.md",
+                "file": "Atualizando o arquivo remoto do gitHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Sincronizando o repositório local com o GitHub.md",
+                "file": "Atualizando o arquivo remoto do gitHub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Sincronizando o repositório local com o GitHub.md"
+                "file": "Atualizando o arquivo remoto do gitHub.md"
               }
             }
           },
@@ -289,12 +301,14 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "ca6ed990e0533dc1",
+  "active": "b0ae66aced3e76bd",
   "lastOpenFiles": [
+    "Design de sistemas/licenças de software.md",
+    "Atualizando o arquivo remoto do gitHub.md",
+    "Git/Git init.md",
+    "Git/Sincronizando o repositório local com o GitHub.md",
     "Git/Conectando ao GitHub com ssh.md",
     "Comandos Markdown.md",
-    "Git/Sincronizando o repositório local com o GitHub.md",
-    "Git/Git init.md",
     "pictures/Pasted image 20230924212807.png",
     "Git/Instalando o Git.md",
     "Comandos do terminal do windows.md",
@@ -329,10 +343,8 @@
     "pictures/Pasted image 20230922221940.png",
     "pictures/Pasted image 20230922221705.png",
     "Html e protocolos",
-    "GROSSÁRIO DE DESENVOLVEDOR.md",
     "pdf/Tutorial_criar_conta_000webhost_vf.pdf",
     "Git",
-    "javascript/Declaração de função.md",
     "pdf/Não confirmado 339552.crdownload",
     "pdf",
     "Nova pasta",
