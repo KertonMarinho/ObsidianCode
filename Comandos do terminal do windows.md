@@ -11,3 +11,4 @@ cd c:/users/kerto
 <span style="color:yellow">tre /t(ou f)</span> monta árvore dos arquivos, nunca de este comando na raiz do HD, trava
 <span style="color:yellow">mkdir</span>  cria pasta
 <span style="color:yellow">mrdir</span> apaga pasta
+<span style="color:yellow">Colar e copiar no terminal</span> ctrl+shift+c , ctrl+shift+v

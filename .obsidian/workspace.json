@@ -8,79 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e4eefcfad8e07fe2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/Git configuração.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94730f83b28b9e52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/Conectando ao GitHub com ssh.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29d8c89c3c07d1fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/Novo repositório.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06113958058e770f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Html e protocolos/Input.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1b827098fe75d34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Node/Export e import.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1f94724f2f37d4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LINUX/Compactadores de arquivos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3f59c60941ea39ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/ignore arquivos do gitHUb.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ddfbe9ea7504a094",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -90,33 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "eb391fd8c4557945",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/Instalando o Git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af357d9627c86b24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/Novo repositório.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Novo repositório.md",
+                "file": "Git/ignore arquivos do gitHUb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Novo repositório.md",
+                "file": "Git/ignore arquivos do gitHUb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Novo repositório.md"
+                "file": "Git/ignore arquivos do gitHUb.md"
               }
             }
           },
@@ -253,22 +168,34 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "def1af6ec34e20f0",
+  "active": "3f59c60941ea39ca",
   "lastOpenFiles": [
-    "Git/Instalando o Git.md",
+    "Git/Git configuração.md",
+    "Comandos do terminal do windows.md",
+    "Comandos Markdown.md",
+    "Git/Revertendo modificações.md",
+    "Git/Comandos.md",
     "Git/Atualizando o arquivo remoto do gitHub.md",
+    "Cores Markedown.md",
+    "pictures/Pasted image 20230925222719.png",
+    "pictures/Pasted image 20230925222228.png",
+    "Git/Git branch.md",
+    "Git/Conectando ao GitHub com ssh.md",
+    "Design de sistemas/Arquitetura de software.md",
+    "pictures/Pasted image 20230925221140.png",
+    "pictures/Pasted image 20230925220630.png",
+    "pictures/Pasted image 20230925220539.png",
+    "pictures/Pasted image 20230925220145.png",
+    "pictures/Pasted image 20230925215419.png",
+    "pictures/Pasted image 20230925214639.png",
+    "Design de sistemas/licenças de software.md",
+    "GROSSÁRIO DE DESENVOLVEDOR.md",
+    "Git/Instalando o Git.md",
     "Git/Novo repositório.md",
     "Git/Git init.md",
     "Git/Sincronizando o repositório local com o GitHub.md",
-    "Git/Conectando ao GitHub com ssh.md",
-    "Git/Git branch.md",
-    "Git/Git configuração.md",
-    "Design de sistemas/licenças de software.md",
-    "Cores Markedown.md",
     "Git/ignore arquivos do gitHUb.md",
-    "Comandos Markdown.md",
     "pictures/Pasted image 20230924212807.png",
-    "Comandos do terminal do windows.md",
     "Comandos terminal windows/Sem título.md",
     "Comandos terminal windows",
     "Comandps",
@@ -281,19 +208,7 @@
     "LINUX/Comandos de sistemas.md",
     "LINUX/Comandos no terminal.md",
     "Html e protocolos/Input.md",
-    "Html e protocolos/PROTOCOLOS E INFRAESTRUTURA.md",
-    "Html e protocolos/Tags.md",
-    "LINUX/Comandos de acesso e permissões.md",
-    "Node/Importar bibliotecas de terceiros.md",
     "pictures/Pasted image 20230922232650.png",
-    "pictures/Pasted image 20230922232056.png",
-    "pictures/Pasted image 20230922225919.png",
-    "pictures/Pasted image 20230922225449.png",
-    "pictures/Pasted image 20230922225224.png",
-    "pictures/Pasted image 20230922222200.png",
-    "pictures/Pasted image 20230922222117.png",
-    "pictures/Pasted image 20230922221940.png",
-    "pictures/Pasted image 20230922221705.png",
     "Html e protocolos",
     "pdf/Tutorial_criar_conta_000webhost_vf.pdf",
     "Git",
