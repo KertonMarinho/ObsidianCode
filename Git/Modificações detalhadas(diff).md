@@ -1,4 +1,4 @@
-
+- Saber a diferença entre commits
 # Detalha o que foi feito nos arquivos monitorados
  
 ```shell
@@ -22,6 +22,13 @@ git diff <nome-do-arquivo>
 ```shell
 git checkout Head --<nomee-do-arquivo>
 head = branch atual
+```
+---
+# Comparar entre commits
+
+```shell
+git diff <numero do log especifico> HEAD
+//Comapara o commit numero... com o commit HEAD
 ```
 
 

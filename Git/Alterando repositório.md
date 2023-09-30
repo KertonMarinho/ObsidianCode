@@ -12,14 +12,24 @@
 cd <pasta do projeto>
 ```
 ----
+# Git status
+- o que foi modificados
+- Changes to be committed = modificações a serem commitadas
+- Untracked files= arquivos não monitorados
+---
 # 2° passo - Git add
 - adiciona as mudanças ao arquivo temporário Index
 - Sintaxe: 
-
 ```shell
 git add -A
-// (*) primeiro commit adcione tudo
+// pode adicionar somenete uma pasta cd add <nome da pasta>
 ```
+
+- Para adicionar todos os tipos do arquivo
+```shell
+git add .
+```
+
 ---
 # 2° passo - git commit
 - Confirma as mudanças, gravando permanente no arquivo HEAD do repositório
@@ -29,7 +39,7 @@ git add -A
 git commit -m "comente suas modificações"
 ```
 ---
-# 3°passo - Cria um nove repositório gitHub
+#  Cria um nove repositório gitHub
 - em New repositório
 > [!SUMMARY] Initialize this repositório
 > Add a radme file - Adicione automaticamente o README
@@ -37,6 +47,7 @@ git commit -m "comente suas modificações"
 > Chose a license -  escolhe o tipo de licença
 
 - Siga os passos do tutorial do github
+---
 # 3° passo - git push
 - Passe do repositório origin(local) para master(remoto)
 - Sintaxe:

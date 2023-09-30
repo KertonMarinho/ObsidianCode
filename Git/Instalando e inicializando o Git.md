@@ -1,16 +1,21 @@
-# git scm
+# Instalando o git
 
 <span style="color:yellow">Download</span>
-Download
 <https://git-scm.com/>
 <span style="color:yellow">Wndows</span>
 <https://gitforwindows.org/>
 <span style="color:yellow">Guia Prático</span>
 <https://rogerdudler.github.io/gitguide/index.pt_BR.html>
+# Verifica se o git foi instalado:
+	
+```shell
+git --version
+```
 
 ---
 ## Git config
 - Define o usuário que irá trabalhar com o Git
+- Para o usuário a nível de projeto cada projeto um nome retira ``--global``
 - Sintaxe:
 
 ```shell
@@ -29,12 +34,20 @@ git config --global user.email "vinicius@email.com"
 ```shell
 git config --global core.editor notepad
 ```
-## Git config (listar as configurações)
+## Git config (listar as configurações feitas)
 - Listando as configurações
 - Sintaxe:
 
 ```shell
 git config --list
+```
+
+# Para pegar só o nome ou o email
+
+```shell
+git config --get user.name
+ou
+git config --get user.email
 ```
 
 ---
@@ -50,7 +63,9 @@ c:\users\vinicius\PychraProjects\pythonProject
 ```shell
 git init
 ```
-
+- Para verificar se tem Git no projeto ``git status``
+	- se tiver on branch master siginifica que o Git já está iniciado:
+	- ![[Pasted image 20230930103135.png]]
 ---
 # Branchs (ramificações)
 - Podemos ramificar nosso projeto para trabalharmos em funcionalidades separadas simultaneamente
@@ -104,3 +119,11 @@ git diff
 git diff --name-only
 git diff <nomeArquivo>
 ```
+---
+<h2 style="color:red">Remover uma section no git</h2>
+```shell
+git config --global --remove-section-texto(palavra errada)
+```
+
+- Múltiplas contas do Git:
+![[Múltiplas contas GIT no mesmo computador.pdf]]

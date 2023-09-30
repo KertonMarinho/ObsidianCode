@@ -1,8 +1,8 @@
 # git log
 - Históricos de commits
 ![[Pasted image 20230925222228.png]]
-- head -> master( head é o branch que está)
-- Commmit 2b... é o numero de identificação do commit
+- head -> é o commit cabeça, o último commit
+- Commmit ``2b...`` é o numero de identificação do commit
 
 # Git branch
 - lista dos os branchs
@@ -13,3 +13,17 @@
 ![[Pasted image 20230925222719.png]]
 - ``on branch master`` checar sempre se está na branch correta
 - ``untracked files`` arquivos que não está sendo monitorado
+---
+# Git help
+
+```shell
+git commit help
+//inclusive modificar o texto do commit feito
+```
+---
+# Todos os comandos do git
+
+```shell
+git help ---all
+```
+

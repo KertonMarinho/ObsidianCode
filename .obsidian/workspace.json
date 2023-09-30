@@ -13,19 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design de sistemas/Prototipação.md",
+                "file": "Git/ignore arquivos do gitHUb.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "82bf62720392c98a",
+            "id": "2e219f332ab926e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Revertendo modificações(git reset).md",
+                "file": "Git/Git branch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c44c3d129408b3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resolvendo conflitos do Merge.md",
                 "mode": "source",
                 "source": false
               }
@@ -41,6 +53,21 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "91fc6e7389fbd29e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06a5ef4cffb1e7bc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -109,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design de sistemas/Prototipação.md",
+                "file": "Resolvendo conflitos do Merge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design de sistemas/Prototipação.md",
+                "file": "Resolvendo conflitos do Merge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design de sistemas/Prototipação.md"
+                "file": "Resolvendo conflitos do Merge.md"
               }
             }
           },
@@ -167,7 +194,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,44 +208,45 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "3f59c60941ea39ca",
+  "active": "4c44c3d129408b3d",
   "lastOpenFiles": [
-    "pictures/Roteiro Utilizacao Figma.pdf",
-    "pictures/Pasted image 20230930093609.png",
-    "pictures/Pasted image 20230930092628.png",
-    "Design de sistemas/Ux -Use experientive.md",
-    "Design de sistemas/Prototipação.md",
-    "pictures/Pasted image 20230928212500.png",
-    "Git/Criando novo branch.md",
     "Git/Git branch.md",
-    "Git/Git configuração.md",
+    "Resolvendo conflitos do Merge.md",
+    "pictures/Pasted image 20230930130906.png",
+    "Git/ignore arquivos do gitHUb.md",
+    "Git/Instalando e inicializando o Git.md",
+    "Git/Modificações detalhadas(diff).md",
+    "Git/Sincronizando o repositório local com o GitHub.md",
+    "Git/Voltando ao commit especifico.md",
+    "Git/Vscode com Git.md",
+    "Git/Revertendo modificações(git reset).md",
     "Git/REVERTENDO MODIFICAÇÕES.md",
+    "pictures/Pasted image 20230930124530.png",
+    "Git/Corrigindo mensagens do commit.md",
+    "Diferença git reset e revert.md",
+    "Git/Criando novo branch.md",
+    "Git/Conectando ao GitHub com ssh.md",
+    "Git/Comandos.md",
+    "Git/Atualizando o arquivo remoto do gitHub.md",
+    "Git/Alterando repositório.md",
+    "pictures/Pasted image 20230930122927.png",
+    "pictures/Pasted image 20230930122120.png",
+    "pictures/Pasted image 20230930121359.png",
+    "pictures/Pasted image 20230930120601.png",
+    "pictures/Pasted image 20230930112154.png",
+    "pictures/Pasted image 20230930111814.png",
+    "pictures/Pasted image 20230930111616.png",
+    "pictures/Pasted image 20230930110021.png",
+    "Comandos do terminal do windows.md",
+    "Git/Instalando o Git.md",
+    "Design de sistemas/Prototipação.md",
+    "pictures/Roteiro Utilizacao Figma.pdf",
+    "Design de sistemas/Ux -Use experientive.md",
     "Comandos Markdown.md",
     "Node/Importar bibliotecas de terceiros.md",
-    "Git/Revertendo modificações(git reset).md",
-    "Diferença git reset e revert.md",
-    "Comandos do terminal do windows.md",
-    "Git/ignore arquivos do gitHUb.md",
-    "Git/Instalando o Git.md",
-    "Git/Modificações detalhadas(diff).md",
-    "Git/Atualizando o arquivo remoto do gitHub.md",
-    "Git/Sincronizando o repositório local com o GitHub.md",
-    "Git/Comandos.md",
     "Cores Markedown.md",
-    "pictures/Pasted image 20230925222719.png",
-    "pictures/Pasted image 20230925222228.png",
-    "Git/Conectando ao GitHub com ssh.md",
     "Design de sistemas/Arquitetura de software.md",
-    "pictures/Pasted image 20230925221140.png",
-    "pictures/Pasted image 20230925220630.png",
-    "pictures/Pasted image 20230925220539.png",
-    "pictures/Pasted image 20230925220145.png",
-    "pictures/Pasted image 20230925215419.png",
     "Design de sistemas/licenças de software.md",
-    "GROSSÁRIO DE DESENVOLVEDOR.md",
-    "Git/Novo repositório.md",
-    "Git/Git init.md",
-    "Comandos terminal windows/Sem título.md",
     "Comandos terminal windows",
     "Comandps",
     "pdf/Múltiplas contas GIT no mesmo computador.pdf",
@@ -230,7 +259,6 @@
     "Sem título.canvas",
     "Sem título 3.canvas",
     "Sem título 2.canvas",
-    "Sem título 1.canvas",
-    "pictures"
+    "Sem título 1.canvas"
   ]
 }
