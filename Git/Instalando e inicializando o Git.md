@@ -127,3 +127,6 @@ git config --global --remove-section-texto(palavra errada)
 
 - Múltiplas contas do Git:
 ![[Múltiplas contas GIT no mesmo computador.pdf]]
+---
+# manual do git
+![[progit (1) 1.pdf]]

@@ -25,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Git branch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c44c3d129408b3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resolvendo conflitos do Merge.md",
+                "file": "Instalando e sincronizando com Github CLI.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "91fc6e7389fbd29e",
@@ -69,8 +57,33 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "4c44c3d129408b3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Sincronizando o repositório local com o GitHub com https.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d62528d255d3efab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Atualizando o arquivo remoto do gitHub.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resolvendo conflitos do Merge.md",
+                "file": "Instalando e sincronizando com Github CLI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resolvendo conflitos do Merge.md",
+                "file": "Instalando e sincronizando com Github CLI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resolvendo conflitos do Merge.md"
+                "file": "Instalando e sincronizando com Github CLI.md"
               }
             }
           },
@@ -208,35 +221,39 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "4c44c3d129408b3d",
+  "active": "2e219f332ab926e9",
   "lastOpenFiles": [
-    "Git/Git branch.md",
-    "Resolvendo conflitos do Merge.md",
-    "pictures/Pasted image 20230930130906.png",
-    "Git/ignore arquivos do gitHUb.md",
-    "Git/Instalando e inicializando o Git.md",
-    "Git/Modificações detalhadas(diff).md",
-    "Git/Sincronizando o repositório local com o GitHub.md",
+    "pictures/Pasted image 20231001223548.png",
     "Git/Voltando ao commit especifico.md",
+    "Git/Git branch.md",
+    "Git/Sincronizando o repositório local com o GitHub com https.md",
+    "Git/Resolvendo conflitos do Merge.md",
+    "Git/Modificações detalhadas(diff).md",
+    "Git/Instalando e inicializando o Git.md",
+    "Git/Criando novo branch.md",
+    "Git/Corrigindo mensagens do commit.md",
+    "Git/Conectando ao GitHub com ssh(desuso use cli).md",
+    "Git/Comandos.md",
+    "Git/Atualizando o arquivo remoto do gitHub.md",
+    "Git/Alterando repositório.md",
+    "pictures/progit (1) 1.pdf",
+    "pictures/progit (1).pdf",
+    "Instalando e sincronizando com Github CLI.md",
+    "pictures/Pasted image 20231001214531.png",
+    "pictures/Pasted image 20231001213214.png",
+    "Git/ignore arquivos do gitHUb.md",
+    "pictures/Pasted image 20231001212705.png",
+    "pictures/Pasted image 20231001212108.png",
+    "pictures/Pasted image 20231001211959.png",
+    "pictures/Pasted image 20231001211903.png",
+    "pictures/Pasted image 20230930130906.png",
     "Git/Vscode com Git.md",
     "Git/Revertendo modificações(git reset).md",
     "Git/REVERTENDO MODIFICAÇÕES.md",
     "pictures/Pasted image 20230930124530.png",
-    "Git/Corrigindo mensagens do commit.md",
     "Diferença git reset e revert.md",
-    "Git/Criando novo branch.md",
-    "Git/Conectando ao GitHub com ssh.md",
-    "Git/Comandos.md",
-    "Git/Atualizando o arquivo remoto do gitHub.md",
-    "Git/Alterando repositório.md",
     "pictures/Pasted image 20230930122927.png",
     "pictures/Pasted image 20230930122120.png",
-    "pictures/Pasted image 20230930121359.png",
-    "pictures/Pasted image 20230930120601.png",
-    "pictures/Pasted image 20230930112154.png",
-    "pictures/Pasted image 20230930111814.png",
-    "pictures/Pasted image 20230930111616.png",
-    "pictures/Pasted image 20230930110021.png",
     "Comandos do terminal do windows.md",
     "Git/Instalando o Git.md",
     "Design de sistemas/Prototipação.md",
@@ -245,8 +262,6 @@
     "Comandos Markdown.md",
     "Node/Importar bibliotecas de terceiros.md",
     "Cores Markedown.md",
-    "Design de sistemas/Arquitetura de software.md",
-    "Design de sistemas/licenças de software.md",
     "Comandos terminal windows",
     "Comandps",
     "pdf/Múltiplas contas GIT no mesmo computador.pdf",
@@ -254,8 +269,6 @@
     "pdf/Tutorial_criar_conta_000webhost_vf.pdf",
     "Git",
     "pdf/Não confirmado 339552.crdownload",
-    "pdf",
-    "Nova pasta",
     "Sem título.canvas",
     "Sem título 3.canvas",
     "Sem título 2.canvas",
