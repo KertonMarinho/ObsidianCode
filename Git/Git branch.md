@@ -60,3 +60,12 @@ git merge <nome da brunch que que juntar com a master>
 ```shell
 git branch -d <nome da branch que quer deletar>
 ```
+---
+# Enviando alterações na branch intermediária
+- vc pode fazer alteraçoes especificas na branch
+
+```shell
+git push origin main(branc mastare)
+//ou
+git push origin <nome da branc intermediária>
+```

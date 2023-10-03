@@ -18,6 +18,6 @@ git commit -am "mensagem"
 2. atualiza o github
 
 ```shell
-git push origin main
+git push origin
 ```
 

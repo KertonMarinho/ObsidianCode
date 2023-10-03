@@ -25,7 +25,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instalando e sincronizando com Github CLI.md",
+                "file": "Git/Alterando repositório.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db0df424faa3d5a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Recebendo alterações do github.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5dda673ae9a46758",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Recebendo alterações do github.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca29665e4b84686a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Git branch.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,46 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "91fc6e7389fbd29e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "06a5ef4cffb1e7bc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "4c44c3d129408b3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/Sincronizando o repositório local com o GitHub com https.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d62528d255d3efab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/Atualizando o arquivo remoto do gitHub.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -149,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Instalando e sincronizando com Github CLI.md",
+                "file": "Git/Git branch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Instalando e sincronizando com Github CLI.md",
+                "file": "Git/Git branch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Instalando e sincronizando com Github CLI.md"
+                "file": "Git/Git branch.md"
               }
             }
           },
@@ -221,24 +218,33 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "2e219f332ab926e9",
+  "active": "ca29665e4b84686a",
   "lastOpenFiles": [
+    "Git/Especifica um nome para um commit.md",
+    "pictures/Pasted image 20231002222006.png",
+    "Git/Recebendo alterações do github.md",
+    "Commitando no github.md",
+    "pictures/Pasted image 20231002220556.png",
+    "pictures/Pasted image 20231002220507.png",
+    "Git/Alterando repositório.md",
+    "Git/Atualizando o arquivo remoto do gitHub.md",
+    "Git/Conectando ao GitHub com ssh.md",
+    "Git/Instalando e sincronizando com Github CLI.md",
+    "Comandos Markdown.md",
+    "Git/Instalando e inicializando o Git.md",
+    "Git/Vscode com Git.md",
+    "GROSSÁRIO DE DESENVOLVEDOR.md",
     "pictures/Pasted image 20231001223548.png",
     "Git/Voltando ao commit especifico.md",
     "Git/Git branch.md",
     "Git/Sincronizando o repositório local com o GitHub com https.md",
     "Git/Resolvendo conflitos do Merge.md",
     "Git/Modificações detalhadas(diff).md",
-    "Git/Instalando e inicializando o Git.md",
     "Git/Criando novo branch.md",
     "Git/Corrigindo mensagens do commit.md",
-    "Git/Conectando ao GitHub com ssh(desuso use cli).md",
     "Git/Comandos.md",
-    "Git/Atualizando o arquivo remoto do gitHub.md",
-    "Git/Alterando repositório.md",
     "pictures/progit (1) 1.pdf",
     "pictures/progit (1).pdf",
-    "Instalando e sincronizando com Github CLI.md",
     "pictures/Pasted image 20231001214531.png",
     "pictures/Pasted image 20231001213214.png",
     "Git/ignore arquivos do gitHUb.md",
@@ -246,22 +252,12 @@
     "pictures/Pasted image 20231001212108.png",
     "pictures/Pasted image 20231001211959.png",
     "pictures/Pasted image 20231001211903.png",
-    "pictures/Pasted image 20230930130906.png",
-    "Git/Vscode com Git.md",
     "Git/Revertendo modificações(git reset).md",
     "Git/REVERTENDO MODIFICAÇÕES.md",
-    "pictures/Pasted image 20230930124530.png",
     "Diferença git reset e revert.md",
-    "pictures/Pasted image 20230930122927.png",
-    "pictures/Pasted image 20230930122120.png",
     "Comandos do terminal do windows.md",
     "Git/Instalando o Git.md",
-    "Design de sistemas/Prototipação.md",
     "pictures/Roteiro Utilizacao Figma.pdf",
-    "Design de sistemas/Ux -Use experientive.md",
-    "Comandos Markdown.md",
-    "Node/Importar bibliotecas de terceiros.md",
-    "Cores Markedown.md",
     "Comandos terminal windows",
     "Comandps",
     "pdf/Múltiplas contas GIT no mesmo computador.pdf",

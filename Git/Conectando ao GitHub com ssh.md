@@ -15,4 +15,7 @@ ssh-keygen -t rsa -b 4096 -C "kerton.marinho@outlook.com"
 ![[Pasted image 20230924212807.png]]
 4. Abre o arquivo ``id_rsa.pub ao terminal Bash`` no editor de texto
 5. No gitHub copie a chave ``settings/ssh and GPG keys/new ssh key/forneça  um titulo para a chave/cola a chave pública``
-6. 
+
+>[!warning]
+>tente usar o cli para autenticar via ssh
+
