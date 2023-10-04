@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Git branch.md",
+                "file": "Node/Export e import.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Git branch.md",
+                "file": "Node/Export e import.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Git branch.md",
+                "file": "Node/Export e import.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Git branch.md"
+                "file": "Node/Export e import.md"
               }
             }
           },
@@ -220,12 +220,27 @@
   },
   "active": "ca29665e4b84686a",
   "lastOpenFiles": [
+    "Node/Criando o primeiro projeto.md",
+    "Node/Importar bibliotecas de terceiros.md",
+    "Node/habilitar no shell do windows para rodar script.md",
+    "Node/Export e import.md",
+    "Node/Nodemon.md",
+    "pictures/Pasted image 20231003222811.png",
+    "pictures/Pasted image 20231003222705.png",
+    "pictures/Pasted image 20231003222620.png",
+    "pictures/Pasted image 20231003222518.png",
+    "Git/Git branch.md",
+    "Git/GitHub pages.md",
+    "pictures/Pasted image 20231003214835.png",
+    "pictures/Pasted image 20231003214236.png",
+    "Git/Clonando um repositório de terceiros.md",
+    "pictures/Pasted image 20231003213844.png",
+    "pictures/Pasted image 20231003213729.png",
+    "pictures/Pasted image 20231003213542.png",
+    "pictures/Pasted image 20231003213148.png",
     "Git/Especifica um nome para um commit.md",
-    "pictures/Pasted image 20231002222006.png",
     "Git/Recebendo alterações do github.md",
-    "Commitando no github.md",
-    "pictures/Pasted image 20231002220556.png",
-    "pictures/Pasted image 20231002220507.png",
+    "Git/Commitando no github.md",
     "Git/Alterando repositório.md",
     "Git/Atualizando o arquivo remoto do gitHub.md",
     "Git/Conectando ao GitHub com ssh.md",
@@ -234,9 +249,7 @@
     "Git/Instalando e inicializando o Git.md",
     "Git/Vscode com Git.md",
     "GROSSÁRIO DE DESENVOLVEDOR.md",
-    "pictures/Pasted image 20231001223548.png",
     "Git/Voltando ao commit especifico.md",
-    "Git/Git branch.md",
     "Git/Sincronizando o repositório local com o GitHub com https.md",
     "Git/Resolvendo conflitos do Merge.md",
     "Git/Modificações detalhadas(diff).md",
@@ -245,18 +258,6 @@
     "Git/Comandos.md",
     "pictures/progit (1) 1.pdf",
     "pictures/progit (1).pdf",
-    "pictures/Pasted image 20231001214531.png",
-    "pictures/Pasted image 20231001213214.png",
-    "Git/ignore arquivos do gitHUb.md",
-    "pictures/Pasted image 20231001212705.png",
-    "pictures/Pasted image 20231001212108.png",
-    "pictures/Pasted image 20231001211959.png",
-    "pictures/Pasted image 20231001211903.png",
-    "Git/Revertendo modificações(git reset).md",
-    "Git/REVERTENDO MODIFICAÇÕES.md",
-    "Diferença git reset e revert.md",
-    "Comandos do terminal do windows.md",
-    "Git/Instalando o Git.md",
     "pictures/Roteiro Utilizacao Figma.pdf",
     "Comandos terminal windows",
     "Comandps",
