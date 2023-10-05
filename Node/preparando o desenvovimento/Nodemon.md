@@ -12,4 +12,27 @@ npm install -g nodemon
 - 
 ![[Pasted image 20231003222811.png]]
 - agora ele monitora e atualiza a página automaticamente
-- 
+---
+# Usando o Nodemon com Typescript
+## Instalando a biblioteca TS Node
+
+````shell
+npm install -g ts-node
+````
+- pode cancelar o Nodemon de monitorar em tempo real
+- pode até tirar a pasta ``dist``
+- A partir de agora em vez de rodar o comando node ele vai rodar o comando ts-node
+
+---
+## Criando um script para rodar ts-node
+1. no arquivo ``package.jason`` 
+2. Em scripts
+![[Pasted image 20231004211941.png|500]]
+3. Pode tirar ``watch-ts`` 
+4. Substitua o start pelo ``"start-dev":"nodemon src/index.ts"
+5. Para rodar no terminal o script:
+6. 
+```shell
+npm rum start-dev
+```
+

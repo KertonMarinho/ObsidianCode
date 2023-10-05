@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3f59c60941ea39ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/ignore arquivos do gitHUb.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e219f332ab926e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/Alterando repositório.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "db0df424faa3d5a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Recebendo alterações do github.md",
+                "file": "Design de sistemas/Arquitetura de informação.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node/Export e import.md",
+                "file": "Design de sistemas/Arquitetura de informação.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node/Export e import.md",
+                "file": "Design de sistemas/Arquitetura de informação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node/Export e import.md",
+                "file": "Design de sistemas/Arquitetura de informação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node/Export e import.md"
+                "file": "Design de sistemas/Arquitetura de informação.md"
               }
             }
           },
@@ -218,13 +193,25 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "ca29665e4b84686a",
+  "active": "db0df424faa3d5a6",
   "lastOpenFiles": [
-    "Node/Criando o primeiro projeto.md",
-    "Node/Importar bibliotecas de terceiros.md",
-    "Node/habilitar no shell do windows para rodar script.md",
-    "Node/Export e import.md",
-    "Node/Nodemon.md",
+    "pictures/Pasted image 20231004225028.png",
+    "pictures/Pasted image 20231004224854.png",
+    "Cores Markedown.md",
+    "Design de sistemas/Arquitetura de informação.md",
+    "Design de sistemas/Arquitetura de software.md",
+    "Git/Recebendo alterações do github.md",
+    "Node/INSTALANDO O EXPRESS E CRIANDO UM SERVIDOR.md",
+    "Node/preparando o desenvovimento/Nodemon.md",
+    "Node/preparando o desenvovimento/Export e import.md",
+    "Node/preparando o desenvovimento",
+    "pictures/Pasted image 20231004213926.png",
+    "Comandos Markdown.md",
+    "pictures/Pasted image 20231004211941.png",
+    "Node/preparando o desenvovimento/Importar bibliotecas de terceiros.md",
+    "Node/preparando o desenvovimento/habilitar no shell do windows para rodar script.md",
+    "Node/preparando o desenvovimento/Criando o primeiro projeto.md",
+    "Node/Template engines/Template engines significado.md",
     "pictures/Pasted image 20231003222811.png",
     "pictures/Pasted image 20231003222705.png",
     "pictures/Pasted image 20231003222620.png",
@@ -235,27 +222,16 @@
     "pictures/Pasted image 20231003214236.png",
     "Git/Clonando um repositório de terceiros.md",
     "pictures/Pasted image 20231003213844.png",
-    "pictures/Pasted image 20231003213729.png",
-    "pictures/Pasted image 20231003213542.png",
-    "pictures/Pasted image 20231003213148.png",
     "Git/Especifica um nome para um commit.md",
-    "Git/Recebendo alterações do github.md",
     "Git/Commitando no github.md",
     "Git/Alterando repositório.md",
     "Git/Atualizando o arquivo remoto do gitHub.md",
     "Git/Conectando ao GitHub com ssh.md",
     "Git/Instalando e sincronizando com Github CLI.md",
-    "Comandos Markdown.md",
     "Git/Instalando e inicializando o Git.md",
     "Git/Vscode com Git.md",
     "GROSSÁRIO DE DESENVOLVEDOR.md",
     "Git/Voltando ao commit especifico.md",
-    "Git/Sincronizando o repositório local com o GitHub com https.md",
-    "Git/Resolvendo conflitos do Merge.md",
-    "Git/Modificações detalhadas(diff).md",
-    "Git/Criando novo branch.md",
-    "Git/Corrigindo mensagens do commit.md",
-    "Git/Comandos.md",
     "pictures/progit (1) 1.pdf",
     "pictures/progit (1).pdf",
     "pictures/Roteiro Utilizacao Figma.pdf",
@@ -265,7 +241,6 @@
     "Html e protocolos",
     "pdf/Tutorial_criar_conta_000webhost_vf.pdf",
     "Git",
-    "pdf/Não confirmado 339552.crdownload",
     "Sem título.canvas",
     "Sem título 3.canvas",
     "Sem título 2.canvas",

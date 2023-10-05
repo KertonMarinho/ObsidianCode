@@ -10,7 +10,7 @@
 
 <span style="color:yellow">yellow</span>.
 ```
-<span style="color:yellow">***</span>
+<span style="color:yellow">yellow</span>
 ```
 
 <span style="color:khaki">khaki</span>
