@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design de sistemas/Arquitetura de informação.md",
+                "file": "Node/Criando rotas.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design de sistemas/Arquitetura de informação.md",
+                "file": "Node/Criando rotas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design de sistemas/Arquitetura de informação.md",
+                "file": "Node/Criando rotas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design de sistemas/Arquitetura de informação.md"
+                "file": "Node/Criando rotas.md"
               }
             }
           },
@@ -195,33 +195,34 @@
   },
   "active": "db0df424faa3d5a6",
   "lastOpenFiles": [
+    "Node/INSTALANDO O EXPRESS E CRIANDO UM SERVIDOR.md",
+    "Node/Criando rotas.md",
+    "Design de sistemas/Arquitetura de informação.md",
+    "pictures/Pasted image 20231005215832.png",
+    "pictures/Pasted image 20231005214843.png",
+    "pictures/Pasted image 20231005214458.png",
+    "pictures/Pasted image 20231005214354.png",
+    "pictures/Pasted image 20231005214032.png",
+    "Comandos Markdown.md",
+    "Pasted image 20231005213627.png200.md",
+    "Cores Markedown.md",
+    "pictures/Pasted image 20231005213627.png",
+    "pictures/Pasted image 20231005211955.png",
     "pictures/Pasted image 20231004225028.png",
     "pictures/Pasted image 20231004224854.png",
-    "Cores Markedown.md",
-    "Design de sistemas/Arquitetura de informação.md",
     "Design de sistemas/Arquitetura de software.md",
     "Git/Recebendo alterações do github.md",
-    "Node/INSTALANDO O EXPRESS E CRIANDO UM SERVIDOR.md",
     "Node/preparando o desenvovimento/Nodemon.md",
     "Node/preparando o desenvovimento/Export e import.md",
     "Node/preparando o desenvovimento",
     "pictures/Pasted image 20231004213926.png",
-    "Comandos Markdown.md",
-    "pictures/Pasted image 20231004211941.png",
     "Node/preparando o desenvovimento/Importar bibliotecas de terceiros.md",
     "Node/preparando o desenvovimento/habilitar no shell do windows para rodar script.md",
     "Node/preparando o desenvovimento/Criando o primeiro projeto.md",
     "Node/Template engines/Template engines significado.md",
-    "pictures/Pasted image 20231003222811.png",
-    "pictures/Pasted image 20231003222705.png",
-    "pictures/Pasted image 20231003222620.png",
-    "pictures/Pasted image 20231003222518.png",
     "Git/Git branch.md",
     "Git/GitHub pages.md",
-    "pictures/Pasted image 20231003214835.png",
-    "pictures/Pasted image 20231003214236.png",
     "Git/Clonando um repositório de terceiros.md",
-    "pictures/Pasted image 20231003213844.png",
     "Git/Especifica um nome para um commit.md",
     "Git/Commitando no github.md",
     "Git/Alterando repositório.md",
@@ -231,7 +232,6 @@
     "Git/Instalando e inicializando o Git.md",
     "Git/Vscode com Git.md",
     "GROSSÁRIO DE DESENVOLVEDOR.md",
-    "Git/Voltando ao commit especifico.md",
     "pictures/progit (1) 1.pdf",
     "pictures/progit (1).pdf",
     "pictures/Roteiro Utilizacao Figma.pdf",

@@ -13,6 +13,7 @@ const server = express();
 5. Para gerar o servidor e escultar a porta
 ```ts
 server.listen(3000);
+//no final da página
 ```
 - Geralmente para aplicação Node usamos a porta 3000 (porta padrão para site http 80).
 - Para ter autocomplete, como alguma funcionalidades
