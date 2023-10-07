@@ -49,13 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cores Markedown.md",
+                "file": "Node/Criando rotas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -193,10 +194,11 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "db0df424faa3d5a6",
+  "active": "ddfbe9ea7504a094",
   "lastOpenFiles": [
-    "Node/INSTALANDO O EXPRESS E CRIANDO UM SERVIDOR.md",
+    "Cores Markedown.md",
     "Node/Criando rotas.md",
+    "Node/INSTALANDO O EXPRESS E CRIANDO UM SERVIDOR.md",
     "Design de sistemas/Arquitetura de informação.md",
     "pictures/Pasted image 20231005215832.png",
     "pictures/Pasted image 20231005214843.png",
@@ -205,7 +207,6 @@
     "pictures/Pasted image 20231005214032.png",
     "Comandos Markdown.md",
     "Pasted image 20231005213627.png200.md",
-    "Cores Markedown.md",
     "pictures/Pasted image 20231005213627.png",
     "pictures/Pasted image 20231005211955.png",
     "pictures/Pasted image 20231004225028.png",
