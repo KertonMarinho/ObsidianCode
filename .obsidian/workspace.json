@@ -49,7 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node/Criando rotas.md",
+                "file": "LINUX/Conceitos Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42236a6af0f5af66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cores Markedown.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node/Criando rotas.md",
+                "file": "LINUX/Conceitos Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node/Criando rotas.md",
+                "file": "LINUX/Conceitos Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node/Criando rotas.md"
+                "file": "LINUX/Conceitos Linux.md"
               }
             }
           },
@@ -196,8 +208,22 @@
   },
   "active": "ddfbe9ea7504a094",
   "lastOpenFiles": [
+    "LINUX/Comandos no terminal.md",
+    "LINUX/Comandos de sistemas.md",
+    "javascript/Funções.md",
+    "javascript/CONDICIONAL.md",
+    "javascript/Tópicos.md",
+    "javascript/manipulaçâo do Dom/Tópicos sobre o Dom.md",
     "Cores Markedown.md",
+    "javascript/Comentários.md",
+    "javascript/manipulaçâo do Dom/Formas de mostrar(output).md",
+    "javascript/manipulaçâo do Dom/Adicionar um conteúdo em uma class.md",
+    "javascript/Declaração de função.md",
+    "javascript/manipulaçâo do Dom/Adicionando uma imagem em uma tag do html.md",
+    "javascript/manipulaçâo do Dom/Clonar um item do html.md",
+    "javascript/manipulaçâo do Dom/Previnir atualização da tela.md",
     "Node/Criando rotas.md",
+    "Sem título",
     "Node/INSTALANDO O EXPRESS E CRIANDO UM SERVIDOR.md",
     "Design de sistemas/Arquitetura de informação.md",
     "pictures/Pasted image 20231005215832.png",
@@ -220,19 +246,6 @@
     "Node/preparando o desenvovimento/Importar bibliotecas de terceiros.md",
     "Node/preparando o desenvovimento/habilitar no shell do windows para rodar script.md",
     "Node/preparando o desenvovimento/Criando o primeiro projeto.md",
-    "Node/Template engines/Template engines significado.md",
-    "Git/Git branch.md",
-    "Git/GitHub pages.md",
-    "Git/Clonando um repositório de terceiros.md",
-    "Git/Especifica um nome para um commit.md",
-    "Git/Commitando no github.md",
-    "Git/Alterando repositório.md",
-    "Git/Atualizando o arquivo remoto do gitHub.md",
-    "Git/Conectando ao GitHub com ssh.md",
-    "Git/Instalando e sincronizando com Github CLI.md",
-    "Git/Instalando e inicializando o Git.md",
-    "Git/Vscode com Git.md",
-    "GROSSÁRIO DE DESENVOLVEDOR.md",
     "pictures/progit (1) 1.pdf",
     "pictures/progit (1).pdf",
     "pictures/Roteiro Utilizacao Figma.pdf",
@@ -241,7 +254,6 @@
     "pdf/Múltiplas contas GIT no mesmo computador.pdf",
     "Html e protocolos",
     "pdf/Tutorial_criar_conta_000webhost_vf.pdf",
-    "Git",
     "Sem título.canvas",
     "Sem título 3.canvas",
     "Sem título 2.canvas",
