@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LINUX/Conceitos Linux.md",
+                "file": "Node/preparando o desenvovimento/habilitar no shell do windows para rodar script.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LINUX/Conceitos Linux.md",
+                "file": "Node/preparando o desenvovimento/habilitar no shell do windows para rodar script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LINUX/Conceitos Linux.md",
+                "file": "Node/preparando o desenvovimento/habilitar no shell do windows para rodar script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LINUX/Conceitos Linux.md"
+                "file": "Node/preparando o desenvovimento/habilitar no shell do windows para rodar script.md"
               }
             }
           },
@@ -206,15 +206,21 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "ddfbe9ea7504a094",
+  "active": "def1af6ec34e20f0",
   "lastOpenFiles": [
+    "Node/Sem título.md",
+    "Node/Criando rotas.md",
+    "Node/INSTALANDO O EXPRESS E CRIANDO UM SERVIDOR.md",
+    "javascript/OBJETOS.md",
+    "Cores Markedown.md",
+    "javascript/Arrays.md",
+    "javascript/Funções.md",
+    "javascript/Tópicos.md",
+    "javascript/CONDICIONAL.md",
+    "LINUX/Conceitos Linux.md",
     "LINUX/Comandos no terminal.md",
     "LINUX/Comandos de sistemas.md",
-    "javascript/Funções.md",
-    "javascript/CONDICIONAL.md",
-    "javascript/Tópicos.md",
     "javascript/manipulaçâo do Dom/Tópicos sobre o Dom.md",
-    "Cores Markedown.md",
     "javascript/Comentários.md",
     "javascript/manipulaçâo do Dom/Formas de mostrar(output).md",
     "javascript/manipulaçâo do Dom/Adicionar um conteúdo em uma class.md",
@@ -222,9 +228,7 @@
     "javascript/manipulaçâo do Dom/Adicionando uma imagem em uma tag do html.md",
     "javascript/manipulaçâo do Dom/Clonar um item do html.md",
     "javascript/manipulaçâo do Dom/Previnir atualização da tela.md",
-    "Node/Criando rotas.md",
     "Sem título",
-    "Node/INSTALANDO O EXPRESS E CRIANDO UM SERVIDOR.md",
     "Design de sistemas/Arquitetura de informação.md",
     "pictures/Pasted image 20231005215832.png",
     "pictures/Pasted image 20231005214843.png",
@@ -240,12 +244,8 @@
     "Design de sistemas/Arquitetura de software.md",
     "Git/Recebendo alterações do github.md",
     "Node/preparando o desenvovimento/Nodemon.md",
-    "Node/preparando o desenvovimento/Export e import.md",
     "Node/preparando o desenvovimento",
     "pictures/Pasted image 20231004213926.png",
-    "Node/preparando o desenvovimento/Importar bibliotecas de terceiros.md",
-    "Node/preparando o desenvovimento/habilitar no shell do windows para rodar script.md",
-    "Node/preparando o desenvovimento/Criando o primeiro projeto.md",
     "pictures/progit (1) 1.pdf",
     "pictures/progit (1).pdf",
     "pictures/Roteiro Utilizacao Figma.pdf",

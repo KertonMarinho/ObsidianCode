@@ -70,7 +70,7 @@
 - [ ] manutenibilidade(é fácil de fazer modificações e correções)
 
 <span style="color: yellow">Processos</span>
-* ver [[comandos de processos]] Linux
+* ver [[Comandos de processos]] Linux
 
 <span style="color:aquamarine">Repositório de gerenciamento de configuração</span>
 * Ou sistema de controle de versão

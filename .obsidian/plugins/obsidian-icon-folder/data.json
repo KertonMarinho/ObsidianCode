@@ -22,14 +22,9 @@
     },
     "iconInTabsEnabled": true
   },
-  "LINUX/Terminologia Linux.md": "FabDev",
   "javascript": {
     "iconName": "OiFileTypeJsOfficialIcon130509",
     "inheritanceIcon": "OiFileTypeJsOfficialIcon130509"
-  },
-  "Node": {
-    "iconName": "OiFileTypeNodeIcon130301",
-    "inheritanceIcon": "OiFileTypeNodeIcon130301"
   },
   "LINUX": {
     "iconName": "OiLinuxOriginalLogoIcon146433",
@@ -52,5 +47,10 @@
   },
   "pdf": "OiPdf",
   "pictures": "OiImgFiletypeIcon151817",
-  "Comandos do terminal do windows.md": "OiTerminalWindowIcon143500"
+  "Comandos do terminal do windows.md": "OiTerminalWindowIcon143500",
+  "Node": {
+    "iconName": "OiFileTypeNodeIcon130301",
+    "inheritanceIcon": "OiFileTypeNodeIcon130301"
+  },
+  "LINUX/Terminologia Linux.md": "FabDev"
 }
