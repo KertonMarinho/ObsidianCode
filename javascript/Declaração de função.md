@@ -1,5 +1,5 @@
 <span style="color:khaki">Function horsting</span>   
-Todas as funções serão elevadas oara o topo do na hora da execução.
+Todas as funções serão elevadas para o topo do na hora da execução.
 
 ```js
 falaOI();

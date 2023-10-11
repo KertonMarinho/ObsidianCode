@@ -43,4 +43,124 @@ ingredientes.unshift('ovo');
 ```js
 let carros['palio', 'monza',function(){...},'uno'];
 ```
-- para chamar ``carros[2]();
+- para chamar a função dentro do Array
+```js
+carros[2]();
+```
+---
+## <span style="color:yellow">JOIN</span>
+- Gera uma string 
+- O método **`join`**() junta todos os elementos de um array em uma string e retorna esta string.
+- Específica uma string para separar cada elemento adjacente do array. O separador é convertido em uma string se necessário. Se omitido, os elementos do array são separados com uma vírgula (","). Se o for uma string vazia, todos os elementos são juntados sem nenhum caracter entre eles.`separador`
+```js
+let fruits = ['maça', 'uva', 'laranja', 'banana'];
+console.log(',');
+//maça,uva,laranja,,banana
+console.log('-');
+//maça-uva-laranja-banana
+//obs: join gera um array, tem que salvar em algun lugar
+```
+---
+### Alterar  o último item será saber quantos itens tem:
+```js
+let fruits = ['maça', 'uva', 'laranja' ,'banana'];
+fruits[fruits.length - 1] = pêra;
+console.log(fruits);
+//['maça', 'uva', 'laranja', 'banana']
+```
+---
+## <span style="color:yellow">SORT</span>
+- Coloca uma array em ordem alfabetica
+```js
+let fruits = ['maça', 'uva', 'laranja', 'banana'];
+fruits.sort();
+console.log(fruits);
+//['banana', 'laranja', 'maça', 'uva'];
+```
+---
+## <span style="color:yellow">REVERSE</span>
+- Inverte o  array
+```js
+let fruits = ['maça', 'uva', 'laranja', 'banana'];
+fruits.reverse();
+//['banana', 'laranja', 'uva', 'maça'];
+```
+---
+# Ordenação de array
+- Ordenar um array com objetos
+```js
+let cars = [
+	{brand: 'fiat', year: 2022},
+	{brand: 'bmw', year: 2018},
+	{brand: 'bmw', year: 2018},
+]
+cars.sort((a,b) => {  //item a (item da vez) e o próximo item
+	if(a.year > b.year) {
+		return 1;
+	} else if (a.year < b.year) {
+		return -1;
+	} else {
+		return 0;
+	}
+});
+console.log(cars);
+//{brand: 'bmw', year: 2018},
+//{brand: 'bmw', year: 2018},
+//{brand: 'fiat', year: 2022},
+```
+>[!info]
+>function comparar(a, b) {
+  > if (a é menor que b em algum critério de ordenação) {
+   >  return -1;
+  > }
+  >if (a é maior que b em algum critério de ordenação) {
+   > return 1;
+  >}
+  >// a deve ser igual a b
+  >return 0;
+>}
+[Array.prototype.sort() - JavaScript | MDN (mozilla.org)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/sort#descri%C3%A7%C3%A3o)
+- simplificando:
+
+```js
+let cars = [
+	{brand: 'fiat', year: 2022},
+	{brand: 'bmw', year: 2018},
+	{brand: 'bmw', year: 2018},
+]
+cars.sort((a,b) => {  //item a (item da vez) e o próximo item
+	return a.year - b.year;
+});
+console.log(cars);
+//{brand: 'bmw', year: 2018},
+//{brand: 'bmw', year: 2018},
+//{brand: 'fiat', year: 2022},
+```
+- simplificando mais ainda:
+```js
+cars.sort((a,b) => a.year - b.year);
+```
+---
+# INTERAÇÃO COM ARRAY
+## <span style="color:yellow">FILTER</span>
+- O método **`filter()`** cria um novo array com todos os elementos que passaram no teste implementado pela função fornecida.
+- Roda a função e ele vai retornar true ou  false, se ele retornar false ele não aproveita esse item do array
+```JS
+let fruits = ['banana', 'laranja', 'maça', 'pêra'];
+let bigFruits = fruits.filter((item) => {
+	if(item.length > 4) {
+		return true;
+	}else {
+		return false;
+	}
+});
+console.log(bigFruits);
+//['banana','laranja']
+```
+- simplificando:
+```js
+let bigFruits = fruits.filter((item) => item.length > 4;
+```
+- filter pode ter ``filter(value,index,array)
+---
+## <span style="color:yellow">EVERY</span>
