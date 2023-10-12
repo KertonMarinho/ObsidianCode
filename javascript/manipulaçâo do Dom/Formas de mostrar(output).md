@@ -1,4 +1,4 @@
-1. Pelo IdManipulação de um elemento
+1. Pelo Id Manipulação de um elemento
 
 ```js
 document.getElementById("titulo").innerHTML="texto";

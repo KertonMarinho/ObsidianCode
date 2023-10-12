@@ -164,3 +164,43 @@ let bigFruits = fruits.filter((item) => item.length > 4;
 - filter pode ter ``filter(value,index,array)
 ---
 ## <span style="color:yellow">EVERY</span>
+- significa todos
+- O método `every()` testa se todos os elementos do array passam pelo teste implementado pela função fornecida. Este método retorna um valor booleano.
+```js
+let fruits = ['banana', 'laranja' ,'maça', 'pera'];
+let ok = fruits.every((value)) => {
+	return value.length > 3;
+});
+if(ok){
+	console.log('Todos ão maiores que três');
+} else {
+	console.log('Não são maiores que três');
+}
+```
+## <span style="color:yellow">Some</span>
+- Significa alguns
+- O método **`some()`** testa se ao menos um dos elementos no array passa no teste implementado pela função atribuída e retorna um valor **`true`** ou **`false`**.
+```js
+js
+let fruits = ['banana', 'laranja' ,'maça', 'pera'];
+let ok = fruits.some((value)) => {
+	return value.length > 3;
+});
+if(ok){
+	console.log('Alguns itens são maiores que três');
+} else {
+	console.log('Alguns itens Não são maiores que três');
+}
+
+```
+----
+## <span style="color:yellow">Includes</span>
+- O método determina se um array contém um determinado elemento, retornando ou apropriadamente.`includes()``true``false`
+```js
+let fruits = ['banana', 'laranja' ,'maça', 'pera'];
+if (fruits.includes(úva)){
+	console.log('Tem uva sim!');
+} else {
+	console.log('Não tem uva!');
+}
+```

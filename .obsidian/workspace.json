@@ -8,53 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "db0df424faa3d5a6",
+            "id": "5b01503d5467d8fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node/Criando rotas.md",
+                "file": "javascript/manipulaçâo do Dom/manipulação de elementos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5dda673ae9a46758",
+            "id": "7f47eb34c1f82527",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Recebendo alterações do github.md",
+                "file": "Algonania/Big(o).md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "ca29665e4b84686a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design de sistemas/Arquitetura de informação.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ddfbe9ea7504a094",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "javascript/Arrays.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "30d99efb8ccd3259",
+        "type": "tabs",
+        "children": [
           {
             "id": "53c80b0f3b33c6f7",
             "type": "leaf",
@@ -62,6 +45,18 @@
               "type": "markdown",
               "state": {
                 "file": "Comandos Markdown.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2428b4c9da36c4e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "javascript/manipulaçâo do Dom/Tópicos sobre o Dom.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/Arrays.md",
+                "file": "Algonania/Big(o).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "javascript/Arrays.md",
+                "file": "Algonania/Big(o).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javascript/Arrays.md"
+                "file": "Algonania/Big(o).md"
               }
             }
           },
@@ -218,18 +213,32 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "ddfbe9ea7504a094",
+  "active": "def1af6ec34e20f0",
   "lastOpenFiles": [
+    "Algonania",
+    "Cores Markedown.md",
+    "Algonania/Big(o).md",
+    "javascript/manipulaçâo do Dom/manipulação de elementos.md",
+    "pictures/Pasted image 20231012102216.png",
     "Comandos Markdown.md",
+    "javascript/manipulaçâo do Dom/Tópicos sobre o Dom.md",
+    "pictures/Pasted image 20231012091322.png",
+    "pictures/Pasted image 20231012090939.png",
+    "javascript/manipulaçâo do Dom/Eventos de clique.md",
+    "javascript/manipulaçâo do Dom/Selecionando elementos.md",
+    "javascript/manipulaçâo do Dom/Formas de mostrar(output).md",
+    "pictures/Pasted image 20231012080203.png",
+    "pictures/Pasted image 20231012080006.png",
+    "Design de sistemas/Arquitetura de informação.md",
+    "javascript/manipulaçâo do Dom/Previnir atualização da tela.md",
+    "javascript/manipulaçâo do Dom/Adicionar um conteúdo em uma class.md",
     "javascript/Arrays.md",
     "javascript/CONDICIONAL.md",
     "javascript/Declaração de função.md",
     "javascript/LOOPS.md",
-    "Cores Markedown.md",
     "Node/Criando o 404 (página não encontrada).md",
     "Node/Template engines/Template engines significado.md",
     "javascript/OBJETOS.md",
-    "Design de sistemas/Arquitetura de informação.md",
     "LINUX/Redirecionamento de saída.md",
     "Node/Criando rotas.md",
     "Node/INSTALANDO O EXPRESS E CRIANDO UM SERVIDOR.md",
@@ -237,27 +246,13 @@
     "javascript/Tópicos.md",
     "LINUX/Conceitos Linux.md",
     "LINUX/Comandos no terminal.md",
-    "LINUX/Comandos de sistemas.md",
-    "javascript/manipulaçâo do Dom/Tópicos sobre o Dom.md",
-    "javascript/Comentários.md",
-    "javascript/manipulaçâo do Dom/Formas de mostrar(output).md",
-    "javascript/manipulaçâo do Dom/Adicionar um conteúdo em uma class.md",
-    "javascript/manipulaçâo do Dom/Adicionando uma imagem em uma tag do html.md",
-    "javascript/manipulaçâo do Dom/Clonar um item do html.md",
-    "javascript/manipulaçâo do Dom/Previnir atualização da tela.md",
     "Sem título",
     "pictures/Pasted image 20231005215832.png",
     "pictures/Pasted image 20231005214843.png",
     "pictures/Pasted image 20231005214458.png",
     "pictures/Pasted image 20231005214354.png",
     "pictures/Pasted image 20231005214032.png",
-    "Pasted image 20231005213627.png200.md",
-    "pictures/Pasted image 20231005213627.png",
-    "pictures/Pasted image 20231005211955.png",
-    "pictures/Pasted image 20231004225028.png",
-    "pictures/Pasted image 20231004224854.png",
     "Node/preparando o desenvovimento",
-    "pictures/Pasted image 20231004213926.png",
     "pictures/progit (1) 1.pdf",
     "pictures/progit (1).pdf",
     "pictures/Roteiro Utilizacao Figma.pdf",
