@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "beffb6f93b3b55bc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "30d99efb8ccd3259",
@@ -225,7 +235,7 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "4db8ae2ae811e803",
+  "active": "beffb6f93b3b55bc",
   "lastOpenFiles": [
     "javascript/manipulaçâo do Dom/Manipulando o css.md",
     "Site help or works.md",
