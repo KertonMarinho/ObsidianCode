@@ -37,24 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Site help or works.md",
+                "file": "Node/preparando o desenvovimento/Criando pastas públicas.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "beffb6f93b3b55bc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "30d99efb8ccd3259",
@@ -163,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Site help or works.md",
+                "file": "Node/preparando o desenvovimento/Criando pastas públicas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Site help or works.md",
+                "file": "Node/preparando o desenvovimento/Criando pastas públicas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Site help or works.md"
+                "file": "Node/preparando o desenvovimento/Criando pastas públicas.md"
               }
             }
           },
@@ -235,47 +225,47 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "beffb6f93b3b55bc",
+  "active": "4db8ae2ae811e803",
   "lastOpenFiles": [
-    "javascript/manipulaçâo do Dom/Manipulando o css.md",
-    "Site help or works.md",
-    "Sites wokrs",
-    "javascript/manipulaçâo do Dom/Adicionando uma imagem em uma tag do html.md",
-    "javascript/manipulaçâo do Dom/MANIPULANDO ATRIBUTOS.md",
-    "javascript/manipulaçâo do Dom/Sem título",
+    "pictures/Pasted image 20231015220905.png",
+    "pictures/Pasted image 20231015220311.png",
+    "pictures/Pasted image 20231015220124.png",
+    "javascript/manipulaçâo do Dom/Eventos do teclado.md",
+    "Node/preparando o desenvovimento/Criando pastas públicas.md",
     "Cores Markedown.md",
+    "pictures/Pasted image 20231015212555.png",
+    "javascript/manipulaçâo do Dom/Eventos de clique.md",
+    "javascript/manipulaçâo do Dom/classes.md",
+    "pictures/Pasted image 20231015102659.png",
+    "javascript/manipulaçâo do Dom/Tópicos sobre o Dom.md",
+    "javascript/OBJETOS.md",
+    "javascript/Arrays.md",
+    "javascript/manipulaçâo do Dom/Adicionando uma imagem em uma tag do html.md",
     "javascript/manipulaçâo do Dom/Adicionar um conteúdo em uma class.md",
     "javascript/manipulaçâo do Dom/Clonar um item do html.md",
-    "javascript/manipulaçâo do Dom/Eventos de clique.md",
-    "javascript/manipulaçâo do Dom/Formas de mostrar(output).md",
-    "javascript/manipulaçâo do Dom/Selecionando elementos.md",
     "javascript/manipulaçâo do Dom/manipulação de elementos.md",
-    "javascript/Arrays.md",
+    "javascript/manipulaçâo do Dom/MANIPULANDO ATRIBUTOS.md",
+    "javascript/manipulaçâo do Dom/Previnir atualização da tela.md",
+    "javascript/manipulaçâo do Dom/Selecionando elementos.md",
+    "javascript/Tópicos.md",
+    "javascript/CONDICIONAL.md",
+    "javascript/Declaração de função.md",
+    "javascript/Funções.md",
+    "javascript/manipulaçâo do Dom/Formas de mostrar(output).md",
+    "Site help or works.md",
+    "javascript/manipulaçâo do Dom/Manipulando o css.md",
+    "Sites wokrs",
+    "javascript/manipulaçâo do Dom/Sem título",
     "Algomania",
     "Algomania/Big(o).md",
     "pictures/Pasted image 20231012102216.png",
     "Comandos Markdown.md",
-    "javascript/manipulaçâo do Dom/Tópicos sobre o Dom.md",
     "pictures/Pasted image 20231012091322.png",
     "pictures/Pasted image 20231012090939.png",
     "pictures/Pasted image 20231012080203.png",
     "pictures/Pasted image 20231012080006.png",
     "Design de sistemas/Arquitetura de informação.md",
-    "javascript/manipulaçâo do Dom/Previnir atualização da tela.md",
-    "javascript/CONDICIONAL.md",
-    "javascript/Declaração de função.md",
-    "javascript/LOOPS.md",
-    "Node/Criando o 404 (página não encontrada).md",
-    "Node/Template engines/Template engines significado.md",
-    "javascript/OBJETOS.md",
-    "LINUX/Redirecionamento de saída.md",
-    "Node/Criando rotas.md",
-    "Node/INSTALANDO O EXPRESS E CRIANDO UM SERVIDOR.md",
     "pictures/Pasted image 20231005215832.png",
-    "pictures/Pasted image 20231005214843.png",
-    "pictures/Pasted image 20231005214458.png",
-    "pictures/Pasted image 20231005214354.png",
-    "pictures/Pasted image 20231005214032.png",
     "Node/preparando o desenvovimento",
     "pictures/progit (1) 1.pdf",
     "pictures/progit (1).pdf",
