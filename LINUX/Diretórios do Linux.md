@@ -19,7 +19,8 @@
 ```bash
 /dev
 ```
-* devices(dispositovos)
+- representar dispositivos de hardware presentes no sistema
+* devices(dispositivos)
 * Onde encontra-se os arquivos do seu hardware. Discos, sons, câmera e etc
 * Para acessar a unidade de discos /dev/sda1 (o número final varia de acordo com a partição do disco)
 
@@ -28,6 +29,7 @@
 ```bash
 /etc
 ```
+- usado para armazenar arquivos de configuração do sistema e de programas instalados no sistema
 * et cetera
 * Mantém as config. gerais do sistemas para todos os usuários
 

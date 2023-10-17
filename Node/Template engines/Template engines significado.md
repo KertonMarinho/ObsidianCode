@@ -1,6 +1,8 @@
-é uma ferramenta que ajuda a criar e renderizar páginas da web dinâmicas. Ela permite que você combine dados (como informações de um banco de dados) com um modelo ou template HTML predefinido para gerar páginas da web completas de forma programática.
-
-As template engines em Node.js são particularmente úteis quando você está construindo aplicativos da web que precisam exibir informações dinâmicas aos usuários, como blogs, sites de comércio eletrônico, fóruns, etc. Em vez de escrever manualmente HTML com todos os dados incorporados, você pode usar uma template engine para inserir automaticamente os dados nos lugares certos do modelo.
+(motores de Templates)
+- É uma ferramenta que ajuda a criar e renderizar páginas da web dinâmicas.
+- Ela permite que você combine dados (como informações de um banco de dados) com um modelo ou template HTML predefinido para gerar páginas da web completas de forma programática.
+---
+- As template engines em Node.js são particularmente úteis quando você está construindo aplicativos da web que precisam exibir informações dinâmicas aos usuários, como blogs, sites de comércio eletrônico, fóruns, etc. Em vez de escrever manualmente HTML com todos os dados incorporados, você pode usar uma template engine para inserir automaticamente os dados nos lugares certos do modelo.
 
 Alguns exemplos populares de template engines em Node.js incluem:
 
@@ -13,7 +15,8 @@ Alguns exemplos populares de template engines em Node.js incluem:
 4. **Nunjucks**: Esta template engine é inspirada na linguagem de templates do Jinja2 (usada em Python) e é muito poderosa e flexível.
     
 5. [[mustache (instalação)]]: Mustache é uma template engine minimalista que está disponível em várias linguagens de programação, incluindo JavaScript. É conhecida por sua simplicidade e portabilidade.
-    
+6. **Edge** 
+	- Adonis utiliza este template
 
 Quando você escolhe uma template engine para o seu projeto Node.js, geralmente instala o pacote correspondente usando o gerenciador de pacotes npm (Node Package Manager) e, em seguida, configura-o para renderizar os modelos HTML conforme necessário em suas rotas e controladores.
 
