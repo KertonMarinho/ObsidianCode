@@ -1,11 +1,28 @@
-1°- No terminal:
-<span style="color:yellow">c:\...>npm install mustache -express</span>
+1.  No terminal:
+```shell
+npm install mustache-express
+```
 
-2°- Instale o typescript do Mustache
-<span style="color:yellow">c:\...>npm install --savedev @types/mustache-express</span>
+2.  Instale o typescript do Mustache na dependência de desenvolvimento
+```shell
+npm install --savedev @types/mustache-express
+```
+- <span style="color:brown">obs:</span> Tem que estar nas dependência de desenvolvimento no arquivo ``package.json``caso contrario pode  recorte e colar no local certo como na figura:
+![[Pasted image 20231018224756.png|300]]
+---
+# Mustache (configuração)
 
-3° - importando o Mustache no código:
-<span style="color:yellow">import mustache from mustache-express;</.span>
+1.  importando o Mustache no código:
+- Lembrando que quando importar coloque os itens do node module primeiro depois os itens da aplicação.
+```ts
+import mustache from mustache-express;
+```
+![[Pasted image 20231018225321.png|300]]
+
+
+parou no -07:57 
+
+---
 
 4° - configuração:
 no arquivo server.ts, logo depois do servidor(inicialização do express)

@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node/Template engines/Template engines significado.md",
+                "file": "Node/Template engines/Mustache (instalação).md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node/Template engines/Template engines significado.md",
+                "file": "Node/Template engines/Mustache (instalação).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node/Template engines/Template engines significado.md",
+                "file": "Node/Template engines/Mustache (instalação).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node/Template engines/Template engines significado.md"
+                "file": "Node/Template engines/Mustache (instalação).md"
               }
             }
           },
@@ -214,35 +214,36 @@
   },
   "active": "99f98f7ed370a3f0",
   "lastOpenFiles": [
+    "pictures/Pasted image 20231018225321.png",
     "Cores Markedown.md",
+    "Node/Template engines/Mustache (instalação).md",
+    "pictures/Pasted image 20231018224756.png",
+    "Git/Git branch.md",
+    "Git/Criando novo branch.md",
+    "Git/Corrigindo mensagens do commit.md",
+    "Git/Conectando ao GitHub com ssh.md",
+    "Git/Commitando no github.md",
+    "Git/Comandos.md",
+    "Git/Clonando um repositório de terceiros.md",
+    "Git/Alterando repositório.md",
+    "Node/INSTALANDO O EXPRESS E CRIANDO UM SERVIDOR.md",
+    "Node/Criando rotas.md",
+    "Node/Criando o 404 (página não encontrada).md",
     "Node/Template engines/Template engines significado.md",
     "javascript/Orientação a Objetos.md",
+    "Site help or works.md",
     "Design de sistemas/Arquitetura de software.md",
     "Design de sistemas/Arquitetura de informação.md",
     "LINUX/Comandos de acesso e permissões.md",
-    "Git/Commitando no github.md",
-    "Git/Criando novo branch.md",
     "LINUX/Diretórios do Linux.md",
-    "Git/Clonando um repositório de terceiros.md",
-    "Git/Comandos.md",
     "LINUX/Comando de manipulação de diretórios.md",
     "LINUX/Comandos de processos.md",
     "LINUX/Comandos de sistemas.md",
     "LINUX/Comandos no terminal.md",
     "LINUX/Terminologia Linux.md",
-    "LINUX/Conceitos Linux.md",
-    "LINUX/Compactadores de arquivos.md",
-    "LINUX/Comandos de gerenciamentos de pacotes(Ubunto).md",
-    "LINUX/Redirecionamento de saída.md",
-    "Comandos Markdown.md",
-    "javascript/manipulaçâo do Dom/Tópicos sobre o Dom.md",
-    "Design de sistemas/licenças de software.md",
-    "Design de sistemas/Prototipação.md",
-    "Node/preparando o desenvovimento/Criando pastas públicas.md",
     "pictures/Pasted image 20231015220905.png",
     "pictures/Pasted image 20231015220311.png",
     "pictures/Pasted image 20231015220124.png",
-    "javascript/manipulaçâo do Dom/Eventos do teclado.md",
     "pictures/Pasted image 20231015212555.png",
     "pictures/Pasted image 20231015102659.png",
     "Sites wokrs",
@@ -252,7 +253,6 @@
     "pictures/Pasted image 20231012091322.png",
     "pictures/Pasted image 20231012090939.png",
     "pictures/Pasted image 20231012080203.png",
-    "pictures/Pasted image 20231012080006.png",
     "Node/preparando o desenvovimento",
     "pictures/progit (1) 1.pdf",
     "pictures/progit (1).pdf",
