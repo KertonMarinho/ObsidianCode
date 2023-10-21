@@ -49,32 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node/Template engines/Mustache (instalação).md",
+                "file": "Algomania/Big(o).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "730d9732f953b507",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "javascript/Orientação a Objetos.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "777c98dbd7f1f9b3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "09fce7a2e754054b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cores Markedown.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -140,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node/Template engines/Mustache (instalação).md",
+                "file": "javascript/Orientação a Objetos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node/Template engines/Mustache (instalação).md",
+                "file": "javascript/Orientação a Objetos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node/Template engines/Mustache (instalação).md"
+                "file": "javascript/Orientação a Objetos.md"
               }
             }
           },
@@ -212,11 +206,21 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "99f98f7ed370a3f0",
+  "active": "730d9732f953b507",
   "lastOpenFiles": [
-    "pictures/Pasted image 20231018225321.png",
+    "javascript/manipulaçâo do Dom/classes.md",
+    "Challenge.md",
     "Cores Markedown.md",
+    "Algomania/Big(o).md",
+    "Comandos Markdown.md",
+    "pictures/Pasted image 20231021080815.png",
+    "pictures/Pasted image 20231021080328.png",
     "Node/Template engines/Mustache (instalação).md",
+    "pictures/Pasted image 20231019225325.png",
+    "pictures/Pasted image 20231019225216.png",
+    "pictures/Pasted image 20231019224823.png",
+    "pictures/Pasted image 20231019223005.png",
+    "pictures/Pasted image 20231018225321.png",
     "pictures/Pasted image 20231018224756.png",
     "Git/Git branch.md",
     "Git/Criando novo branch.md",
@@ -238,21 +242,11 @@
     "LINUX/Diretórios do Linux.md",
     "LINUX/Comando de manipulação de diretórios.md",
     "LINUX/Comandos de processos.md",
-    "LINUX/Comandos de sistemas.md",
-    "LINUX/Comandos no terminal.md",
-    "LINUX/Terminologia Linux.md",
     "pictures/Pasted image 20231015220905.png",
     "pictures/Pasted image 20231015220311.png",
-    "pictures/Pasted image 20231015220124.png",
-    "pictures/Pasted image 20231015212555.png",
-    "pictures/Pasted image 20231015102659.png",
     "Sites wokrs",
     "javascript/manipulaçâo do Dom/Sem título",
     "Algomania",
-    "pictures/Pasted image 20231012102216.png",
-    "pictures/Pasted image 20231012091322.png",
-    "pictures/Pasted image 20231012090939.png",
-    "pictures/Pasted image 20231012080203.png",
     "Node/preparando o desenvovimento",
     "pictures/progit (1) 1.pdf",
     "pictures/progit (1).pdf",

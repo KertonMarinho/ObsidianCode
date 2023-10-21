@@ -68,3 +68,5 @@ function clicou(){
 		button.classList.replace('verde','azul');
 	}
 ```
+----
+

@@ -24,7 +24,7 @@ class Person{
 }
 ```
 ---
-### <span style="color:yellow">Instânciando classes</span>
+# Instânciando classes
 ```js
 class person...
 }
@@ -33,4 +33,33 @@ let p1 = new person("joào"); //no caso do construtor o this seria p1
 //para trocar o nome da propriedade da classe
 p1.person = "maria";
 
+```
+---
+# classes: Action
+- Cria ações que usuário pode fazer
+```js
+class Person {
+	age = 0;
+	steps = 0;
+
+	constructor(name) {
+		this.name = name;
+	}
+	takeAstep(){
+		this.steps++;
+	}
+	steAge (newAge){
+		this.age = newAge;
+		} else {
+			console.log('idade não aceita.('só números)')};
+	}
+}
+let p1 = new Person('João');
+let p2 = new Person('Maria');
+let p3 = new Person('Pedro');
+
+p1.setAge(20);
+
+console.log(`${p1.name} tem {p1.age}`);
+//João tem 20 anos
 ```
