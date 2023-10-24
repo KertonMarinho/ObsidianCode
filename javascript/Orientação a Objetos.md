@@ -122,3 +122,22 @@ p1.sayHi(;
 //Oi, eu so Kerton e tenho duas mãos
 ```
 - A função static ela é independente e tudo que tem dentro dela também é independente
+---
+# CLASSES: FACTORY
+- Factory cria uma instância ou objeto do que aquilo que quero criar
+```js
+class Person {
+	age = 0;
+	constructor(name){
+		this.name = name;
+	}
+}
+function createPerson(name, age){
+	let p = new Person(name);
+	p.age = age;
+	return p;
+}
+let p1 = createPerson('kerton',90);
+console.log(`${p1.name} tem ${p1.age}anos.`);
+//Kerton tem 90 anos
+```

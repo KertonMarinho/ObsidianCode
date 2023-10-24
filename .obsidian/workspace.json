@@ -8,67 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5b01503d5467d8fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "javascript/manipulaçâo do Dom/manipulação de elementos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f47eb34c1f82527",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "javascript/manipulaçâo do Dom/Manipulando o css.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4db8ae2ae811e803",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design de sistemas/Arquitetura de software.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99f98f7ed370a3f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algomania/Big(o).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "730d9732f953b507",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/Orientação a Objetos.md",
+                "file": "Design de sistemas/TÓPICOS DE DESIGN DE SISTEMAS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
+      },
+      {
+        "id": "3fcd2067db745dbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66ef514c6036a371",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cores Markedown.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 285.5,
+    "collapsed": true
   },
   "right": {
     "id": "45a19557c081b852",
@@ -134,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/Orientação a Objetos.md",
+                "file": "Design de sistemas/TÓPICOS DE DESIGN DE SISTEMAS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "javascript/Orientação a Objetos.md",
+                "file": "Design de sistemas/TÓPICOS DE DESIGN DE SISTEMAS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javascript/Orientação a Objetos.md"
+                "file": "Design de sistemas/TÓPICOS DE DESIGN DE SISTEMAS.md"
               }
             }
           },
@@ -208,40 +178,40 @@
   },
   "active": "730d9732f953b507",
   "lastOpenFiles": [
-    "javascript/OBJETOS.md",
+    "Cores Markedown.md",
+    "Design de sistemas/TÓPICOS DE DESIGN DE SISTEMAS.md",
+    "javascript/manipulaçâo do Dom/manipulação de elementos.md",
+    "javascript/manipulaçâo do Dom/Manipulando o css.md",
+    "Algomania/Big(o).md",
     "javascript/Orientação a Objetos.md",
+    "javascript/OBJETOS.md",
+    "LINUX/Comandos de acesso e permissões.md",
+    "LINUX/Conceitos Linux.md",
+    "LINUX/Redirecionamento de saída.md",
+    "LINUX/Terminologia Linux.md",
+    "Design de sistemas/Arquitetura de informação.md",
+    "Design de sistemas/Arquitetura de software.md",
+    "Design de sistemas/licenças de software.md",
+    "Design de sistemas/Prototipação.md",
+    "Design de sistemas/Ux -Use experientive.md",
+    "javascript/Tópicos.md",
+    "LINUX/Diretórios do Linux.md",
+    "LINUX/Compactadores de arquivos.md",
+    "LINUX/Comandos no terminal.md",
+    "LINUX/Comandos de sistemas.md",
+    "LINUX/Comandos de processos.md",
+    "LINUX/Comandos de gerenciamentos de pacotes(Ubunto).md",
+    "LINUX/Comando de manipulação de diretórios.md",
     "javascript/manipulaçâo do Dom/classes.md",
     "Challenge.md",
-    "Cores Markedown.md",
-    "Algomania/Big(o).md",
-    "Comandos Markdown.md",
     "pictures/Pasted image 20231021080815.png",
     "pictures/Pasted image 20231021080328.png",
-    "Node/Template engines/Mustache (instalação).md",
     "pictures/Pasted image 20231019225325.png",
     "pictures/Pasted image 20231019225216.png",
     "pictures/Pasted image 20231019224823.png",
     "pictures/Pasted image 20231019223005.png",
     "pictures/Pasted image 20231018225321.png",
     "pictures/Pasted image 20231018224756.png",
-    "Git/Git branch.md",
-    "Git/Criando novo branch.md",
-    "Git/Corrigindo mensagens do commit.md",
-    "Git/Conectando ao GitHub com ssh.md",
-    "Git/Commitando no github.md",
-    "Git/Comandos.md",
-    "Git/Clonando um repositório de terceiros.md",
-    "Git/Alterando repositório.md",
-    "Node/INSTALANDO O EXPRESS E CRIANDO UM SERVIDOR.md",
-    "Node/Criando rotas.md",
-    "Node/Criando o 404 (página não encontrada).md",
-    "Node/Template engines/Template engines significado.md",
-    "Site help or works.md",
-    "Design de sistemas/Arquitetura de software.md",
-    "Design de sistemas/Arquitetura de informação.md",
-    "LINUX/Comandos de acesso e permissões.md",
-    "LINUX/Diretórios do Linux.md",
-    "LINUX/Comando de manipulação de diretórios.md",
     "pictures/Pasted image 20231015220905.png",
     "pictures/Pasted image 20231015220311.png",
     "Sites wokrs",
