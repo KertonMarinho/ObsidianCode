@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design de sistemas/TÓPICOS DE DESIGN DE SISTEMAS.md",
+                "file": "javascript/Orientação a Objetos.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5,
-    "collapsed": true
+    "width": 285.5
   },
   "right": {
     "id": "45a19557c081b852",
@@ -104,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design de sistemas/TÓPICOS DE DESIGN DE SISTEMAS.md",
+                "file": "javascript/Orientação a Objetos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design de sistemas/TÓPICOS DE DESIGN DE SISTEMAS.md",
+                "file": "javascript/Orientação a Objetos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design de sistemas/TÓPICOS DE DESIGN DE SISTEMAS.md"
+                "file": "javascript/Orientação a Objetos.md"
               }
             }
           },
@@ -179,41 +178,41 @@
   "active": "730d9732f953b507",
   "lastOpenFiles": [
     "Cores Markedown.md",
-    "Design de sistemas/TÓPICOS DE DESIGN DE SISTEMAS.md",
-    "javascript/manipulaçâo do Dom/manipulação de elementos.md",
-    "javascript/manipulaçâo do Dom/Manipulando o css.md",
-    "Algomania/Big(o).md",
     "javascript/Orientação a Objetos.md",
-    "javascript/OBJETOS.md",
-    "LINUX/Comandos de acesso e permissões.md",
-    "LINUX/Conceitos Linux.md",
-    "LINUX/Redirecionamento de saída.md",
-    "LINUX/Terminologia Linux.md",
-    "Design de sistemas/Arquitetura de informação.md",
     "Design de sistemas/Arquitetura de software.md",
-    "Design de sistemas/licenças de software.md",
-    "Design de sistemas/Prototipação.md",
-    "Design de sistemas/Ux -Use experientive.md",
-    "javascript/Tópicos.md",
-    "LINUX/Diretórios do Linux.md",
-    "LINUX/Compactadores de arquivos.md",
-    "LINUX/Comandos no terminal.md",
-    "LINUX/Comandos de sistemas.md",
+    "LINUX/Comandos de acesso e permissões.md",
     "LINUX/Comandos de processos.md",
     "LINUX/Comandos de gerenciamentos de pacotes(Ubunto).md",
     "LINUX/Comando de manipulação de diretórios.md",
-    "javascript/manipulaçâo do Dom/classes.md",
-    "Challenge.md",
+    "LINUX/Diretórios do Linux.md",
+    "LINUX/Conceitos Linux.md",
+    "Design de sistemas/Ciclo de vida do software.md",
+    "pictures/Pasted image 20231024220553.png",
+    "pictures/Pasted image 20231024220334.png",
+    "Design de sistemas/TÓPICOS DE DESIGN DE SISTEMAS.md",
+    "Design de sistemas/Arquitetura de informação.md",
+    "Design de sistemas/licenças de software.md",
+    "Design de sistemas/Prototipação.md",
+    "Design de sistemas/Ux -Use experientive.md",
+    "Comandos Markdown.md",
+    "pictures/Pasted image 20231024212355.png",
+    "pictures/Pasted image 20231024212318.png",
+    "javascript/manipulaçâo do Dom/manipulação de elementos.md",
+    "javascript/manipulaçâo do Dom/Manipulando o css.md",
+    "Algomania/Big(o).md",
+    "javascript/OBJETOS.md",
+    "LINUX/Redirecionamento de saída.md",
+    "LINUX/Terminologia Linux.md",
+    "javascript/Tópicos.md",
+    "LINUX/Compactadores de arquivos.md",
+    "LINUX/Comandos no terminal.md",
+    "LINUX/Comandos de sistemas.md",
     "pictures/Pasted image 20231021080815.png",
     "pictures/Pasted image 20231021080328.png",
     "pictures/Pasted image 20231019225325.png",
     "pictures/Pasted image 20231019225216.png",
     "pictures/Pasted image 20231019224823.png",
     "pictures/Pasted image 20231019223005.png",
-    "pictures/Pasted image 20231018225321.png",
-    "pictures/Pasted image 20231018224756.png",
-    "pictures/Pasted image 20231015220905.png",
-    "pictures/Pasted image 20231015220311.png",
     "Sites wokrs",
     "javascript/manipulaçâo do Dom/Sem título",
     "Algomania",

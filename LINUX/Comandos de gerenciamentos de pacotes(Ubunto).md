@@ -46,7 +46,7 @@ sudo apt remove nomePacote
 * remove o pacote escolhido
 ****
 
-<span style="color:yellow">Comando CD</span>
+<span style="color:yellow">Comando dpkg</span>
 
 ```bash
 sudo dpkg -i nomeArquivo

@@ -141,3 +141,28 @@ let p1 = createPerson('kerton',90);
 console.log(`${p1.name} tem ${p1.age}anos.`);
 //Kerton tem 90 anos
 ```
+
+---
+# PROGRAMAÇÃO FUNCIONAL (OU O CORRETO PROCEDURAL)
+- SERIES DE FUNCÕES SE COMUNICANDO ENTRE SI PARA GERAR OBJETOS
+# <span style="color:yellow">Funcional: Factory</span>
+
+- cria funções que cria objetos
+```js
+function createPerson (name,lastName, age){
+	return {
+		name,
+		lastName,
+		age
+	}
+}
+let person1 = createPerson('kerton', 'marinho', 41);
+let person2 = createPerson('Daniela', 'Fulano', 20);
+
+console.log(person1.name);
+```
+
+---
+# <span style="color:yellow">Funcional: Instância e This</span>
+- Na programação estrutural não tem classes mais tem funções
+

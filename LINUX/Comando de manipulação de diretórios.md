@@ -53,4 +53,9 @@ rm [opções] diretórios
 <span style="color: violet">Comando CD</span>
 * Mostra o caminho de diretórios em que você está
 
+<span style="color:red">pwd</span> 
+- pwd (print working directory) é utilizado para imprimir o caminho completo da pasta atual no sistema
+
+
+
 
