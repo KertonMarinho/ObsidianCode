@@ -165,4 +165,18 @@ console.log(person1.name);
 ---
 # <span style="color:yellow">Funcional: Instância e This</span>
 - Na programação estrutural não tem classes mais tem funções
+```js
+let person = {
+	name: 'Kerton',
+	lastName: 'Marinho',
+	age:90,
+	getFullName() { //A função só funciona o this nesse formato
+		return `${this.name} ${this.lastName}`;
+	}
+}
+console.log(person.getFullName());
+```
+---
+# <span style="color:yellow">Funcional: Construtor</span>
+
 

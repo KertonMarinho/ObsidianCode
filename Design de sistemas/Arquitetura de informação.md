@@ -103,3 +103,5 @@
 - Esse método permite que ideias sejam desenvolvida e testada com rapidez e baixo custo
 - Em uma semana desenvolve-se uma ideia e verifica-se se teve sucesso ou não
 - Usado pelo google
+- O objetivo desse método é projetar, prototipar e testar ideias de produtos ou serviços de maneira rápida e eficaz.
+![[Pasted image 20231025215904.png]]

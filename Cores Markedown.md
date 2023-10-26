@@ -1,6 +1,6 @@
 <span style="color:aquamarine">aquamarine</span>
 ```
-<span style="color:aquamarine">***</span>
+<span style="color:aquamarine">aquamarine</span>
 ```
 
 <span style="color:orange">orange</span>
@@ -16,7 +16,7 @@
 <span style="color:khaki">khaki</span>
 
 ```
-<span style="color:khaki">****</span>
+<span style="color:khaki">khaki</span>
 ```
 
 <span style="color:brown">brown</span>
@@ -56,7 +56,7 @@
 
 <span style="color:violet">violet</span> 
 ```
-<span style="color:violet">****</span> 
+<span style="color:violet">violet</span> 
 ```
 
 

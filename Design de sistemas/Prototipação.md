@@ -1,4 +1,7 @@
-# três tipos:
+- Usada para criar e validar soluções de forma ágil e assertiva. 
+- O ato de prototipar serve como um meio para materializar um conceito ou ideia que inicialmente se encontra apenas no plano das ideias dos designers, tornando-o palpável e facilitando sua comunicação com clientes e usuários.
+- O protótipo é uma ferramenta que permite avaliar e decidir quais ações devem ser tomadas: se a ideia original será mantida, se necessita de ajustes ou se deve ser totalmente descartada para um novo começo.
+# Três tipos de níveis principais:
 1. Baixa fidelidade
 	- Maior efetiva a funcionalidade e organização básica da aplicação
 	- São representação simples, muitas vezes desenhadas a mão, não utilizadas cores, tipografia, programação e dados reais
