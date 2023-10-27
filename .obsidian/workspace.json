@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/Orientação a Objetos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "3fcd2067db745dbc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "66ef514c6036a371",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cores Markedown.md",
+                "file": "Comandos do terminal do windows.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/Orientação a Objetos.md",
+                "file": "Comandos do terminal do windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "javascript/Orientação a Objetos.md",
+                "file": "Comandos do terminal do windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javascript/Orientação a Objetos.md"
+                "file": "Comandos do terminal do windows.md"
               }
             }
           },
@@ -177,7 +159,13 @@
   },
   "active": "730d9732f953b507",
   "lastOpenFiles": [
+    "javascript/manipulaçâo do Dom/Adicionando uma imagem em uma tag do html.md",
+    "Design de sistemas/Ciclo de vida do software.md",
     "Cores Markedown.md",
+    "Comandos do terminal do windows.md",
+    "Comandos Markdown.md",
+    "pictures/Pasted image 20231026223000.png",
+    "Design de sistemas/TÓPICOS DE DESENVOLVIMENTO DE SISTEMAS.md",
     "javascript/Orientação a Objetos.md",
     "Design de sistemas/Arquitetura de informação.md",
     "pictures/Pasted image 20231025215904.png",
@@ -186,18 +174,15 @@
     "pictures/Pasted image 20231025214330.png",
     "pictures/Pasted image 20231025213250.png",
     "Design de sistemas/Arquitetura de software.md",
-    "Design de sistemas/TÓPICOS DE DESIGN DE SISTEMAS.md",
     "LINUX/Comandos de acesso e permissões.md",
     "LINUX/Comandos de processos.md",
     "LINUX/Comandos de gerenciamentos de pacotes(Ubunto).md",
     "LINUX/Comando de manipulação de diretórios.md",
     "LINUX/Diretórios do Linux.md",
     "LINUX/Conceitos Linux.md",
-    "Design de sistemas/Ciclo de vida do software.md",
     "pictures/Pasted image 20231024220553.png",
     "pictures/Pasted image 20231024220334.png",
     "Design de sistemas/licenças de software.md",
-    "Comandos Markdown.md",
     "pictures/Pasted image 20231024212355.png",
     "pictures/Pasted image 20231024212318.png",
     "javascript/manipulaçâo do Dom/manipulação de elementos.md",
@@ -208,10 +193,8 @@
     "LINUX/Terminologia Linux.md",
     "javascript/Tópicos.md",
     "LINUX/Compactadores de arquivos.md",
-    "LINUX/Comandos no terminal.md",
     "pictures/Pasted image 20231021080815.png",
     "pictures/Pasted image 20231021080328.png",
-    "pictures/Pasted image 20231019225325.png",
     "Sites wokrs",
     "javascript/manipulaçâo do Dom/Sem título",
     "Algomania",

@@ -1,9 +1,11 @@
 ## <span style="color:yellow">Softwares Utilitários</span>
 - Ou ferramentas de sistemas.
 - são os que acompanham o sistema operacional e o auxiliam nas suas tarefas (por exemplo, gerenciamento de dispositivos, mídias e programas).
+- EXEMPLO: antivírus, compactadores, backup, etc.
 ## <span style="color:yellow">Softwares Aplicativo</span>
 - Aplicativos ou APP
-- Podemos dizer que é um software que realiza algum trabalho para o usuário, ou seja, são programas que realizam tarefas específicas
+- Podemos dizer que é um software que realiza algum trabalho para o usuário, ou seja, são programas que realizam tarefas específicas.
+- EXEMPLO:  navegadores.
 
 
 ## <span style="color:yellow">Sistemas Tradutores</span>
@@ -71,3 +73,6 @@ desenvolvedor completa para criar, dimensionar e fornecer software seguro. O git
 
 ## <span style="color:green">Debug</span> 
 - o debugging ou debugar significa depurar o programa. Ou seja, encontrar erros e tentar resolvê-los.
+
+## <span style="color:khaki">Snapshot</span>
+- Cópia instantânea em um determinado tempo de um volume.
