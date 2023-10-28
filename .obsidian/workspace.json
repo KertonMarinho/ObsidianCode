@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comandos Markdown.md",
+                "file": "javascript/Orientação a Objetos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comandos Markdown.md",
+                "file": "javascript/Orientação a Objetos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comandos Markdown.md",
+                "file": "javascript/Orientação a Objetos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comandos Markdown.md"
+                "file": "javascript/Orientação a Objetos.md"
               }
             }
           },
@@ -159,11 +159,13 @@
   },
   "active": "89cf21b7c9a1b039",
   "lastOpenFiles": [
+    "Comandos Markdown.md",
+    "javascript/Orientação a Objetos.md",
+    "Comandos do terminal do windows.md",
+    "link internos.md",
     "Cores Markedown.md",
     "GROSSÁRIO DE DESENVOLVEDOR.md",
     "Site help or works.md",
-    "Comandos Markdown.md",
-    "Comandos do terminal do windows.md",
     "Anexos/chmod.png",
     "Design de sistemas/Ux -Use experientive.md",
     "Design de sistemas/TÓPICOS DE TESTES DE SOFTWARE, CONTROLE DE QUALIDADE E DEPLOY.md",
@@ -186,8 +188,6 @@
     "Git/GitHub pages.md",
     "Git/Git branch.md",
     "Git/Especifica um nome para um commit.md",
-    "Git/Corrigindo mensagens do commit.md",
-    "Git/Conectando ao GitHub com ssh.md",
     "Anexos/WhatsApp Image 2023-10-28 at 08.59.33.jpeg",
     "Anexos/Pasted image 20231028083618.png",
     "Anexos/Pasted image 20231028083529.png",

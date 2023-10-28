@@ -179,4 +179,24 @@ console.log(person.getFullName());
 ---
 # <span style="color:yellow">Funcional: Construtor</span>
 
+- Como não temo uma função construtor no funcional vc pode substituir o construtor pela uma função no próprio objeto.``Função start, por exemplo.
+
+```js
+let person = {
+	name: 'Kerton',
+	lastName: 'Marinho',
+	age:90,
+	getFullName() { //A função só funciona o this nesse formato
+		return `${this.name} ${this.lastName}`;
+	}
+	start() {
+		console.log('deu start na pessoa');
+	}
+}
+person.start();
+
+```
+>[!warning]
+>Resumindo objetos não tem construtor, só classes tem o construtor.
+
 
