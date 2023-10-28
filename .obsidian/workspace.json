@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comandos do terminal do windows.md",
+                "file": "javascript/Orientação a Objetos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comandos do terminal do windows.md",
+                "file": "javascript/Orientação a Objetos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comandos do terminal do windows.md",
+                "file": "javascript/Orientação a Objetos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comandos do terminal do windows.md"
+                "file": "javascript/Orientação a Objetos.md"
               }
             }
           },
@@ -159,9 +159,9 @@
   },
   "active": "89cf21b7c9a1b039",
   "lastOpenFiles": [
+    "Comandos do terminal do windows.md",
     "javascript/Orientação a Objetos.md",
     "Comandos Markdown.md",
-    "Comandos do terminal do windows.md",
     "link internos.md",
     "Cores Markedown.md",
     "GROSSÁRIO DE DESENVOLVEDOR.md",
