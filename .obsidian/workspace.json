@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "80223fe39d7a72aa",
+        "id": "48d2cea88f1a2358",
         "type": "tabs",
         "children": [
           {
-            "id": "730d9732f953b507",
+            "id": "89cf21b7c9a1b039",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Sincronizando o repositório local com o GitHub com https.md",
+                "file": "Comandos Markdown.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Sincronizando o repositório local com o GitHub com https.md",
+                "file": "Comandos Markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Sincronizando o repositório local com o GitHub com https.md",
+                "file": "Comandos Markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Sincronizando o repositório local com o GitHub com https.md"
+                "file": "Comandos Markdown.md"
               }
             }
           },
@@ -157,8 +157,27 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "730d9732f953b507",
+  "active": "89cf21b7c9a1b039",
   "lastOpenFiles": [
+    "Cores Markedown.md",
+    "GROSSÁRIO DE DESENVOLVEDOR.md",
+    "Site help or works.md",
+    "Comandos Markdown.md",
+    "Comandos do terminal do windows.md",
+    "Anexos/chmod.png",
+    "Design de sistemas/Ux -Use experientive.md",
+    "Design de sistemas/TÓPICOS DE TESTES DE SOFTWARE, CONTROLE DE QUALIDADE E DEPLOY.md",
+    "Design de sistemas/TÓPICOS DE DESENVOLVIMENTO DE SISTEMAS.md",
+    "Design de sistemas/Prototipação.md",
+    "Anexos/Roteiro Utilizacao Figma.pdf",
+    "Design de sistemas/licenças de software.md",
+    "Design de sistemas/Ciclo de vida do software.md",
+    "Design de sistemas/Arquitetura de software.md",
+    "Design de sistemas/Arquitetura de informação.md",
+    "Anexos/Pasted image 20230915230359.png",
+    "Algomania/Big(o).md",
+    "Challenge.md",
+    "Git/Sincronizando o repositório local com o GitHub com https.md",
     "Git/Resolvendo conflitos do Merge.md",
     "Git/Recebendo alterações do github.md",
     "Git/Modificações detalhadas(diff).md",
@@ -169,39 +188,20 @@
     "Git/Especifica um nome para um commit.md",
     "Git/Corrigindo mensagens do commit.md",
     "Git/Conectando ao GitHub com ssh.md",
-    "Git/Commitando no github.md",
-    "Git/Comandos.md",
-    "Git/Clonando um repositório de terceiros.md",
-    "Git/Atualizando o arquivo remoto do gitHub.md",
-    "Git/Alterando repositório.md",
-    "Design de sistemas/Arquitetura de informação.md",
-    "Design de sistemas/Arquitetura de software.md",
-    "Design de sistemas/Ciclo de vida do software.md",
-    "Design de sistemas/TÓPICOS DE DESENVOLVIMENTO DE SISTEMAS.md",
-    "Design de sistemas/Ux -Use experientive.md",
-    "Design de sistemas/TÓPICOS DE TESTES DE SOFTWARE, CONTROLE DE QUALIDADE E DEPLOY.md",
-    "Html e protocolos/PROTOCOLOS E INFRAESTRUTURA.md",
-    "Comandos do terminal do windows.md",
-    "Comandos Markdown.md",
-    "Cores Markedown.md",
-    "pictures/WhatsApp Image 2023-10-28 at 08.59.33.jpeg",
-    "pictures/Pasted image 20231028083618.png",
-    "pictures/Pasted image 20231028083529.png",
-    "pictures/Pasted image 20231028083251.png",
-    "pictures/Pasted image 20231028083052.png",
-    "LINUX/Comandos de acesso e permissões.md",
-    "pictures/Pasted image 20231026223000.png",
-    "pictures/Pasted image 20231025215904.png",
-    "pictures/Pasted image 20231025214330.png",
-    "pictures/Pasted image 20231025213250.png",
-    "pictures/Pasted image 20231024220553.png",
+    "Anexos/WhatsApp Image 2023-10-28 at 08.59.33.jpeg",
+    "Anexos/Pasted image 20231028083618.png",
+    "Anexos/Pasted image 20231028083529.png",
+    "Anexos/Pasted image 20231028083251.png",
+    "Anexos/Pasted image 20231028083052.png",
+    "Anexos/Pasted image 20231026223000.png",
+    "Anexos/Pasted image 20231025215904.png",
+    "Anexos/Pasted image 20231025214330.png",
     "Sites wokrs",
     "javascript/manipulaçâo do Dom/Sem título",
     "Algomania",
     "Node/preparando o desenvovimento",
-    "pictures/progit (1) 1.pdf",
-    "pictures/progit (1).pdf",
-    "pictures/Roteiro Utilizacao Figma.pdf",
+    "Anexos/progit (1) 1.pdf",
+    "Anexos/progit (1).pdf",
     "Comandos terminal windows",
     "Comandps",
     "pdf/Múltiplas contas GIT no mesmo computador.pdf",

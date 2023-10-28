@@ -38,7 +38,7 @@
     "inheritanceIcon": "OiIcons8Git"
   },
   "Design de sistemas": {
-    "iconName": "Oi4519024DevIcon",
+    "iconName": null,
     "inheritanceIcon": "Oi4519024DevIcon"
   },
   "Html e protocolos": {
@@ -46,12 +46,12 @@
     "inheritanceIcon": "OiHtml"
   },
   "pdf": "OiPdf",
-  "pictures": "OiImgFiletypeIcon151817",
   "Comandos do terminal do windows.md": "OiTerminalWindowIcon143500",
   "Node": {
     "iconName": "OiFileTypeNodeIcon130301",
     "inheritanceIcon": "OiFileTypeNodeIcon130301"
   },
   "LINUX/Terminologia Linux.md": "FabDev",
-  "Challenge.md": "OiQuestionMarkIcon34771"
+  "Challenge.md": "OiQuestionMarkIcon34771",
+  "Anexos": "OiImgFiletypeIcon151817"
 }
