@@ -76,3 +76,20 @@ desenvolvedor completa para criar, dimensionar e fornecer software seguro. O git
 
 ## <span style="color:khaki">Snapshot</span>
 - Cópia instantânea em um determinado tempo de um volume.
+
+## <span style="color:aquamarine">Contêineres</span>
+- Contêineres são um método de virtualização do sistema operacional que permite executar um aplicativo e suas dependências em processos isolados de recursos. 
+- Simplificadamente os containers empacotam o código, as configurações e as dependências de um aplicativo em um único objeto.
+- Basicamente, um contêiner é um pacote que contém um software e todas as dependências necessárias para que ele execute e forneça facilidade de manuseio e economia de tempo, facilitando a implantação (deploy).
+### Diferença de Contêineres versus virtualização:
+- Segundo Mariano (2020), do ponto de vista do sistema operacional, os contêineres são um método de virtualização do sistema operacional que permite executar um aplicativo e suas dependências em processos isolados de recursos. A virtualização consiste em uma tecnologia que possibilita a execução de um SO dentro de outro por meio de máquinas virtuais (Virtual Machines – VM), contexto em que uma única máquina física pode dividir recursos com vários SO capazes de interagir ou se isolar completamente entre si.
+- Geralmente, os contêineres são medidos em megabyte. Eles contêm, no máximo, a aplicação e os arquivos necessários para executá-la. Além disso, costumam ser usados para empacotar funções individuais que realizam tarefas específicas, os famosos microsserviços. Como são leves e têm um sistema operacional compartilhado, os contêineres são muito fáceis de migrar entre vários ambientes.
+-  As máquinas virtuais são medidas em gigabyte. Costumam ter seu próprio sistema operacional, o que possibilita a execução simultânea de várias funções com uso intenso de recursos. Por terem um número maior de recursos à disposição, as máquinas virtuais são capazes de abstrair, dividir, duplicar e emular por inteiro servidores, sistemas operacionais, desktops, bancos de dados e redes.
+- Ou seja, com a virtualização, é possível executar sistemas operacionais
+simultaneamente em um único sistema de hardware, já os contêineres compartilham o mesmo kernel do sistema operacional e isolam os processos da aplicação do restante do sistema
+
+## <span style="color:red">Computação de Borda</span>
+- A definição dada pela Intel é de que “a computação de borda se refere ao
+processamento, análise e armazenamento de dados mais próximos de onde eles são gerados para permitir análises e respostas rápidas, quase em tempo real”.
+- Já a IBM define a computação de borda como “um modelo de computação
+distribuída que aproxima os aplicativos corporativos das fontes de dados, como dispositivos de IoT ou servidores de borda local”.

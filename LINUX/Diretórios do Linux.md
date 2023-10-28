@@ -1,86 +1,80 @@
-<mark style="background: #FFB8EBA6;">Diretório bin</mark> 
-
+## <span style="color:#FFB8EBA6;">Diretório bin </span> 
+* Binaries(binários)
+* Onde encontra-se os binários(executáveis) de diversos programas
 ```shell
 /bin
 ```
-* Binaries(binários)
-* Onde encontra-se os binários(executáveis) de diversos programas
-
-<mark style="background: #FF5582A6;">Diretório Boot</mark>
-
+----
+## <span style="color:#FF5582A6;">Diretório Boot </span>
+* Contém os arquivos necessários para seu SO inicializar
+* Contém o GRUB
 ```bash
 /boot
 ```
-* Contém os arquivos necessários para seu SO inicializar
-* Contém o GRUB
-
-<mark style="background: #FFB86CA6;">Diretório Dev</mark>
-
+----
+## <span style="color: #FFB86CA6;">Diretório Dev </span>
+- Representar dispositivos de hardware presentes no sistema
+* Devices(dispositivos)
+* Onde encontra-se os arquivos do seu hardware. Discos, sons, câmera e etc
+* Para acessar a unidade de discos /dev/sda1 (o número final varia de acordo com a partição do disco)
+* os arquivos de dispositivo no "/dev" são usados por vários programas de sistema para a realização de tarefas, como montar partições de disco ou acessar dispositivos de rede
 ```bash
 /dev
 ```
-- representar dispositivos de hardware presentes no sistema
-* devices(dispositivos)
-* Onde encontra-se os arquivos do seu hardware. Discos, sons, câmera e etc
-* Para acessar a unidade de discos /dev/sda1 (o número final varia de acordo com a partição do disco)
-
-<mark style="background: #FFF3A3A6;">Diretório ETC</mark>
- 
+----
+## <span style="color: #FFF3A3A6;">Diretório ETC </span>
+ - Usado para armazenar arquivos de configuração do sistema e de programas instalados no sistema
+* Et cetera
+* Mantém as config. gerais do sistemas para todos os usuários.
+* O diretório "/etc" é acessado frequentemente por administradores de
+sistema, para a realização de tarefas como configurar serviços de rede, adicionar ou remover usuários, ou ainda alterar configurações de programas instalados.
 ```bash
 /etc
 ```
-- usado para armazenar arquivos de configuração do sistema e de programas instalados no sistema
-* et cetera
-* Mantém as config. gerais do sistemas para todos os usuários
-
-<mark style="background: #BBFABBA6;">Diretório Home</mark>
-
+---
+## <span style="color:  #BBFABBA6;">Diretório Home </span>
+* Equivalente ao usuário(user) do windows
+* Mantém os arquivos(como musica, documentos, etc...) e config dos usuários do sistemas
 ```bash
 /home
 ```
-* Equivalente ao usuário(user) do windows
-* Mantém os arquivos e config dos usuários do sistemas
-
-<mark style="background: #ABF7F7A6;">Diretório root</mark>
-
+---
+## <span style="color: #ABF7F7A6;">Diretório root </span>
+* Mantém os arquivos e config do root do sistema(administrador)
 ```bash
 /root
 ```
-* Mantém os arquivos e config do root do sistema(administrador)
-
-<mark style="background: #ADCCFFA6;">Diretório Lib</mark>
-
+----
+## <span style="color:  #ADCCFFA6;">Diretório Lib </span>
+ Library (biblioteca)
+* Mantém bibliotecas usadas por softwares
+* Similar a DLL do windows
 ```bash
 /lib
 ```
-* Library (biblioteca)
-* Mantém bibliotecas usadas por softwares
-* Similar a DLL do windows
-
-<mark style="background: #D2B3FFA6;">Diretório Media e MNT</mark>
-
+---
+## <span style="color: #D2B3FFA6;">Diretório Media e MNT</span>
+* diretório usado para montar dispositivos externos, como discos rígidos externos ou dispositivos de mídia removíveis.
 ```bash
 /media
 ```
 
-* Local de montagem de disco removíveis automáticos
-
+* usado para montar dispositivos de armazenamento temporários
 ```bash
 /mnt
 ```
-* mount (montar)
-* Local de montagem de discos manuais do usuário
+---
 
-<mark style="background: #CACFD9A6;">Diretório  OPT</mark>
+## <span style="color:  #CACFD9A6;">Diretório  OPT </span>
+- optional
+* Diretório usado por alguns fabricantes para instalar seus softwares
+* O Google Chrome usa está pasta
 
 ```bash
 opt
 ```
-* optional
-* Diretório usado por alguns fabricantes para instalar seus softwares
-* O Google Chrome usa está pasta
-
-<mark style="background: #FFB86CA6;">Outros diretórios</mark>
+---
+# <span style="color: #FFB86CA6;">Outros diretórios</span>
 
 ```bash
 /proc

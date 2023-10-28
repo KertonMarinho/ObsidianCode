@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comandos do terminal do windows.md",
+                "file": "Git/Sincronizando o repositório local com o GitHub com https.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comandos do terminal do windows.md",
+                "file": "Git/Sincronizando o repositório local com o GitHub com https.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comandos do terminal do windows.md",
+                "file": "Git/Sincronizando o repositório local com o GitHub com https.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comandos do terminal do windows.md"
+                "file": "Git/Sincronizando o repositório local com o GitHub com https.md"
               }
             }
           },
@@ -159,42 +159,42 @@
   },
   "active": "730d9732f953b507",
   "lastOpenFiles": [
-    "javascript/manipulaçâo do Dom/Adicionando uma imagem em uma tag do html.md",
+    "Git/Resolvendo conflitos do Merge.md",
+    "Git/Recebendo alterações do github.md",
+    "Git/Modificações detalhadas(diff).md",
+    "Git/Instalando e sincronizando com Github CLI.md",
+    "Git/Instalando e inicializando o Git.md",
+    "Git/GitHub pages.md",
+    "Git/Git branch.md",
+    "Git/Especifica um nome para um commit.md",
+    "Git/Corrigindo mensagens do commit.md",
+    "Git/Conectando ao GitHub com ssh.md",
+    "Git/Commitando no github.md",
+    "Git/Comandos.md",
+    "Git/Clonando um repositório de terceiros.md",
+    "Git/Atualizando o arquivo remoto do gitHub.md",
+    "Git/Alterando repositório.md",
+    "Design de sistemas/Arquitetura de informação.md",
+    "Design de sistemas/Arquitetura de software.md",
     "Design de sistemas/Ciclo de vida do software.md",
-    "Cores Markedown.md",
+    "Design de sistemas/TÓPICOS DE DESENVOLVIMENTO DE SISTEMAS.md",
+    "Design de sistemas/Ux -Use experientive.md",
+    "Design de sistemas/TÓPICOS DE TESTES DE SOFTWARE, CONTROLE DE QUALIDADE E DEPLOY.md",
+    "Html e protocolos/PROTOCOLOS E INFRAESTRUTURA.md",
     "Comandos do terminal do windows.md",
     "Comandos Markdown.md",
+    "Cores Markedown.md",
+    "pictures/WhatsApp Image 2023-10-28 at 08.59.33.jpeg",
+    "pictures/Pasted image 20231028083618.png",
+    "pictures/Pasted image 20231028083529.png",
+    "pictures/Pasted image 20231028083251.png",
+    "pictures/Pasted image 20231028083052.png",
+    "LINUX/Comandos de acesso e permissões.md",
     "pictures/Pasted image 20231026223000.png",
-    "Design de sistemas/TÓPICOS DE DESENVOLVIMENTO DE SISTEMAS.md",
-    "javascript/Orientação a Objetos.md",
-    "Design de sistemas/Arquitetura de informação.md",
     "pictures/Pasted image 20231025215904.png",
-    "Design de sistemas/Prototipação.md",
-    "Design de sistemas/Ux -Use experientive.md",
     "pictures/Pasted image 20231025214330.png",
     "pictures/Pasted image 20231025213250.png",
-    "Design de sistemas/Arquitetura de software.md",
-    "LINUX/Comandos de acesso e permissões.md",
-    "LINUX/Comandos de processos.md",
-    "LINUX/Comandos de gerenciamentos de pacotes(Ubunto).md",
-    "LINUX/Comando de manipulação de diretórios.md",
-    "LINUX/Diretórios do Linux.md",
-    "LINUX/Conceitos Linux.md",
     "pictures/Pasted image 20231024220553.png",
-    "pictures/Pasted image 20231024220334.png",
-    "Design de sistemas/licenças de software.md",
-    "pictures/Pasted image 20231024212355.png",
-    "pictures/Pasted image 20231024212318.png",
-    "javascript/manipulaçâo do Dom/manipulação de elementos.md",
-    "javascript/manipulaçâo do Dom/Manipulando o css.md",
-    "Algomania/Big(o).md",
-    "javascript/OBJETOS.md",
-    "LINUX/Redirecionamento de saída.md",
-    "LINUX/Terminologia Linux.md",
-    "javascript/Tópicos.md",
-    "LINUX/Compactadores de arquivos.md",
-    "pictures/Pasted image 20231021080815.png",
-    "pictures/Pasted image 20231021080328.png",
     "Sites wokrs",
     "javascript/manipulaçâo do Dom/Sem título",
     "Algomania",

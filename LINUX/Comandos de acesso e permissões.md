@@ -27,7 +27,7 @@ Permite que vários usuários diferentes tenham acesso a um mesmo arquivo A iden
 	* não pode escrever
 	* não pode excutar
 
-<span style="color:turquoise">Comando chmod</span>  
+# <span style="color:turquoise">Comando chmod</span>  
 Modifica as permissões de um arquivo ou diretório
 * Sintaxe:
 
@@ -38,10 +38,11 @@ chmod [opções][permissões][diretório/arquivo]
 
 ![pictures](chmod.png)
 
-<mark style="background: #FFB86CA6;">Exemplo:</mark>  
+<span style="color:orange">Exemplo:</span>
+
 ![[Pasted image 20230914205655.png]]
 * Primeiro caractere <mark style="background: #CACFD9A6;">d</mark> significa diretório.
-* Primeiro caractere <mark style="background: #FF5582A6;">  - </mark> signif0iaca arquivo.
+* Primeiro caractere <mark style="background: #FF5582A6;">  - </mark> significa arquivo.
 Mudar permissão:
 ```shell
 chmod o+w aula.txt
