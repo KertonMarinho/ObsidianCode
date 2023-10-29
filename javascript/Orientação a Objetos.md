@@ -199,4 +199,17 @@ person.start();
 >[!warning]
 >Resumindo objetos não tem construtor, só classes tem o construtor.
 
-
+# FUNCIONAL HERANÇA
+- Cria um generalista e depois herda tudo no específico
+```js
+const defaultUser{  //generalsita
+	name: '';
+	email:´´;
+	level:1;
+}
+const user1{  //herda tudo do defaultUser,vc pode modificar ele
+	...default: 'Kerton';
+	email:  'suporte@b7web.com.br'
+}
+console.log(user1);
+```
