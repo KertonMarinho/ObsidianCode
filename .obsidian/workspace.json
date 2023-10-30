@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/Requisições/Requisições na prática.md",
+                "file": "Algomania/Big(o).md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/Requisições/Requisições na prática.md",
+                "file": "Algomania/Big(o).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "javascript/Requisições/Requisições na prática.md",
+                "file": "Algomania/Big(o).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javascript/Requisições/Requisições na prática.md"
+                "file": "Algomania/Big(o).md"
               }
             }
           },
@@ -177,11 +177,11 @@
   },
   "active": "993a95f76a9af0ae",
   "lastOpenFiles": [
+    "javascript/Requisições/Requisições na prática.md",
     "Anexos/Pasted image 20231029223843.png",
     "Anexos/Pasted image 20231029223343.png",
     "Anexos/Pasted image 20231029223144.png",
     "Cores Markedown.md",
-    "javascript/Requisições/Requisições na prática.md",
     "javascript/Requisições/CALLBACK.md",
     "javascript/Requisições/API (Aplication Programming Interface).md",
     "javascript/Requisições/SÍNCRONO E ASSÍNCRONO.md",
@@ -214,7 +214,6 @@
     "Anexos/Pasted image 20231028083529.png",
     "Anexos/Pasted image 20231028083251.png",
     "Anexos/Pasted image 20231028083052.png",
-    "Anexos/Pasted image 20231026223000.png",
     "Sites wokrs",
     "javascript/manipulaçâo do Dom/Sem título",
     "Algomania",

@@ -83,3 +83,4 @@ def find_sum(my_array):
 
 ---
 ## <span style="color:yellow">Big (o)  -  Tempo Logarítmo - O (log n)</span>
+tudo certo com a automçao
