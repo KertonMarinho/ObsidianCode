@@ -194,12 +194,13 @@ let person = {
 	}
 }
 person.start();
-
 ```
+
 >[!warning]
 >Resumindo objetos não tem construtor, só classes tem o construtor.
 
-# FUNCIONAL HERANÇA
+----
+## <span style="color:yellow">FUNCIONAL HERANÇA</span>
 - Cria um generalista e depois herda tudo no específico
 ```js
 const defaultUser{  //generalsita
