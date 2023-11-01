@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algomania/Big(o).md",
+                "file": "javascript/Requisições/Promise e gerenciamento de erros.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algomania/Big(o).md",
+                "file": "javascript/Requisições/Promise e gerenciamento de erros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algomania/Big(o).md",
+                "file": "javascript/Requisições/Promise e gerenciamento de erros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algomania/Big(o).md"
+                "file": "javascript/Requisições/Promise e gerenciamento de erros.md"
               }
             }
           },
@@ -177,11 +177,15 @@
   },
   "active": "993a95f76a9af0ae",
   "lastOpenFiles": [
+    "Cores Markedown.md",
+    "javascript/Requisições/Promise e gerenciamento de erros.md",
+    "Anexos/Pasted image 20231031220342.png",
+    "Anexos/Pasted image 20231031213617.png",
+    "Algomania/Big(o).md",
     "javascript/Requisições/Requisições na prática.md",
     "Anexos/Pasted image 20231029223843.png",
     "Anexos/Pasted image 20231029223343.png",
     "Anexos/Pasted image 20231029223144.png",
-    "Cores Markedown.md",
     "javascript/Requisições/CALLBACK.md",
     "javascript/Requisições/API (Aplication Programming Interface).md",
     "javascript/Requisições/SÍNCRONO E ASSÍNCRONO.md",
@@ -204,16 +208,12 @@
     "Design de sistemas/Arquitetura de software.md",
     "Design de sistemas/Arquitetura de informação.md",
     "Anexos/Pasted image 20230915230359.png",
-    "Algomania/Big(o).md",
     "Challenge.md",
     "Git/Sincronizando o repositório local com o GitHub com https.md",
     "Git/Resolvendo conflitos do Merge.md",
-    "Git/Recebendo alterações do github.md",
     "Anexos/WhatsApp Image 2023-10-28 at 08.59.33.jpeg",
     "Anexos/Pasted image 20231028083618.png",
     "Anexos/Pasted image 20231028083529.png",
-    "Anexos/Pasted image 20231028083251.png",
-    "Anexos/Pasted image 20231028083052.png",
     "Sites wokrs",
     "javascript/manipulaçâo do Dom/Sem título",
     "Algomania",
