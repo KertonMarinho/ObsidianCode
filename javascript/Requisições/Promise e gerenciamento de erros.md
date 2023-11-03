@@ -10,7 +10,7 @@ function clicou() {
 		.then((response => { //quando vc tiver resposta execute
 			return response.json();
 		})
-		.the ((json) =>{  //quando vc tiver resposta execute
+		.them ((json) =>{  //quando vc tiver resposta execute
 			alert(`Titulo do primeiro post: ${json[0$.tilte}`)
 		});
 		)
