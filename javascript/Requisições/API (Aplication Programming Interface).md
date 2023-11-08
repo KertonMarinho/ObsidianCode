@@ -42,4 +42,10 @@ let pessoa = {
 ---
 <span style="color:orange">Exemplo</span>
 ![[Pasted image 20231106224648.png|400]]
-paou no 1.52
+
+---
+> [!SUMMARY] stringify x parsen
+> Parse = pegar uma string e trasnforma em json
+> stringfy = Pega um json e trasnforma em string
+
+

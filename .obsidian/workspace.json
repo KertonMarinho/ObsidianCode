@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/Requisições/API (Aplication Programming Interface).md",
+                "file": "javascript/Requisições/CALLBACK.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/Requisições/API (Aplication Programming Interface).md",
+                "file": "javascript/Requisições/CALLBACK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "javascript/Requisições/API (Aplication Programming Interface).md",
+                "file": "javascript/Requisições/CALLBACK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javascript/Requisições/API (Aplication Programming Interface).md"
+                "file": "javascript/Requisições/CALLBACK.md"
               }
             }
           },
@@ -177,17 +177,19 @@
   },
   "active": "993a95f76a9af0ae",
   "lastOpenFiles": [
+    "Anexos/Pasted image 20231107214005.png",
     "Cores Markedown.md",
+    "javascript/Requisições/CALLBACK.md",
+    "javascript/Requisições/SÍNCRONO E ASSÍNCRONO.md",
     "javascript/Requisições/API (Aplication Programming Interface).md",
+    "Comandos Markdown.md",
     "Anexos/Pasted image 20231106224648.png",
     "Anexos/Pasted image 20231106224441.png",
     "Anexos/Pasted image 20231105224822.png",
     "javascript/Requisições/MÉTODOS DE REQUISIÇÃO.md",
     "javascript/Requisições/Promise e gerenciamento de erros.md",
-    "javascript/Requisições/CALLBACK.md",
     "javascript/Requisições/Promises com async_await.md",
     "javascript/Requisições/Requisições na prática.md",
-    "javascript/Requisições/SÍNCRONO E ASSÍNCRONO.md",
     "LINUX/Comandos de processos.md",
     "LINUX/Comandos de gerenciamentos de pacotes(Ubunto).md",
     "LINUX/Comandos de acesso e permissões.md",
@@ -202,7 +204,6 @@
     "Anexos/Pasted image 20231102090905.png",
     "Anexos/Pasted image 20231102090822.png",
     "Anexos/Pasted image 20231102090738.png",
-    "Comandos Markdown.md",
     "Comandos do terminal do windows.md",
     "Algomania/Big(o).md",
     "Anexos/Pasted image 20231031220342.png",
