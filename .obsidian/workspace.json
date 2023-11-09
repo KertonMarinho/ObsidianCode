@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/Requisições/CALLBACK.md",
+                "file": "javascript/Requisições/Fetch com post.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/Requisições/CALLBACK.md",
+                "file": "javascript/Requisições/Fetch com post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "javascript/Requisições/CALLBACK.md",
+                "file": "javascript/Requisições/Fetch com post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javascript/Requisições/CALLBACK.md"
+                "file": "javascript/Requisições/Fetch com post.md"
               }
             }
           },
@@ -177,18 +177,20 @@
   },
   "active": "993a95f76a9af0ae",
   "lastOpenFiles": [
+    "javascript/Requisições/Promisses com resolve e reject.md",
+    "javascript/Requisições/Fetch com post.md",
+    "Comandos Markdown.md",
+    "javascript/Requisições/Promise e gerenciamento de erros.md",
+    "javascript/Requisições/Promises com async_await.md",
+    "javascript/Requisições/CALLBACK.md",
     "Anexos/Pasted image 20231107214005.png",
     "Cores Markedown.md",
-    "javascript/Requisições/CALLBACK.md",
     "javascript/Requisições/SÍNCRONO E ASSÍNCRONO.md",
     "javascript/Requisições/API (Aplication Programming Interface).md",
-    "Comandos Markdown.md",
     "Anexos/Pasted image 20231106224648.png",
     "Anexos/Pasted image 20231106224441.png",
     "Anexos/Pasted image 20231105224822.png",
     "javascript/Requisições/MÉTODOS DE REQUISIÇÃO.md",
-    "javascript/Requisições/Promise e gerenciamento de erros.md",
-    "javascript/Requisições/Promises com async_await.md",
     "javascript/Requisições/Requisições na prática.md",
     "LINUX/Comandos de processos.md",
     "LINUX/Comandos de gerenciamentos de pacotes(Ubunto).md",
@@ -208,12 +210,10 @@
     "Algomania/Big(o).md",
     "Anexos/Pasted image 20231031220342.png",
     "Anexos/Pasted image 20231031213617.png",
-    "Anexos/Pasted image 20231029223843.png",
     "javascript/CONDICIONAL.md",
     "javascript/Requisições",
     "javascript/Orientação a Objetos.md",
     "link internos.md",
-    "GROSSÁRIO DE DESENVOLVEDOR.md",
     "Anexos/Roteiro Utilizacao Figma.pdf",
     "Sites wokrs",
     "javascript/manipulaçâo do Dom/Sem título",
