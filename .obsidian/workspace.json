@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/Requisições/UPLOAD DE ARQUIVOS COM REQUISIÇÃO INTERNA.md",
+                "file": "javascript/Requisições/Thumbnails com js.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/Requisições/UPLOAD DE ARQUIVOS COM REQUISIÇÃO INTERNA.md",
+                "file": "javascript/Requisições/Thumbnails com js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "javascript/Requisições/UPLOAD DE ARQUIVOS COM REQUISIÇÃO INTERNA.md",
+                "file": "javascript/Requisições/Thumbnails com js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javascript/Requisições/UPLOAD DE ARQUIVOS COM REQUISIÇÃO INTERNA.md"
+                "file": "javascript/Requisições/Thumbnails com js.md"
               }
             }
           },
@@ -177,12 +177,17 @@
   },
   "active": "993a95f76a9af0ae",
   "lastOpenFiles": [
+    "Anexos/Pasted image 20231110233343.png",
+    "Anexos/Pasted image 20231110233211.png",
+    "Anexos/Pasted image 20231110233137.png",
+    "javascript/Requisições/UPLOAD DE ARQUIVOS COM REQUISIÇÃO INTERNA.md",
+    "javascript/Requisições/Thumbnails com js.md",
+    "Anexos/Pasted image 20231110232713.png",
     "Anexos/Pasted image 20231109215807.png",
     "Anexos/Pasted image 20231109215407.png",
     "Anexos/Pasted image 20231109215135.png",
     "Anexos/Pasted image 20231109214606.png",
     "javascript/CONDICIONAL.md",
-    "javascript/Requisições/UPLOAD DE ARQUIVOS COM REQUISIÇÃO INTERNA.md",
     "javascript/Requisições/Fetch com post.md",
     "javascript/Requisições/Promisses com resolve e reject.md",
     "Comandos Markdown.md",
@@ -195,7 +200,6 @@
     "javascript/Requisições/API (Aplication Programming Interface).md",
     "Anexos/Pasted image 20231106224648.png",
     "Anexos/Pasted image 20231106224441.png",
-    "Anexos/Pasted image 20231105224822.png",
     "javascript/Requisições/MÉTODOS DE REQUISIÇÃO.md",
     "javascript/Requisições/Requisições na prática.md",
     "LINUX/Comandos de processos.md",
@@ -208,11 +212,7 @@
     "Git/Clonando um repositório de terceiros.md",
     "Git/Atualizando o arquivo remoto do gitHub.md",
     "Git/Alterando repositório.md",
-    "Anexos/Pasted image 20231103113301.png",
-    "Anexos/Pasted image 20231102090905.png",
-    "Anexos/Pasted image 20231102090822.png",
     "Comandos do terminal do windows.md",
-    "Algomania/Big(o).md",
     "javascript/Requisições",
     "Anexos/Roteiro Utilizacao Figma.pdf",
     "Sites wokrs",

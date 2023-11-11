@@ -18,3 +18,19 @@ console.log(arquivo);
 ![[Pasted image 20231109215807.png|400]]
 - Aparece alguns itens neste file importante
 - Nome de arquivo, ultimo arquivo modificado, name, tipo de aquivo, tamanho, etc
+----
+# ENVIANDO ARQUIVO
+```JS
+async function enviar(){
+	let arquivo = document.getElementById('arquivo').files[0];
+let body.append('title', 'bla bla bla');
+body.append('arquivo');
+
+let req = await fetch ('https.//meu site.com.br/upload', {
+method: 'post',
+body:
+});
+}
+```
+
+![[Pasted image 20231110232713.png|500]]
