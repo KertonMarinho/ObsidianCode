@@ -13,26 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/Requisições/Thumbnails com js.md",
+                "file": "javascript/Manipulação de string/MÉTODOS DE STRING.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "17b3f5162c85e3d3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9234d17f2be4a4f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cores Markedown.md",
-                "mode": "preview",
                 "source": false
               }
             }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/Requisições/Thumbnails com js.md",
+                "file": "javascript/Manipulação de string/MÉTODOS DE STRING.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "javascript/Requisições/Thumbnails com js.md",
+                "file": "javascript/Manipulação de string/MÉTODOS DE STRING.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javascript/Requisições/Thumbnails com js.md"
+                "file": "javascript/Manipulação de string/MÉTODOS DE STRING.md"
               }
             }
           },
@@ -177,11 +159,14 @@
   },
   "active": "993a95f76a9af0ae",
   "lastOpenFiles": [
+    "Cores Markedown.md",
+    "javascript/Manipulação de string/MÉTODOS DE STRING.md",
+    "javascript/Requisições/Thumbnails com js.md",
+    "javascript/Manipulação de string",
     "Anexos/Pasted image 20231110233343.png",
     "Anexos/Pasted image 20231110233211.png",
     "Anexos/Pasted image 20231110233137.png",
     "javascript/Requisições/UPLOAD DE ARQUIVOS COM REQUISIÇÃO INTERNA.md",
-    "javascript/Requisições/Thumbnails com js.md",
     "Anexos/Pasted image 20231110232713.png",
     "Anexos/Pasted image 20231109215807.png",
     "Anexos/Pasted image 20231109215407.png",
@@ -195,11 +180,9 @@
     "javascript/Requisições/Promises com async_await.md",
     "javascript/Requisições/CALLBACK.md",
     "Anexos/Pasted image 20231107214005.png",
-    "Cores Markedown.md",
     "javascript/Requisições/SÍNCRONO E ASSÍNCRONO.md",
     "javascript/Requisições/API (Aplication Programming Interface).md",
     "Anexos/Pasted image 20231106224648.png",
-    "Anexos/Pasted image 20231106224441.png",
     "javascript/Requisições/MÉTODOS DE REQUISIÇÃO.md",
     "javascript/Requisições/Requisições na prática.md",
     "LINUX/Comandos de processos.md",
@@ -222,7 +205,6 @@
     "Anexos/progit (1) 1.pdf",
     "Anexos/progit (1).pdf",
     "Comandos terminal windows",
-    "Comandps",
     "Sem título.canvas",
     "Sem título 3.canvas",
     "Sem título 2.canvas",
