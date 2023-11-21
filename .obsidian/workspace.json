@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/Manipulação de string/MÉTODOS DE STRING.md",
+                "file": "javascript/Manipulação de string/MÉTODOS DE NUMBERS.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/Manipulação de string/MÉTODOS DE STRING.md",
+                "file": "javascript/Manipulação de string/MÉTODOS DE NUMBERS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "javascript/Manipulação de string/MÉTODOS DE STRING.md",
+                "file": "javascript/Manipulação de string/MÉTODOS DE NUMBERS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javascript/Manipulação de string/MÉTODOS DE STRING.md"
+                "file": "javascript/Manipulação de string/MÉTODOS DE NUMBERS.md"
               }
             }
           },
@@ -177,11 +177,27 @@
   },
   "active": "993a95f76a9af0ae",
   "lastOpenFiles": [
+    "Comandos Markdown.md",
+    "javascript/Manipulação de string/MÉTODOS DE NUMBERS.md",
     "Cores Markedown.md",
     "javascript/Manipulação de string/MÉTODOS DE STRING.md",
-    "Comandos do terminal do windows.md",
-    "Comandos Markdown.md",
+    "Git/Comandos.md",
+    "Git/Commitando no github.md",
+    "Git/Conectando ao GitHub com ssh.md",
+    "Git/Especifica um nome para um commit.md",
+    "Git/Instalando e inicializando o Git.md",
+    "Git/Instalando e sincronizando com Github CLI.md",
+    "Git/Modificações detalhadas(diff).md",
     "Git/PADRÕES DE COMMIT.md",
+    "Git/Vscode com Git.md",
+    "Git/Sincronizando o repositório local com o GitHub com https.md",
+    "Git/Resolvendo conflitos do Merge.md",
+    "Git/Recebendo alterações do github.md",
+    "Git/Alterando repositório.md",
+    "Git/Atualizando o arquivo remoto do gitHub.md",
+    "Git/Clonando um repositório de terceiros.md",
+    "Git/Corrigindo mensagens do commit.md",
+    "Comandos do terminal do windows.md",
     "javascript/Requisições/Thumbnails com js.md",
     "javascript/Manipulação de string",
     "Anexos/Pasted image 20231110233343.png",
@@ -196,24 +212,8 @@
     "javascript/CONDICIONAL.md",
     "javascript/Requisições/Fetch com post.md",
     "javascript/Requisições/Promisses com resolve e reject.md",
-    "javascript/Requisições/Promise e gerenciamento de erros.md",
-    "javascript/Requisições/Promises com async_await.md",
-    "javascript/Requisições/CALLBACK.md",
     "Anexos/Pasted image 20231107214005.png",
-    "javascript/Requisições/SÍNCRONO E ASSÍNCRONO.md",
-    "javascript/Requisições/API (Aplication Programming Interface).md",
     "Anexos/Pasted image 20231106224648.png",
-    "javascript/Requisições/MÉTODOS DE REQUISIÇÃO.md",
-    "javascript/Requisições/Requisições na prática.md",
-    "LINUX/Comandos de processos.md",
-    "LINUX/Comandos de gerenciamentos de pacotes(Ubunto).md",
-    "LINUX/Comandos de acesso e permissões.md",
-    "Git/Recebendo alterações do github.md",
-    "Git/Instalando e sincronizando com Github CLI.md",
-    "Git/Corrigindo mensagens do commit.md",
-    "Git/Comandos.md",
-    "Git/Clonando um repositório de terceiros.md",
-    "Git/Atualizando o arquivo remoto do gitHub.md",
     "javascript/Requisições",
     "Anexos/Roteiro Utilizacao Figma.pdf",
     "Sites wokrs",
