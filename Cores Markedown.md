@@ -69,6 +69,10 @@
 <span style="color: #1E90FF">DodgerBlue</span>
 ```
 
+## <span style="color:#20B2AA">LightSeaGreen</span>
+```
+<span style="color:#20B2AA">LightSeaGreen</span>
+```
 
 ----
 https://www.henriqueguimaraes.com/tabela-de-cores-html-com-nome-rgb-e-hexadecimal/
