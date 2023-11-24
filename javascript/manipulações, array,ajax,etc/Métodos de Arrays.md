@@ -130,3 +130,119 @@ console.log(res);
 // ['ovo','massa','farinha','corante' ]
 ```
 
+# <span style="color:#6495ED">map</span>
+- O método **map()** invoca a função `callback` passada por argumento para cada elemento do Array e devolve um <u>novo</u> Array como resultado.
+- mapeia o array e executa a função em cada item do array
+```js
+let lista = [45, 4, 9, 16, 25];
+let lista2 = [];
+
+lista2 = lista.map(function(item) {
+	return item * 2;
+});
+*/*
+for(let i in lista){
+	lista2.push(lista[i] *2);
+}*/
+let res = lista2;
+console.log(res);
+//[90, 08, 18, 32, 50]
+```
+
+# <span style="color:#DC143C">filter</span>
+- O método **`filter()`** cria um novo array com todos os elementos que passaram no teste implementado pela função fornecida.
+- filtra o array e retorna false ou true
+```js
+let lista = [45, 4, 9, 16, 25];
+let lista2 = [];
+
+lista2 = lista.filter(function(item) {
+	if(item > 20) {
+		return true;
+		} else {
+			return false
+			}
+	}
+});
+
+let res = lista2;
+console.log(res);
+```
+
+# <span style="color:#FF4500">every</span>
+- O método `every()` testa se todos os elementos do array passam pelo teste implementado pela função fornecida. Este método retorna um valor booleano.
+```js
+let lista = [45, 4, 9, 16, 25];
+let lista2 = [];
+
+lista2 = lista.every(function(item) {
+	if(item > 20) {
+		return true;
+		} else {
+			return false
+			}
+	}
+});
+
+let res = lista2;
+console.log(res);
+//false
+```
+
+# <span style="color:#BDB76B">some</span>
+- O método **`some()`** testa se ao menos um dos elementos no array passa no teste implementado pela função atribuída e retorna um valor **`true`** ou **`false`**.
+```js
+let lista = [45, 4, 9, 16, 25];
+let lista2 = [];
+
+lista2 = lista.some(function(item) {
+	return (item >3)? true : false;
+});
+
+let res = lista2;
+console.log(res);
+//false
+```
+
+# <span style="color:green">find</span> 
+- O método **`find()`** retorna o <u>valor do primeiro elemento</u> do array que satisfizer a função de teste provida. Caso contrario, [`undefined`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/undefined) é retornado.
+- ``find(function(item,index,array){};)
+```js
+let lista = [45, 4, 9, 16, 25];
+let lista2 = [];
+
+lista2 = lista.find(function(item) {
+	return (item == 16)? true : false;
+});
+
+let res = lista2;
+console.log(res);
+//16
+```
+<span style="color:orange">Exemplo 2</span>
+```js
+let lista = [
+	{id:1, nome:'kerton', sobrenome:'Marinho'}
+	{id:2, nome:'Daniela', sobrenome:'Marinho'}
+	{id:3, nome:'kevin', sobrenome:'Marinho'}
+];
+let pessoa = lista.find(function(item){
+	return (item.id == 3) ? true : false;
+});
+let res = pessoa;
+console.log(res);
+```
+# <span style="color:salmon">findIndex</span>
+- O método **`findIndex()`** retorna o **índice** no array do primeiro elemento que satisfizer a função de teste provida. Caso contrário, retorna -1, indicando que nenhum elemento passou no teste.
+```js
+let lista = [45, 4, 9, 16, 25];
+let lista2 = [];
+
+lista2 = lista.findIndex(function(item) {
+	return (item == 16)? true : false;
+});
+
+let res = lista2;
+console.log(res);
+//3
+```

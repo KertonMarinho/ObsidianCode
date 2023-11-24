@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/Manipulação de string/Métodos de Arrays.md",
+                "file": "javascript/manipulações, array,ajax,etc/DATAS.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/Manipulação de string/Métodos de Arrays.md",
+                "file": "javascript/manipulações, array,ajax,etc/DATAS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "javascript/Manipulação de string/Métodos de Arrays.md",
+                "file": "javascript/manipulações, array,ajax,etc/DATAS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javascript/Manipulação de string/Métodos de Arrays.md"
+                "file": "javascript/manipulações, array,ajax,etc/DATAS.md"
               }
             }
           },
@@ -177,11 +177,12 @@
   },
   "active": "993a95f76a9af0ae",
   "lastOpenFiles": [
+    "javascript/manipulações, array,ajax,etc/Métodos de Arrays.md",
+    "javascript/manipulações, array,ajax,etc/DATAS.md",
     "Cores Markedown.md",
-    "javascript/Manipulação de string/Métodos de Arrays.md",
-    "javascript/Manipulação de string/MÉTODOS DE NUMBERS.md",
+    "javascript/manipulações, array,ajax,etc/MÉTODOS DE NUMBERS.md",
     "Comandos Markdown.md",
-    "javascript/Manipulação de string/MÉTODOS DE STRING.md",
+    "javascript/manipulações, array,ajax,etc/MÉTODOS DE STRING.md",
     "Git/Comandos.md",
     "Git/Commitando no github.md",
     "Git/Conectando ao GitHub com ssh.md",
@@ -200,7 +201,7 @@
     "Git/Corrigindo mensagens do commit.md",
     "Comandos do terminal do windows.md",
     "javascript/Requisições/Thumbnails com js.md",
-    "javascript/Manipulação de string",
+    "javascript/manipulações, array,ajax,etc",
     "Anexos/Pasted image 20231110233343.png",
     "Anexos/Pasted image 20231110233211.png",
     "Anexos/Pasted image 20231110233137.png",
@@ -211,7 +212,6 @@
     "Anexos/Pasted image 20231109215135.png",
     "Anexos/Pasted image 20231109214606.png",
     "javascript/CONDICIONAL.md",
-    "javascript/Requisições/Fetch com post.md",
     "Anexos/Pasted image 20231107214005.png",
     "Anexos/Pasted image 20231106224648.png",
     "javascript/Requisições",
