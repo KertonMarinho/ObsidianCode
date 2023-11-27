@@ -83,4 +83,17 @@ def find_sum(my_array):
 
 ---
 ## <span style="color:yellow">Big (o)  -  Tempo Logarítmo - O (log n)</span>
-tudo certo com a automçao
+- Quando o algoritmo reduz  o tamanho de entrada a cada iteração
+- Um algoritmo tem tempo logarítmico quando ele reduz o tamanho dos dados de entrada a cada iteração. Desta forma, ele não precisa olhar todos os dados de entrada para concluir sua tarefa.
+- - A cada execução do algoritmo ele está separando os dados, cortando eles pela metade e fazendo uma busca que tem ser feito.
+![[Pasted image 20231126223909.png]]
+-  Ele corta pela metade, executa, corta pela metade novamente, executa...sucessivamente(ex: ave binária)
+- Sempre lembra que Log de n vc corta os elementos pela metade e vai fazendo as interações.
+--- 
+## <span style="color:yellow">Tempo quadrático O (2^n)</span>
+- Quando o Algoritmo tem a necessidade  de executar uma operação linear para cada valor dentro dos dados de entrada.
+- O algoritmo é considerado com complexidade quadrática quando tem a necessidade de perormar uma operação de tempo linear para cada valor dentro dos dados de entrada. Dica: Normalmente, quando tem um "for" dentro de outro.
+- ![[Pasted image 20231126224709.png]]
+- Três listras seriam (n^3), o conceito é o mesmo.
+- Quando temos uma interação dentro da outra teremos esse padrão
+- É bastante lento, muito usados em arrays e força bruta
