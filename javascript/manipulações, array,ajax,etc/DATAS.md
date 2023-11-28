@@ -63,3 +63,80 @@ let d = new date();
 console.log(d.toUTCString);
 //tue, 30 Dec 1969 13:47:23 GMT
 ```
+---
+# Pegar somente o ano da data
+```js
+let d = new date();
+let nonoValor = d.getFullYear();
+console.log(novoValor);
+//2019
+```
+
+# Pegar somente o mês
+```js
+let d = new date();
+let nonoValor = d.getMonth();
+console.log(novoValor);
+//8 (lembrando que o mês começa no zero)
+```
+
+# Pegar o dia da semana
+`` a semana começa no zero(domingo)
+```js
+let d = new date();
+let nonoValor = d.getDay();
+console.log(novoValor);
+//3 => quarta-feira
+```
+# Pega o dia
+```js
+let d = new date();
+let nonoValor = d.getDate();
+console.log(novoValor);
+//11
+```
+# Pega a hora
+```js
+let d = new date();
+let nonoValor = d.getHours();
+console.log(novoValor);
+//8
+```
+# Pega os minutos
+```js
+let d = new date();
+let nonoValor = d.getMinutes();
+console.log(novoValor);
+//17
+```
+
+# Pega os segundos
+```js
+let d = new date();
+let nonoValor = d.getSeconds();
+console.log(novoValor);
+//27
+```
+# Pegar os milisegundos
+```js
+let d = new date();
+let nonoValor = d.getMilliseconds();
+console.log(novoValor);
+//631
+```
+# Pegar o Time stanp
+- Quantidades de milissegundos desde 1970
+```js
+let d = new date();
+let nonoValor = d.getTime();
+console.log(novoValor);
+//1568200763622
+```
+# Pegar o horario atual em time stamp sem definir uma variável
+- Retorna o Time stamp do momento atual
+```js
+let d = new date();
+let nonoValor = d.date.now();
+console.log(novoValor);
+//1568200763622(fica atualizando)
+```

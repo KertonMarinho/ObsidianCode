@@ -97,3 +97,11 @@ def find_sum(my_array):
 - Três listras seriam (n^3), o conceito é o mesmo.
 - Quando temos uma interação dentro da outra teremos esse padrão
 - É bastante lento, muito usados em arrays e força bruta
+- --
+## <span style="color:yellow">Tempo exponencial - O (2<sup>n</sup>)</span>
+- Quando p algoritmo de tamanho n recursivamente com dois sub-problemas de tamanho n-1
+- Um algoritmo é considerado com tempo exponencial quando o crescimento do tempo dobra para cada item adicionado aos dados de entrada. 
+- Este tipo de complexidade é muito vista em algoritmos de força bruta.
+![[Pasted image 20231127232102.png]]
+>[!warning]
+> Recursividade, em uma explicação simples, é quando um método/função faz uma chamada de si mesmo. No exemplo acima, perceba qua a função fibonacci chama a ela mesma no corpo do seu algoritmo
