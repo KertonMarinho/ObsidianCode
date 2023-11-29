@@ -105,3 +105,13 @@ def find_sum(my_array):
 ![[Pasted image 20231127232102.png]]
 >[!warning]
 > Recursividade, em uma explicação simples, é quando um método/função faz uma chamada de si mesmo. No exemplo acima, perceba qua a função fibonacci chama a ela mesma no corpo do seu algoritmo
+
+---
+## <span style="color:yellow">Tempo fatorial - O (n!)</span>
+- Quando de forma fatorial de acordo com os dados de entrada
+- Um algoritmo é dito como tempo fatorial quando ele cresce de forma fatorial baseado nos dados de entrada
+![[Pasted image 20231128225327.png]]
+
+---
+# Chat de complexidade
+![[Pasted image 20231128230758.png]]

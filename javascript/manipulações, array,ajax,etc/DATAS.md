@@ -140,3 +140,37 @@ let nonoValor = d.date.now();
 console.log(novoValor);
 //1568200763622(fica atualizando)
 ```
+
+# Trocar o ano
+```js
+let d = new date();
+d.setFullYear(2022);
+console.log(novoValor);
+////wed Jan 01 2022 15:42:39 gmt-300 (horáriode Brasília)
+```
+
+# Trocar o mês
+```js
+let d = new date();
+d.setMonth(11)
+console.log(novoValor);
+////wed Dec 01 2020 15:42:39 gmt-300 (horáriode Brasília)
+```
+
+# Aumentar a data(dia) com setDate
+```js
+let d = new date();
+d.setDate(d.getDate()+ 5 );
+let novoValor = d;
+console.log(novoValor);
+////wed Jan 06 2022 15:42:39 gmt-300 (horáriode Brasília)
+```
+
+# Aumentar a hora com setHours
+```js
+let d = new date();
+d.setHours(d.getHours() + 24); //pode dimnuir também (-)
+console.log(novoValor);
+////thu Jan 02 2022 15:42:39 gmt-300 (horáriode Brasília)
+```
+- Pode ser com minutos, segundos, etc...
