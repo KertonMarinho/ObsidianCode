@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algomania/Big(o).md",
+                "file": "javascript/manipulações, array,ajax,etc/Matemática.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algomania/Big(o).md",
+                "file": "javascript/manipulações, array,ajax,etc/Matemática.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algomania/Big(o).md",
+                "file": "javascript/manipulações, array,ajax,etc/Matemática.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algomania/Big(o).md"
+                "file": "javascript/manipulações, array,ajax,etc/Matemática.md"
               }
             }
           },
@@ -177,11 +177,14 @@
   },
   "active": "993a95f76a9af0ae",
   "lastOpenFiles": [
+    "pdf/Tutorial_criar_conta_000webhost_vf.pdf",
+    "javascript/manipulações, array,ajax,etc/Matemática.md",
+    "pdf/Múltiplas contas GIT no mesmo computador.pdf",
+    "Algomania/Big(o).md",
     "Anexos/Pasted image 20231128230758.png",
     "Anexos/Pasted image 20231128225327.png",
     "Anexos/Pasted image 20231128225206.png",
     "javascript/manipulações, array,ajax,etc/DATAS.md",
-    "Algomania/Big(o).md",
     "Comandos Markdown.md",
     "Anexos/Pasted image 20231127232102.png",
     "Anexos/Servidor de hospedagem gratis webHost.md",
@@ -209,12 +212,10 @@
     "Git/Alterando repositório.md",
     "Git/Atualizando o arquivo remoto do gitHub.md",
     "Git/Clonando um repositório de terceiros.md",
-    "Git/Corrigindo mensagens do commit.md",
     "javascript/manipulações, array,ajax,etc",
     "Anexos/Pasted image 20231110233343.png",
     "Anexos/Pasted image 20231110233211.png",
     "Anexos/Pasted image 20231110233137.png",
-    "Anexos/Pasted image 20231110232713.png",
     "javascript/Requisições",
     "Sites wokrs",
     "javascript/manipulaçâo do Dom/Sem título",
@@ -222,7 +223,6 @@
     "Node/preparando o desenvovimento",
     "Anexos/progit (1) 1.pdf",
     "Anexos/progit (1).pdf",
-    "Comandos terminal windows",
     "Sem título.canvas",
     "Sem título 3.canvas",
     "Sem título 2.canvas",
