@@ -40,9 +40,29 @@ console.log(pessoaNome, sobrenome, idade);
 ```js
 	let { facebook, instagram} = pessoa.social;
 ```
-- Pega objetos dentro dos objetos com outras vaiáveis:
+- Pega objetos dentro dos objetos com outras variáveis:
 ```js
 	let { nome, idade, social:{ instagram}} = pessoa;
 	console.log(nome, idade, instagram);
 	//kerton 120 @kerton
+```
+- Pega objetos dentro dos objetos com outras variáveis:
+```js
+social: {
+		facebook: '@kerton',
+		instagram: :{
+			url:'@kerton'
+		}
+	},
+...
+let { nome, idade, social:{ instagram:{url:instagram}}} = pessoa;
+	console.log(nome, idade, instagram);
+	//kerton 120 @kerton
+```
+- Pega opbjeto com uma função:
+```js
+function pegarNomeCompleto({nome, sobrenome = `silva`}) {
+	return `${nome} ${sobrenome}`;
+}
+console.log(pegarNomeCompleto(pessoa));
 ```
