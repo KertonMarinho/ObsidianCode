@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/manipulações, array,ajax,etc/Desconstruindo Arrays.md",
+                "file": "javascript/manipulações, array,ajax,etc/Operador Rest.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/manipulações, array,ajax,etc/Desconstruindo Arrays.md",
+                "file": "javascript/manipulações, array,ajax,etc/Operador Rest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "javascript/manipulações, array,ajax,etc/Desconstruindo Arrays.md",
+                "file": "javascript/manipulações, array,ajax,etc/Operador Rest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javascript/manipulações, array,ajax,etc/Desconstruindo Arrays.md"
+                "file": "javascript/manipulações, array,ajax,etc/Operador Rest.md"
               }
             }
           },
@@ -177,10 +177,15 @@
   },
   "active": "993a95f76a9af0ae",
   "lastOpenFiles": [
-    "javascript/manipulações, array,ajax,etc/Desconstruindo Objetos.md",
-    "javascript/manipulações, array,ajax,etc/Desconstruindo Arrays.md",
-    "javascript/manipulações, array,ajax,etc/Template String.md",
+    "Anexos/Pasted image 20231213231001.png",
+    "Anexos/Pasted image 20231213230912.png",
     "Cores Markedown.md",
+    "javascript/manipulações, array,ajax,etc/Operador Rest.md",
+    "javascript/manipulações, array,ajax,etc/Operador Spread.md",
+    "javascript/manipulações, array,ajax,etc/Array function.md",
+    "javascript/manipulações, array,ajax,etc/Template String.md",
+    "javascript/manipulações, array,ajax,etc/Desconstruindo Arrays.md",
+    "javascript/manipulações, array,ajax,etc/Desconstruindo Objetos.md",
     "javascript/manipulações, array,ajax,etc/Intervalos(times, eventos).md",
     "Anexos/Pasted image 20231202075653.png",
     "Anexos/Pasted image 20231202075602.png",
@@ -211,12 +216,7 @@
     "Git/Instalando e sincronizando com Github CLI.md",
     "Git/Modificações detalhadas(diff).md",
     "Git/PADRÕES DE COMMIT.md",
-    "Git/Vscode com Git.md",
-    "Git/Sincronizando o repositório local com o GitHub com https.md",
-    "Git/Resolvendo conflitos do Merge.md",
-    "Git/Recebendo alterações do github.md",
     "javascript/manipulações, array,ajax,etc",
-    "Anexos/Pasted image 20231110233343.png",
     "javascript/Requisições",
     "Sites wokrs",
     "javascript/manipulaçâo do Dom/Sem título",
