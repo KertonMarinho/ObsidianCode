@@ -42,3 +42,6 @@ var nome da variável = nome+"(espaço)"+sobrenome
 let nomeCompleto = `${nome} {sobrenome}`;
 |> nome sobrenome
 ```
+---
+## COLOCANDO SINAL DE MAIS EM UMA VARIÁVEL TRASNFORMA STRING EM NÚMERO:
+![[Pasted image 20231219220922.png]]

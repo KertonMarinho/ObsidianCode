@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/manipulações, array,ajax,etc/Operador Rest.md",
+                "file": "TYPESCRIPT/INSTALAÇÃO.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/manipulações, array,ajax,etc/Operador Rest.md",
+                "file": "TYPESCRIPT/INSTALAÇÃO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "javascript/manipulações, array,ajax,etc/Operador Rest.md",
+                "file": "TYPESCRIPT/INSTALAÇÃO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javascript/manipulações, array,ajax,etc/Operador Rest.md"
+                "file": "TYPESCRIPT/INSTALAÇÃO.md"
               }
             }
           },
@@ -177,10 +177,23 @@
   },
   "active": "993a95f76a9af0ae",
   "lastOpenFiles": [
+    "Anexos/Pasted image 20231219223934.png",
+    "Anexos/Pasted image 20231219223644.png",
+    "Node/preparando o desenvovimento/Criando o primeiro projeto.md",
+    "TYPESCRIPT/INSTALAÇÃO.md",
+    "Node/INSTALANDO O EXPRESS E CRIANDO UM SERVIDOR.md",
+    "javascript/Tópicos.md",
+    "Anexos/Pasted image 20231219220922.png",
+    "Anexos/Pasted image 20231219220804.png",
+    "javascript/manipulações, array,ajax,etc/string, padStart, padEnd.md",
+    "TYPESCRIPT",
+    "Cores Markedown.md",
+    "javascript/manipulações, array,ajax,etc/OBJETO_KEY, VALUE E ENTRIES.md",
+    "Anexos/Pasted image 20231218223839.png",
+    "javascript/manipulações, array,ajax,etc/Includes e repeat.md",
+    "javascript/manipulações, array,ajax,etc/Operador Rest.md",
     "Anexos/Pasted image 20231213231001.png",
     "Anexos/Pasted image 20231213230912.png",
-    "Cores Markedown.md",
-    "javascript/manipulações, array,ajax,etc/Operador Rest.md",
     "javascript/manipulações, array,ajax,etc/Operador Spread.md",
     "javascript/manipulações, array,ajax,etc/Array function.md",
     "javascript/manipulações, array,ajax,etc/Template String.md",
@@ -195,34 +208,21 @@
     "Algomania/Big(o).md",
     "Anexos/Pasted image 20231128230758.png",
     "Anexos/Pasted image 20231128225327.png",
-    "Anexos/Pasted image 20231128225206.png",
     "javascript/manipulações, array,ajax,etc/DATAS.md",
     "Comandos Markdown.md",
-    "Anexos/Pasted image 20231127232102.png",
     "Anexos/Servidor de hospedagem gratis webHost.md",
     "Anexos/Roteiro Utilizacao Figma.pdf",
-    "Anexos/WhatsApp Image 2023-10-28 at 08.59.33.jpeg",
-    "Anexos/Pasted image 20231126224709.png",
-    "Anexos/Pasted image 20231126223909.png",
     "javascript/manipulações, array,ajax,etc/Métodos de Arrays.md",
     "Node/preparando o desenvovimento/Export e import.md",
     "javascript/manipulações, array,ajax,etc/MÉTODOS DE NUMBERS.md",
     "javascript/manipulações, array,ajax,etc/MÉTODOS DE STRING.md",
     "Git/Comandos.md",
-    "Git/Commitando no github.md",
-    "Git/Conectando ao GitHub com ssh.md",
-    "Git/Especifica um nome para um commit.md",
-    "Git/Instalando e inicializando o Git.md",
-    "Git/Instalando e sincronizando com Github CLI.md",
-    "Git/Modificações detalhadas(diff).md",
-    "Git/PADRÕES DE COMMIT.md",
     "javascript/manipulações, array,ajax,etc",
     "javascript/Requisições",
     "Sites wokrs",
     "javascript/manipulaçâo do Dom/Sem título",
     "Algomania",
     "Node/preparando o desenvovimento",
-    "Anexos/progit (1) 1.pdf",
     "Sem título.canvas",
     "Sem título 3.canvas",
     "Sem título 2.canvas",

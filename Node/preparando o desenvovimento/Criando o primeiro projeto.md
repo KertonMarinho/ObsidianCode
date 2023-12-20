@@ -1,5 +1,5 @@
 Na pasta criada do projeto:
-inicia o npm
+inicia o npm(gerenciador de pacotes)
 
 ```shell
 npm init
