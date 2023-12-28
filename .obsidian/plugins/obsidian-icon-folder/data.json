@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "OiIcons8Typescript",
       "OiQuestionMarkIcon34771",
       "OiLetterOIconPng20914(1)",
       "OiTerminalWindowIcon143500",
-      "OiImgFiletypeIcon151817",
-      "OiPdf"
+      "OiImgFiletypeIcon151817"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -53,5 +53,13 @@
   },
   "LINUX/Terminologia Linux.md": "FabDev",
   "Challenge.md": "OiQuestionMarkIcon34771",
-  "Anexos": "OiImgFiletypeIcon151817"
+  "Anexos": "OiImgFiletypeIcon151817",
+  "TYPESCRIPT": {
+    "iconName": "OiIcons8Typescript",
+    "inheritanceIcon": "OiIcons8Typescript"
+  },
+  "TYPESCRIPT/TYPE ANY(QUANDO USÁ-LO).md": {
+    "iconName": null,
+    "inheritanceIcon": "OiIcons8Typescript"
+  }
 }

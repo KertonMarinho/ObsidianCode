@@ -15,7 +15,37 @@ c:users\kerton> tsc --version
 5. Agora entre na pasta do projeto pelo terminal
 6. Converta o typescript Usando o terminal
 ```typescript
-c:\projetos\typescript tsc <nome do arquivo que quer mudar comveter>
+c:\projetos\typescript tsc <nome do arquivo que  comveter>
 ```
 
+7. cria uma pasta ``public`` e outra pasta ``src``(significa código fonte), o HTML e o javascript vai para pasta pública e o typescript vai para pasta src
+8. de o comando no terminal para que quando se converte o typescript para js ele cria o arquivo js na pasta desejada(src)
+```bash
+c:/projetos\typescript src/script.ts --outDir public
+//outDir= auto pult diretory
+```
 
+9. coloca as tipagens no valor n1 e n2
+```typescript
+function calcular(n1: number, n2: number){
+	return n1 + n2;
+}
+```
+
+>[!warning]
+>O value de todo elemento HTML sempre retornará por padrão uma string
+
+- Então o valor(do value) deve ser convertido para número(usando o sinal de mais ou o parseInt):
+```typescript
+botao.addEventListener('click', function(){
+	res.innerHTTML = calcular(+numero1.value, +numero2.value);
+})
+```
+
+10. Transforme o resultado de retorno em string com toString:
+
+```typescript
+botao.addEventListener('click', function(){
+	res.innerHTTML = calcular(+numero1.value, +numero2.value).toString;
+})
+```
