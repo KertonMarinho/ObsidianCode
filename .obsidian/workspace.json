@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Instalando e inicializando o Git.md",
+                "file": "CONFIGURAÇÃO DO TYPESCRIPT.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Instalando e inicializando o Git.md",
+                "file": "CONFIGURAÇÃO DO TYPESCRIPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Instalando e inicializando o Git.md",
+                "file": "CONFIGURAÇÃO DO TYPESCRIPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Instalando e inicializando o Git.md"
+                "file": "CONFIGURAÇÃO DO TYPESCRIPT.md"
               }
             }
           },
@@ -192,15 +192,26 @@
   },
   "active": "dc5aa3788f857508",
   "lastOpenFiles": [
-    "Git/Alterando repositório.md",
+    "Anexos/Pasted image 20231228155056.png",
+    "Anexos/Pasted image 20231228153643.png",
+    "javascript/manipulaçâo do Dom/Adicionando uma imagem em uma tag do html.md",
+    "javascript/manipulaçâo do Dom/Adicionar um conteúdo em uma class.md",
+    "javascript/manipulaçâo do Dom/Eventos do teclado.md",
+    "javascript/manipulaçâo do Dom/manipulação de elementos.md",
+    "javascript/manipulaçâo do Dom/MANIPULANDO ATRIBUTOS.md",
+    "javascript/manipulaçâo do Dom/Manipulando o css.md",
     "Git/Atualizando o arquivo remoto do gitHub.md",
+    "CONFIGURAÇÃO DO TYPESCRIPT.md",
+    "TYPESCRIPT/RETORNO VOID.md",
+    "Cores Markedown.md",
+    "Git/Instalando e inicializando o Git.md",
+    "Git/Alterando repositório.md",
     "Git/Sincronizando o repositório local com o GitHub com https.md",
     "Git/Resolvendo conflitos do Merge.md",
     "Git/PADRÕES DE COMMIT.md",
     "Git/Modificações detalhadas(diff).md",
     "Git/Instalando e sincronizando com Github CLI.md",
     "Git/ignore arquivos do gitHUb.md",
-    "Git/Instalando e inicializando o Git.md",
     "Git/Vscode com Git.md",
     "Git/Voltando ao commit especifico.md",
     "TYPESCRIPT/TYPES PARA FUNÇÕES COM PARÂMETROS E RETORNOS.md",
@@ -208,16 +219,6 @@
     "TYPESCRIPT/TYPE ANY(QUANDO USÁ-LO).md",
     "TYPESCRIPT/TYPE EM ARRAYS.md",
     "TYPESCRIPT/TYPE E INTERFACE LITERAIS.md",
-    "Challenge.md",
-    "Cores Markedown.md",
-    "TYPESCRIPT/TYPE ASSERTIONS(as).md",
-    "TYPESCRIPT/CRIANDO TYPES(TYPES E INTERFACES, COMO USAR E DIFERENÇAS).md",
-    "Comandos Markdown.md",
-    "TYPESCRIPT/TYPES MÚLTIPLOS.md",
-    "Site help or works.md",
-    "Comandos do terminal do windows.md",
-    "GROSSÁRIO DE DESENVOLVEDOR.md",
-    "TYPESCRIPT/TYPES EM OBJETOS.md",
     "Anexos/Pasted image 20231219223934.png",
     "Anexos/Pasted image 20231219223644.png",
     "Anexos/Pasted image 20231219220922.png",
@@ -230,7 +231,6 @@
     "Anexos/Pasted image 20231202075602.png",
     "pdf/Tutorial_criar_conta_000webhost_vf.pdf",
     "pdf/Múltiplas contas GIT no mesmo computador.pdf",
-    "Anexos/Pasted image 20231128230758.png",
     "Anexos/Roteiro Utilizacao Figma.pdf",
     "javascript/manipulações, array,ajax,etc",
     "javascript/Requisições",
