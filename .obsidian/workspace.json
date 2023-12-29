@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CONFIGURAÇÃO DO TYPESCRIPT.md",
+                "file": "TYPESCRIPT/Documentação do Typescript.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CONFIGURAÇÃO DO TYPESCRIPT.md",
+                "file": "TYPESCRIPT/Documentação do Typescript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CONFIGURAÇÃO DO TYPESCRIPT.md",
+                "file": "TYPESCRIPT/Documentação do Typescript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CONFIGURAÇÃO DO TYPESCRIPT.md"
+                "file": "TYPESCRIPT/Documentação do Typescript.md"
               }
             }
           },
@@ -192,8 +192,23 @@
   },
   "active": "dc5aa3788f857508",
   "lastOpenFiles": [
-    "Anexos/Pasted image 20231228155056.png",
-    "Anexos/Pasted image 20231228153643.png",
+    "TYPESCRIPT/CONFIGURAÇÃO DO TYPESCRIPT.md",
+    "TYPESCRIPT/Documentação do Typescript.md",
+    "Anexos/Pasted image 20231229114606.png",
+    "Cores Markedown.md",
+    "Anexos/Pasted image 20231229114403.png",
+    "Anexos/Pasted image 20231229114207.png",
+    "Anexos/Pasted image 20231229114121.png",
+    "Anexos/Pasted image 20231229114111.png",
+    "Anexos/Pasted image 20231229113910.png",
+    "Anexos/Pasted image 20231229113313.png",
+    "Anexos/Pasted image 20231229113126.png",
+    "Anexos/Pasted image 20231229112809.png",
+    "TYPESCRIPT/INSTALAÇÃO.md",
+    "TYPESCRIPT/CRIANDO TYPES(TYPES E INTERFACES, COMO USAR E DIFERENÇAS).md",
+    "TYPESCRIPT/COMANDO NÃO GERAR O jS SE TIVER ERRO.md",
+    "TYPESCRIPT/TYPES PARA FUNÇÕES COM PARÂMETROS E RETORNOS.md",
+    "Anexos/Pasted image 20231229112426.png",
     "javascript/manipulaçâo do Dom/Adicionando uma imagem em uma tag do html.md",
     "javascript/manipulaçâo do Dom/Adicionar um conteúdo em uma class.md",
     "javascript/manipulaçâo do Dom/Eventos do teclado.md",
@@ -201,9 +216,7 @@
     "javascript/manipulaçâo do Dom/MANIPULANDO ATRIBUTOS.md",
     "javascript/manipulaçâo do Dom/Manipulando o css.md",
     "Git/Atualizando o arquivo remoto do gitHub.md",
-    "CONFIGURAÇÃO DO TYPESCRIPT.md",
     "TYPESCRIPT/RETORNO VOID.md",
-    "Cores Markedown.md",
     "Git/Instalando e inicializando o Git.md",
     "Git/Alterando repositório.md",
     "Git/Sincronizando o repositório local com o GitHub com https.md",
@@ -214,21 +227,8 @@
     "Git/ignore arquivos do gitHUb.md",
     "Git/Vscode com Git.md",
     "Git/Voltando ao commit especifico.md",
-    "TYPESCRIPT/TYPES PARA FUNÇÕES COM PARÂMETROS E RETORNOS.md",
     "TYPESCRIPT/TYPES EM FUNÇÃO.md",
-    "TYPESCRIPT/TYPE ANY(QUANDO USÁ-LO).md",
-    "TYPESCRIPT/TYPE EM ARRAYS.md",
-    "TYPESCRIPT/TYPE E INTERFACE LITERAIS.md",
-    "Anexos/Pasted image 20231219223934.png",
-    "Anexos/Pasted image 20231219223644.png",
-    "Anexos/Pasted image 20231219220922.png",
-    "Anexos/Pasted image 20231219220804.png",
     "TYPESCRIPT",
-    "Anexos/Pasted image 20231218223839.png",
-    "Anexos/Pasted image 20231213231001.png",
-    "Anexos/Pasted image 20231213230912.png",
-    "Anexos/Pasted image 20231202075653.png",
-    "Anexos/Pasted image 20231202075602.png",
     "pdf/Tutorial_criar_conta_000webhost_vf.pdf",
     "pdf/Múltiplas contas GIT no mesmo computador.pdf",
     "Anexos/Roteiro Utilizacao Figma.pdf",
