@@ -60,10 +60,12 @@ if (verificação){
 	console.log("Não entrou no IF")
 }
 }
+//lembrando que só pode ter um else, senão tem quer usar (else if)
 ```
 ## Condicional tenário
 ```js
 let adult = (condição)? true : false;
+//(condição)?'valor verdadeiro': 'valor falso';
 ```
 - vc pode por entre parênteses
 ```js
@@ -91,3 +93,44 @@ switch (profession) {
 //defailt = siginifica padrão	
 }
 ```
+>[!Operadores de comparação]
+> diferente != (não muito usado)
+> diferente estrito !==
+> 
+>
+
+---
+# Avaliação curto-circuito(short-circuit)
+ - Na operação lógica &&, apartir do momento que tiver false ela vai retorna o valor false (avaliação curto-circuito)
+		``&& -> false && true -> false``
+```js
+console.log('Kerton'&& 0 && 'Maria');
+//0
+//se fosse todos os valores verdadeira , ele vai retornar a ultima verdadeira
+console.log('Kerton'&& true && 'Maria');
+//Maria
+```
+
+>[!Operadores de comparação]
+> Operador False
+> false
+> 0
+> Simbolos com vazio ``ou " " ou ' '
+> null / underfined
+> NaN = not a number
+
+- Pegadinha curto circutio
+```js
+const a = 0;
+const b = null;
+const c = 'false'; //essa é verdadeira, pois uma string é avaliado em verdadeiro
+const d = false;
+const e = Nan;
+console.log(a || b || C || d || E);
+//false (string)
+// A operação || (or) vai retorna a primeira que for verdadeiro
+```
+
+
+
+

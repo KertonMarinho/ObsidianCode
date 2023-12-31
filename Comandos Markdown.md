@@ -49,7 +49,7 @@ para gerar uma tabela separa cada item com uma barra vertical
 |item 1     | item2      |
 ```
 
-|cabeçalho 1|cabeçalho 2 |
+|cabeçalho 1 |cabeçalho 2 |
 |-------------|------------|
 |item 1     | item2      |
 

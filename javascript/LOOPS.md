@@ -47,6 +47,7 @@ for (let n = 0; n < cores.length; n++) {
 ---
 # <span style="color:yellow">loop while(enquanto)</span>
 - Enquanto a condição for satisfatória ele vai executar o código.
+- Quando não sabemos quantas repetições deverá ocorrer.
 ```js
 while (condição){
 	arg1; //parâmetro
@@ -61,3 +62,36 @@ while (numero < 10){
 	numero++; //evita loop infinito
 }
 ```
+
+### Usando while em uma sequência randômica, com parâmetros de parada com o número 10 :
+- Vai rodar até achar o número 10.
+```js
+function randon (min,max) {
+	const = Math.randon()*(max-min)+min; [!conta Randômica]
+	return parseInt(r.tofixed()); //Não use floor,pois ele sempre arredonda para baixo,impedindo que o número 50 apareça.
+}
+const min = 1;
+const max = 50;
+let rand = random(min,max);
+while(rand !==10) { //quando númeor randômico for diferente de 10 execute o código
+	rand = random(min,max); //condição de interação
+	console.log(rand);
+}
+```
+>[!conta Randômica]
+>Conta garante que o númeor fica entre o mínimo e máximo
+>Ex: min 5, max 21(númeor aleartório como 0,53)
+>0.53 * (21-5)+5
+>0.53 * 16+5
+>8,48 + 5
+>13,48
+
+>[!warning]
+>while = checa a condição, executa o código
+>Do While = excuta o código, depois checa a condição
+>Se a codição for false logo no começo o Do While para a execução
+>Do {
+>rand = random(min.max);
+>	console.log(rand);
+>} whilke (rand !== 10);
+

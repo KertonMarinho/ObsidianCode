@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TYPESCRIPT/Documentação do Typescript.md",
+                "file": "javascript/Arrays.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TYPESCRIPT/Documentação do Typescript.md",
+                "file": "javascript/Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TYPESCRIPT/Documentação do Typescript.md",
+                "file": "javascript/Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TYPESCRIPT/Documentação do Typescript.md"
+                "file": "javascript/Arrays.md"
               }
             }
           },
@@ -192,10 +192,31 @@
   },
   "active": "dc5aa3788f857508",
   "lastOpenFiles": [
+    "javascript/LOOPS.md",
+    "Comandos Markdown.md",
+    "javascript/CONDICIONAL.md",
+    "Comandos do terminal do windows.md",
+    "obsidian.md",
+    "javascript/manipulações, array,ajax,etc/string, padStart, padEnd.md",
+    "javascript/manipulações, array,ajax,etc/MÉTODOS DE STRING.md",
+    "javascript/Arrays.md",
+    "javascript/manipulações, array,ajax,etc/Desconstruindo Arrays.md",
+    "javascript/manipulações, array,ajax,etc/DATAS.md",
+    "javascript/manipulações, array,ajax,etc/Array function.md",
+    "javascript/Declaração de função.md",
+    "javascript/Funções.md",
+    "javascript/Tópicos.md",
+    "javascript/Codigos prontos.md",
+    "Cores Markedown.md",
+    "javascript/manipulaçâo do Dom/classes.md",
+    "javascript/Orientação a Objetos.md",
+    "javascript/OBJETOS.md",
+    "javascript/manipulações, array,ajax,etc/Template String.md",
+    "javascript/manipulações, array,ajax,etc/Operador Spread.md",
+    "javascript/manipulações, array,ajax,etc/Operador Rest.md",
     "TYPESCRIPT/CONFIGURAÇÃO DO TYPESCRIPT.md",
     "TYPESCRIPT/Documentação do Typescript.md",
     "Anexos/Pasted image 20231229114606.png",
-    "Cores Markedown.md",
     "Anexos/Pasted image 20231229114403.png",
     "Anexos/Pasted image 20231229114207.png",
     "Anexos/Pasted image 20231229114121.png",
@@ -206,28 +227,7 @@
     "Anexos/Pasted image 20231229112809.png",
     "TYPESCRIPT/INSTALAÇÃO.md",
     "TYPESCRIPT/CRIANDO TYPES(TYPES E INTERFACES, COMO USAR E DIFERENÇAS).md",
-    "TYPESCRIPT/COMANDO NÃO GERAR O jS SE TIVER ERRO.md",
-    "TYPESCRIPT/TYPES PARA FUNÇÕES COM PARÂMETROS E RETORNOS.md",
     "Anexos/Pasted image 20231229112426.png",
-    "javascript/manipulaçâo do Dom/Adicionando uma imagem em uma tag do html.md",
-    "javascript/manipulaçâo do Dom/Adicionar um conteúdo em uma class.md",
-    "javascript/manipulaçâo do Dom/Eventos do teclado.md",
-    "javascript/manipulaçâo do Dom/manipulação de elementos.md",
-    "javascript/manipulaçâo do Dom/MANIPULANDO ATRIBUTOS.md",
-    "javascript/manipulaçâo do Dom/Manipulando o css.md",
-    "Git/Atualizando o arquivo remoto do gitHub.md",
-    "TYPESCRIPT/RETORNO VOID.md",
-    "Git/Instalando e inicializando o Git.md",
-    "Git/Alterando repositório.md",
-    "Git/Sincronizando o repositório local com o GitHub com https.md",
-    "Git/Resolvendo conflitos do Merge.md",
-    "Git/PADRÕES DE COMMIT.md",
-    "Git/Modificações detalhadas(diff).md",
-    "Git/Instalando e sincronizando com Github CLI.md",
-    "Git/ignore arquivos do gitHUb.md",
-    "Git/Vscode com Git.md",
-    "Git/Voltando ao commit especifico.md",
-    "TYPESCRIPT/TYPES EM FUNÇÃO.md",
     "TYPESCRIPT",
     "pdf/Tutorial_criar_conta_000webhost_vf.pdf",
     "pdf/Múltiplas contas GIT no mesmo computador.pdf",
