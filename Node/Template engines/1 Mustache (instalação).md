@@ -58,25 +58,28 @@ npm run start -dev
 ---
 7. Cria na pasta ``views`` o arquivo ``home.mustache``:
 ![[Pasted image 20231019225325.png]]
+---
+8. Para colorir o texto do arquivo Mustache, abaixa a extensão no Vscode``Mustache Syntax``
+-  <span style="color:yellow">OBS:</span> Ele vem como padrão Plain text(sem cor, olhe no vscode, lado direito inferior), instale a extensão Mustache Syntax para colorir o texto( de Plain text vai mudar para mustache)
 
-parou no 05:16
+![[Pasted image 20240103100641.png|300]]
+9. Para exibir a página no arquivo ``home.mustache`` renderize o arquivo da rota em ``index.TS`` :
+![[Pasted image 20240103101303.png|360]]
+- O resultado:
+ ![[Pasted image 20240103101412.png]]
+---
+9. Adicione o arquivo``home.mustache`` para que o Nodemon possa monitorar mudanças no código para desenvolvimento:
+		A. Em ``package.json`` -> ``scripts`` -> ``start-dev`` -> Em ``nodemo src/server.ts`` coloque a extensão ``-e``  junto com as extensão que vc quer que monitore:
+```json
+"script"...
+	"start-dev": "nodemon -e ts,json,mustache src/server.ts"
+```
+10. Inicia  Nodemon de novo:
+```SHELL
+c:\projeto\node> npm start-dev
+```
 
+![[Pasted image 20240103103032.png]]
+>[!warning]
+>você não precisa configurar sempre tudo na mão se não quiser, o próprio express tem um gerador de projeto express que você pode usar para não precisar ficar fazendo tudo na mão, se te interessar aqui o link da doc: [[https://expressjs.com/en/starter/generator.html]]
 
-
-
-<span style="color:yellow"></span>
-
-
-
-obs: Ele vem como padrão Plain text(sem cor, olhe no vscode, lado direito inferior), instale a extensão Mustache Syntax para colorir o texto( de Plain text vai mudar para mustache)
-
-8° - Renderize o arquivo da rota
-router.get('/', (req: Request, res: response)) =>{
-	<span style="color:yellow">res.render('home');</span>
-	
-});
-9° - altere as configurações json para o node monitorar mudanças no código para desenvolvimento:
-No Package.json>script>start-de:
-	No start-dev coloque as extensões que queira que monitore
-	<span style="color:yellow">"start-dev": "nodemon -e ts, json, mustache src/server.ts</span>
-	"

@@ -45,7 +45,7 @@ Monte a estrutura da pasta do nosso projeto
 -  cria o arquivo ''index.ts'' no src
 ```
 
-> Antes(caso não funcione, [[habilitar no shell do windows para rodar script]] "set-ExecutionPolicyRemoteSigned)
+> Antes(caso não funcione, [[2 habilitar no shell do windows para rodar script]] "set-ExecutionPolicyRemoteSigned)
 
 
 agora para gerar o arquivo index.ts no dist #5
