@@ -1,8 +1,8 @@
 - Torna o TS mais específico
-- Todo elemento é  htmlelement mas  dentro dele tem tipos e propriedades diferentes o assertions é para corrigir isso
-- assistência dada ao TP para ele entender mais espicificamente que elemento é aquele ou como funcionar aquele elemento
+- Todo elemento é  html element mas  dentro dele tem tipos e propriedades diferentes o assertions é para corrigir isso
+- assistência dada ao TP para ele entender mais especificamente que elemento é aquele ou como funcionar aquele elemento
 ```js
-let idadefield = document.getElementById('iade') as HTMLInputElement;
+let idadefield = document.getElementById('idade') as HTMLInputElement;
 //...
 console.log(idadefield.value);
 ```
@@ -15,7 +15,7 @@ Existem duas maneiras principais de fazer type assertions em TypeScript: "angle-
 
 ### Angle-bracket syntax:
 
-```typescript
+```ts
 let valor: any = "Isso é uma string";
 let tamanhoString: number = (<string>valor).length;
 ```

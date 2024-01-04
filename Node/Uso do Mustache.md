@@ -1,0 +1,14 @@
+- lê o arquivo do mustache;
+- usa métodos de string para substituir os placeholders pelas propriedades de mesmo nome passadas para o render;
+- usa métodos de string para substituir aplicando lógicas especiais o resto dos placeholders especiais;
+- gera uma nova string depois de interpretar o template do mustache e interpolar os valores;
+- devolve essa string para o navegador no body da resposta e com os headers de content-type: text/html
+- navegador recebe um html;
+- navegador interpreta esse html;
+- página é rendenizada;
+- precisa mudar de página;
+- clica num link;
+- a página carrega novamente devido ao click no link;
+- o servidor recebe uma nova requisição get vinda desse link;
+- ele repete o processo de processar o mustache e devolver o html;
+- a nova página é rendenizada novamente;

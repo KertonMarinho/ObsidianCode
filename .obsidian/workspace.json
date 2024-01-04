@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "993a95f76a9af0ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TYPESCRIPT/TYPE ASSERTIONS(as).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "dc5aa3788f857508",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node/Template engines/2 Mustache(exibindo informações).md",
+                "file": "Node/Uso do Mustache.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f30e25f307558bfc",
@@ -116,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node/Template engines/2 Mustache(exibindo informações).md",
+                "file": "Node/Uso do Mustache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node/Template engines/2 Mustache(exibindo informações).md",
+                "file": "Node/Uso do Mustache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node/Template engines/2 Mustache(exibindo informações).md"
+                "file": "Node/Uso do Mustache.md"
               }
             }
           },
@@ -192,15 +179,25 @@
   },
   "active": "dc5aa3788f857508",
   "lastOpenFiles": [
-    "Cores Markedown.md",
-    "Node/Template engines/2 Mustache(exibindo informações).md",
-    "Anexos/Pasted image 20240103121120.png",
-    "Anexos/Pasted image 20240103120848.png",
-    "Anexos/Pasted image 20240103120730.png",
-    "Anexos/Pasted image 20240103120346.png",
-    "Anexos/Pasted image 20240103120315.png",
-    "Node/Template engines/1 Mustache (instalação).md",
     "TYPESCRIPT/TYPE ASSERTIONS(as).md",
+    "Node/Uso do Mustache.md",
+    "Node/Template engines/6 Mustache(conteúdo parcial).md",
+    "Anexos/Pasted image 20240103225611.png",
+    "Anexos/Pasted image 20240103225424.png",
+    "Anexos/Pasted image 20240103225217.png",
+    "Anexos/Pasted image 20240103224824.png",
+    "Anexos/Pasted image 20240103224728.png",
+    "Anexos/Pasted image 20240103224527.png",
+    "Anexos/Pasted image 20240103224247.png",
+    "Anexos/Pasted image 20240103223814.png",
+    "Anexos/Pasted image 20240103223544.png",
+    "Anexos/Pasted image 20240103223444.png",
+    "Cores Markedown.md",
+    "Node/Template engines/5 Mustache(else de listas).md",
+    "Node/Template engines/4 Mustache(exibindo listas``loop``).md",
+    "Node/Template engines/3 Mustache(exibição condicional).md",
+    "Node/Template engines/2 Mustache(exibindo informações).md",
+    "Node/Template engines/1 Mustache (instalação).md",
     "Node/preparando o desenvovimento/1 Export e import.md",
     "Node/preparando o desenvovimento/2 habilitar no shell do windows para rodar script.md",
     "Node/preparando o desenvovimento/5 INSTALANDO O EXPRESS E CRIANDO UM SERVIDOR.md",
@@ -218,15 +215,6 @@
     "javascript/manipulaçâo do Dom/Previnir atualização da tela.md",
     "javascript/Requisições/Promisses com resolve e reject.md",
     "javascript/Requisições/Fetch com post.md",
-    "javascript/manipulaçâo do Dom/Clonar um item do html.md",
-    "javascript/manipulaçâo do Dom/Adicionando uma imagem em uma tag do html.md",
-    "Git/Git branch.md",
-    "javascript/OBJETOS.md",
-    "Anexos/Pasted image 20240103103032.png",
-    "Anexos/Pasted image 20240103101412.png",
-    "Anexos/Pasted image 20240103101303.png",
-    "Anexos/Pasted image 20240103100641.png",
-    "Anexos/Pasted image 20240102235911.png",
     "Algomania/ESTRUTURA DE DADOS",
     "Projetos Javascript",
     "javascript/Códigos prontos",
