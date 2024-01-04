@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "OiFileTypeNodeIcon130301",
       "OiIcons8Typescript",
       "OiQuestionMarkIcon34771",
       "OiLetterOIconPng20914(1)",
-      "OiTerminalWindowIcon143500",
-      "OiImgFiletypeIcon151817"
+      "OiTerminalWindowIcon143500"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -61,5 +61,6 @@
   "TYPESCRIPT/TYPE ANY(QUANDO USÁ-LO).md": {
     "iconName": null,
     "inheritanceIcon": "OiIcons8Typescript"
-  }
+  },
+  "Node/0 preparando o desenvovimento": "OiFileTypeNodeIcon130301"
 }

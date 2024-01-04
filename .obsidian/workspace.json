@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node/Uso do Mustache.md",
+                "file": "Node/2 RECEBENDO DADOS/RECEBENDO DADOS NA URL 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node/Uso do Mustache.md",
+                "file": "Node/2 RECEBENDO DADOS/RECEBENDO DADOS NA URL 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node/Uso do Mustache.md",
+                "file": "Node/2 RECEBENDO DADOS/RECEBENDO DADOS NA URL 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node/Uso do Mustache.md"
+                "file": "Node/2 RECEBENDO DADOS/RECEBENDO DADOS NA URL 1.md"
               }
             }
           },
@@ -179,9 +179,19 @@
   },
   "active": "dc5aa3788f857508",
   "lastOpenFiles": [
-    "TYPESCRIPT/TYPE ASSERTIONS(as).md",
+    "Node/0 preparando o desenvovimento/0 Criando o primeiro projeto.md",
+    "Node/2 RECEBENDO DADOS/RECEBENDO DADOS NA URL 1.md",
+    "Node/2 RECEBENDO DADOS",
+    "Node/0 preparando o desenvovimento/1 Export e import.md",
+    "RECEBENDO DADOS 1/RECEBENDO DADOS NA URL 1.md",
     "Node/Uso do Mustache.md",
-    "Node/Template engines/6 Mustache(conteúdo parcial).md",
+    "RECEBENDO DADOS 1",
+    "Node/2 RECEBENDO DADOS",
+    "Node/Sem título.canvas",
+    "Projetos Javascript/Lista de tarefas.md",
+    "Node/Sem título.md",
+    "TYPESCRIPT/TYPE ASSERTIONS(as).md",
+    "Node/1 Template engines/6 Mustache(conteúdo parcial).md",
     "Anexos/Pasted image 20240103225611.png",
     "Anexos/Pasted image 20240103225424.png",
     "Anexos/Pasted image 20240103225217.png",
@@ -193,28 +203,22 @@
     "Anexos/Pasted image 20240103223544.png",
     "Anexos/Pasted image 20240103223444.png",
     "Cores Markedown.md",
-    "Node/Template engines/5 Mustache(else de listas).md",
-    "Node/Template engines/4 Mustache(exibindo listas``loop``).md",
-    "Node/Template engines/3 Mustache(exibição condicional).md",
-    "Node/Template engines/2 Mustache(exibindo informações).md",
-    "Node/Template engines/1 Mustache (instalação).md",
-    "Node/preparando o desenvovimento/1 Export e import.md",
-    "Node/preparando o desenvovimento/2 habilitar no shell do windows para rodar script.md",
-    "Node/preparando o desenvovimento/5 INSTALANDO O EXPRESS E CRIANDO UM SERVIDOR.md",
-    "Node/Template engines/0 Template engines significado.md",
-    "Node/preparando o desenvovimento/7 Criando o 404 (página não encontrada).md",
-    "Node/preparando o desenvovimento/4 Nodemon.md",
+    "Node/1 Template engines/5 Mustache(else de listas).md",
+    "Node/1 Template engines/4 Mustache(exibindo listas``loop``).md",
+    "Node/1 Template engines/3 Mustache(exibição condicional).md",
+    "Node/1 Template engines/2 Mustache(exibindo informações).md",
+    "Node/1 Template engines/1 Mustache (instalação).md",
+    "Node/0 preparando o desenvovimento/2 habilitar no shell do windows para rodar script.md",
+    "Node/0 preparando o desenvovimento/5 INSTALANDO O EXPRESS E CRIANDO UM SERVIDOR.md",
+    "Node/1 Template engines/0 Template engines significado.md",
+    "Node/0 preparando o desenvovimento/7 Criando o 404 (página não encontrada).md",
+    "Node/0 preparando o desenvovimento/4 Nodemon.md",
     "Git/Atualizando o arquivo remoto do gitHub.md",
     "Git/Alterando repositório.md",
     "Git/Commitando no github.md",
     "Git/Conectando ao GitHub com ssh.md",
     "Git/Criando novo branch.md",
     "Git/GitHub pages.md",
-    "javascript/manipulaçâo do Dom/Eventos de clique.md",
-    "javascript/manipulaçâo do Dom/Eventos do teclado.md",
-    "javascript/manipulaçâo do Dom/Previnir atualização da tela.md",
-    "javascript/Requisições/Promisses com resolve e reject.md",
-    "javascript/Requisições/Fetch com post.md",
     "Algomania/ESTRUTURA DE DADOS",
     "Projetos Javascript",
     "javascript/Códigos prontos",
@@ -222,9 +226,6 @@
     "pdf/Tutorial_criar_conta_000webhost_vf.pdf",
     "pdf/Múltiplas contas GIT no mesmo computador.pdf",
     "Anexos/Roteiro Utilizacao Figma.pdf",
-    "javascript/manipulações, array,ajax,etc",
-    "javascript/Requisições",
-    "Sites wokrs",
     "Sem título.canvas",
     "Sem título 3.canvas",
     "Sem título 2.canvas",
