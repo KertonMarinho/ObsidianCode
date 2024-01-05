@@ -63,3 +63,9 @@ router.get('/nome', (req: Request, res: Response)=> {
 {{/nome}}
 {{>partials/footer}}
 ```
+----
+----
+- Podemos fazer contas matemáticas diversas em rotas ``index.ts``
+v![[Pasted image 20240104222334.png|500]]
+
+

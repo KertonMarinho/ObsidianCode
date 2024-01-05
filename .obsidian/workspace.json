@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node/2 RECEBENDO DADOS/RECEBENDO DADOS NA URL 1.md",
+                "file": "Node/2 RECEBENDO DADOS/MVC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b573e3ba4153bc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Node/2 RECEBENDO DADOS/MVC.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f30e25f307558bfc",
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node/2 RECEBENDO DADOS/RECEBENDO DADOS NA URL 1.md",
+                "file": "Node/2 RECEBENDO DADOS/MVC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node/2 RECEBENDO DADOS/RECEBENDO DADOS NA URL 1.md",
+                "file": "Node/2 RECEBENDO DADOS/MVC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node/2 RECEBENDO DADOS/RECEBENDO DADOS NA URL 1.md"
+                "file": "Node/2 RECEBENDO DADOS/MVC.md"
               }
             }
           },
@@ -177,14 +190,41 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "dc5aa3788f857508",
+  "active": "1b573e3ba4153bc0",
   "lastOpenFiles": [
+    "Anexos/Pasted image 20240105115009.png",
+    "Comandos Markdown.md",
+    "Node/2 RECEBENDO DADOS/MVC.md",
+    "Anexos/Pasted image 20240105114031.png",
+    "Anexos/Pasted image 20240105113904.png",
+    "Anexos/Pasted image 20240105113754.png",
+    "Anexos/Pasted image 20240105113521.png",
+    "Anexos/Pasted image 20240105113429.png",
+    "Anexos/Pasted image 20240105113353.png",
+    "Anexos/Pasted image 20240105112115.png",
+    "Anexos/Pasted image 20240105111748.png",
+    "Anexos/Pasted image 20240105110234.png",
+    "Anexos/Pasted image 20240105110100.png",
+    "Node/Uso do Mustache.md",
+    "Sem título.md",
+    "Cores Markedown.md",
+    "Node/1 Template engines/1 Mustache (instalação).md",
+    "Node/1 Template engines/0 Template engines significado.md",
+    "Node/0 preparando o desenvovimento/8 Criando pastas públicas.md",
+    "Node/0 preparando o desenvovimento/6 Criando rotas.md",
+    "Node/0 preparando o desenvovimento/5 INSTALANDO O EXPRESS E CRIANDO UM SERVIDOR.md",
+    "Node/0 preparando o desenvovimento/4 Nodemon.md",
+    "Node/0 preparando o desenvovimento/3 Importar bibliotecas de terceiros.md",
+    "Node/0 preparando o desenvovimento/2 habilitar no shell do windows para rodar script.md",
+    "Node/0 preparando o desenvovimento/1 Export e import.md",
     "Node/0 preparando o desenvovimento/0 Criando o primeiro projeto.md",
+    "Node/2 RECEBENDO DADOS/RECEBENDO DADOS VIA POST.md",
+    "Node/1 Template engines/5 Mustache(else de listas).md",
+    "Node/1 Template engines/2 Mustache(exibindo informações).md",
+    "Node/1 Template engines/3 Mustache(exibição condicional).md",
     "Node/2 RECEBENDO DADOS/RECEBENDO DADOS NA URL 1.md",
     "Node/2 RECEBENDO DADOS",
-    "Node/0 preparando o desenvovimento/1 Export e import.md",
     "RECEBENDO DADOS 1/RECEBENDO DADOS NA URL 1.md",
-    "Node/Uso do Mustache.md",
     "RECEBENDO DADOS 1",
     "Node/2 RECEBENDO DADOS",
     "Node/Sem título.canvas",
@@ -192,33 +232,6 @@
     "Node/Sem título.md",
     "TYPESCRIPT/TYPE ASSERTIONS(as).md",
     "Node/1 Template engines/6 Mustache(conteúdo parcial).md",
-    "Anexos/Pasted image 20240103225611.png",
-    "Anexos/Pasted image 20240103225424.png",
-    "Anexos/Pasted image 20240103225217.png",
-    "Anexos/Pasted image 20240103224824.png",
-    "Anexos/Pasted image 20240103224728.png",
-    "Anexos/Pasted image 20240103224527.png",
-    "Anexos/Pasted image 20240103224247.png",
-    "Anexos/Pasted image 20240103223814.png",
-    "Anexos/Pasted image 20240103223544.png",
-    "Anexos/Pasted image 20240103223444.png",
-    "Cores Markedown.md",
-    "Node/1 Template engines/5 Mustache(else de listas).md",
-    "Node/1 Template engines/4 Mustache(exibindo listas``loop``).md",
-    "Node/1 Template engines/3 Mustache(exibição condicional).md",
-    "Node/1 Template engines/2 Mustache(exibindo informações).md",
-    "Node/1 Template engines/1 Mustache (instalação).md",
-    "Node/0 preparando o desenvovimento/2 habilitar no shell do windows para rodar script.md",
-    "Node/0 preparando o desenvovimento/5 INSTALANDO O EXPRESS E CRIANDO UM SERVIDOR.md",
-    "Node/1 Template engines/0 Template engines significado.md",
-    "Node/0 preparando o desenvovimento/7 Criando o 404 (página não encontrada).md",
-    "Node/0 preparando o desenvovimento/4 Nodemon.md",
-    "Git/Atualizando o arquivo remoto do gitHub.md",
-    "Git/Alterando repositório.md",
-    "Git/Commitando no github.md",
-    "Git/Conectando ao GitHub com ssh.md",
-    "Git/Criando novo branch.md",
-    "Git/GitHub pages.md",
     "Algomania/ESTRUTURA DE DADOS",
     "Projetos Javascript",
     "javascript/Códigos prontos",
