@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node/2 RECEBENDO DADOS/MVC.md",
+                "file": "Node/2 RECEBENDO DADOS/VARIÁVEIS DE AMBIENTE.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node/2 RECEBENDO DADOS/MVC.md",
+                "file": "Node/2 RECEBENDO DADOS/VARIÁVEIS DE AMBIENTE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node/2 RECEBENDO DADOS/MVC.md",
+                "file": "Node/2 RECEBENDO DADOS/VARIÁVEIS DE AMBIENTE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node/2 RECEBENDO DADOS/MVC.md"
+                "file": "Node/2 RECEBENDO DADOS/VARIÁVEIS DE AMBIENTE.md"
               }
             }
           },
@@ -192,22 +192,23 @@
   },
   "active": "1b573e3ba4153bc0",
   "lastOpenFiles": [
-    "Anexos/Pasted image 20240105115009.png",
-    "Comandos Markdown.md",
+    "Anexos/Pasted image 20240105230829.png",
     "Node/2 RECEBENDO DADOS/MVC.md",
+    "Node/2 RECEBENDO DADOS/VARIÁVEIS DE AMBIENTE.md",
+    "Node/Uso do Mustache.md",
+    "Comandos Markdown.md",
+    "Cores Markedown.md",
+    "Anexos/Pasted image 20240105223755.png",
+    "Anexos/Pasted image 20240105223631.png",
+    "Anexos/Pasted image 20240105223521.png",
+    "Anexos/Pasted image 20240105223456.png",
+    "Anexos/Pasted image 20240105115009.png",
     "Anexos/Pasted image 20240105114031.png",
     "Anexos/Pasted image 20240105113904.png",
     "Anexos/Pasted image 20240105113754.png",
     "Anexos/Pasted image 20240105113521.png",
     "Anexos/Pasted image 20240105113429.png",
-    "Anexos/Pasted image 20240105113353.png",
-    "Anexos/Pasted image 20240105112115.png",
-    "Anexos/Pasted image 20240105111748.png",
-    "Anexos/Pasted image 20240105110234.png",
-    "Anexos/Pasted image 20240105110100.png",
-    "Node/Uso do Mustache.md",
     "Sem título.md",
-    "Cores Markedown.md",
     "Node/1 Template engines/1 Mustache (instalação).md",
     "Node/1 Template engines/0 Template engines significado.md",
     "Node/0 preparando o desenvovimento/8 Criando pastas públicas.md",
@@ -231,7 +232,6 @@
     "Projetos Javascript/Lista de tarefas.md",
     "Node/Sem título.md",
     "TYPESCRIPT/TYPE ASSERTIONS(as).md",
-    "Node/1 Template engines/6 Mustache(conteúdo parcial).md",
     "Algomania/ESTRUTURA DE DADOS",
     "Projetos Javascript",
     "javascript/Códigos prontos",
