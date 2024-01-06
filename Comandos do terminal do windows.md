@@ -24,3 +24,8 @@ cd c:/
 ```shell
 cd c:/users/kerton
 ```
+---
+# voltar pasta anterior
+```shel
+..cd
+```

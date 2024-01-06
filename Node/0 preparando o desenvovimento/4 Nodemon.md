@@ -24,14 +24,26 @@ npm install -g ts-node
 - A partir de agora em vez de rodar o comando node ele vai rodar o comando ts-node
 
 ---
+# Para rodar o log do node no terminal
+```shell
+ts-node src/index.ts
+```
+# Para rodar o nodemon(ele monitorar e executar, substituindo outros comandos)
+```js
+nodemon src/index.ts
+```
+
+
 ## Criando um script para rodar ts-node
 1. no arquivo ``package.jason`` 
 2. Em scripts
-![[Pasted image 20231004211941.png|500]]
 3. Pode tirar ``watch-ts`` 
-4. Substitua o start pelo ``"start-dev":"nodemon src/index.ts"
-5. Para rodar no terminal o script:
-6. 
+![[Pasted image 20231004211941.png|500]] 
+4. Substitua o ``start`` pelo 
+```json
+"start-dev":"nodemon src/index.ts"
+```
+6. Para rodar no terminal o script:
 ```shell
 npm rum start-dev
 ```

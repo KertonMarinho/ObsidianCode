@@ -13,38 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node/2 RECEBENDO DADOS/MVC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b573e3ba4153bc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Node/2 RECEBENDO DADOS/VARIÁVEIS DE AMBIENTE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "f30e25f307558bfc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6ae5ef3ab692e841",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cores Markedown.md",
+                "file": "Node/0 preparando o desenvovimento/5 INSTALANDO O EXPRESS E CRIANDO UM SERVIDOR.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,6 +64,18 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "1b573e3ba4153bc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Node/2 RECEBENDO DADOS/VARIÁVEIS DE AMBIENTE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -116,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node/2 RECEBENDO DADOS/VARIÁVEIS DE AMBIENTE.md",
+                "file": "Node/0 preparando o desenvovimento/5 INSTALANDO O EXPRESS E CRIANDO UM SERVIDOR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node/2 RECEBENDO DADOS/VARIÁVEIS DE AMBIENTE.md",
+                "file": "Node/0 preparando o desenvovimento/5 INSTALANDO O EXPRESS E CRIANDO UM SERVIDOR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node/2 RECEBENDO DADOS/VARIÁVEIS DE AMBIENTE.md"
+                "file": "Node/0 preparando o desenvovimento/5 INSTALANDO O EXPRESS E CRIANDO UM SERVIDOR.md"
               }
             }
           },
@@ -190,35 +171,35 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "1b573e3ba4153bc0",
+  "active": "dc5aa3788f857508",
   "lastOpenFiles": [
+    "Node/0 preparando o desenvovimento/4 Nodemon.md",
+    "Anexos/Pasted image 20240106110049.png",
+    "Node/0 preparando o desenvovimento/0 Criando o primeiro projeto.md",
+    "Node/0 preparando o desenvovimento/2 habilitar no shell do windows para rodar script.md",
+    "Node/0 preparando o desenvovimento/1 Export e import.md",
+    "Node/0 preparando o desenvovimento/3 Importar bibliotecas de terceiros.md",
+    "Cores Markedown.md",
+    "Anexos/Pasted image 20240106093342.png",
+    "Anexos/Pasted image 20240106091446.png",
+    "Anexos/Pasted image 20240106091232.png",
+    "Anexos/Pasted image 20240106090654.png",
+    "Comandos do terminal do windows.md",
+    "Node/2 RECEBENDO DADOS/VARIÁVEIS DE AMBIENTE.md",
     "Anexos/Pasted image 20240105230829.png",
     "Node/2 RECEBENDO DADOS/MVC.md",
-    "Node/2 RECEBENDO DADOS/VARIÁVEIS DE AMBIENTE.md",
     "Node/Uso do Mustache.md",
     "Comandos Markdown.md",
-    "Cores Markedown.md",
     "Anexos/Pasted image 20240105223755.png",
     "Anexos/Pasted image 20240105223631.png",
     "Anexos/Pasted image 20240105223521.png",
     "Anexos/Pasted image 20240105223456.png",
-    "Anexos/Pasted image 20240105115009.png",
-    "Anexos/Pasted image 20240105114031.png",
-    "Anexos/Pasted image 20240105113904.png",
-    "Anexos/Pasted image 20240105113754.png",
-    "Anexos/Pasted image 20240105113521.png",
-    "Anexos/Pasted image 20240105113429.png",
     "Sem título.md",
     "Node/1 Template engines/1 Mustache (instalação).md",
     "Node/1 Template engines/0 Template engines significado.md",
     "Node/0 preparando o desenvovimento/8 Criando pastas públicas.md",
     "Node/0 preparando o desenvovimento/6 Criando rotas.md",
     "Node/0 preparando o desenvovimento/5 INSTALANDO O EXPRESS E CRIANDO UM SERVIDOR.md",
-    "Node/0 preparando o desenvovimento/4 Nodemon.md",
-    "Node/0 preparando o desenvovimento/3 Importar bibliotecas de terceiros.md",
-    "Node/0 preparando o desenvovimento/2 habilitar no shell do windows para rodar script.md",
-    "Node/0 preparando o desenvovimento/1 Export e import.md",
-    "Node/0 preparando o desenvovimento/0 Criando o primeiro projeto.md",
     "Node/2 RECEBENDO DADOS/RECEBENDO DADOS VIA POST.md",
     "Node/1 Template engines/5 Mustache(else de listas).md",
     "Node/1 Template engines/2 Mustache(exibindo informações).md",
@@ -231,7 +212,6 @@
     "Node/Sem título.canvas",
     "Projetos Javascript/Lista de tarefas.md",
     "Node/Sem título.md",
-    "TYPESCRIPT/TYPE ASSERTIONS(as).md",
     "Algomania/ESTRUTURA DE DADOS",
     "Projetos Javascript",
     "javascript/Códigos prontos",
