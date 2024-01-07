@@ -1,17 +1,21 @@
-``rotas dinâmicas = leva a váeias páginas com o corpo igual``
-- paramêtros do get:
+``rotas dinâmicas = leva a várias páginas com o corpo igual``
+- parâmetros do get:
 ```ts
+//get(endereço da rota,função)
 server.get(rota,(requisiçã0,resposta)=>{})
 ```
 # <span style="color:orange">Rotas estásticas</span>
 
 ```ts
-server.get('/', (req:request, res:response)=>{
-res.send('óla Mundo);
+server.get('/', (req:Request, res:Response)=>{
+res.send('óla Mundo');
 });
 ```
 
 # <span style="color:orange">Rotas dinâmicas</span>
+
+#### <span style="color:yellow">Slug</span>  Titula da notícia que fica lá na url
+![[Pasted image 20240106221249.png]]
 
 
 ```ts
@@ -25,6 +29,9 @@ res.send(`notícia: ${slug}`);
 ```ts
 server.get('/voo/:origem-:destino', (req;Request, res: Response)=>{
 	let { origem, destino } = req.params;
+	//É a mesma coisa que:
+	//let origem = re.parans.origem;
+	//let destino = req.params.destino;
 	res.send('procurando voos de ${origem} até ${destino}');
 });
 ```
@@ -64,7 +71,7 @@ import mainRoutes from `./routes/index';
 ```
 8. Insira elas no servidor
 ```ts
-server.use(mainRoutes);
+server.use(mainRoutes); //mesma coisa se fixere assim: server.use('/', mainRoutes);
 ```
 - trabalhando com varias arquivos  de  rotas 
 ```ts

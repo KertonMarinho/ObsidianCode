@@ -45,6 +45,6 @@ nodemon src/index.ts
 ```
 6. Para rodar no terminal o script:
 ```shell
-npm rum start-dev
+npm run start-dev
 ```
 

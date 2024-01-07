@@ -132,4 +132,19 @@
 * Fornece facilidade de manuseio e economia de tempo, facilitando a implantação (deploy)
 * Contêineres são um método de virtualização
 
+---
+## <span style="color:yellow">Middleware</span>
+Middleware em Node.js e no contexto do Express refere-se a funções que têm acesso tanto ao objeto de solicitação (request object - req), ao objeto de resposta (response object - res) e à próxima função middleware no ciclo de solicitação-resposta da aplicação.
 
+Eles são essenciais para manipular solicitações HTTP, executando várias funções intermediárias antes que a resposta final seja enviada de volta ao cliente. Os middlewares podem desempenhar uma variedade de funções, como:
+
+1. **Manipulação de solicitação:** Podem modificar o objeto de solicitação (req), adicionando informações, validando dados, entre outros.
+    
+2. **Execução de código:** Realizam operações específicas antes de passar a solicitação para o próximo middleware na cadeia ou antes de enviar a resposta ao cliente.
+    
+3. **Controle de fluxo:** Podem decidir se uma solicitação deve continuar a ser processada ou ser interrompida com uma resposta específica.
+    
+
+Por exemplo, um middleware de registro de tempo pode registrar cada solicitação e a hora em que foi recebida. Outro middleware pode ser usado para autenticar usuários antes que eles possam acessar determinadas rotas. Eles podem ser incorporados na aplicação usando o método `app.use()` no Express, onde são chamados na ordem em que são declarados.
+
+Os middlewares são uma parte poderosa da estrutura do Express, permitindo a criação de aplicativos flexíveis e modulares, onde várias funções podem ser adicionadas ou removidas facilmente para manipular as solicitações HTTP de acordo com as necessidades da aplicação.

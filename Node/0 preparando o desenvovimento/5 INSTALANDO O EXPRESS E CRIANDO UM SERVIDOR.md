@@ -1,3 +1,8 @@
+# <span style="color:yellow">Express</span>
+- Em Node.js, o Express é um framework web minimalista e flexível que simplifica o processo de criação de aplicativos web e APIs (Application Programming Interfaces). Ele fornece uma série de recursos para lidar com solicitações HTTP, rotas, middlewares e muito mais.
+
+- O Express é bastante popular devido à sua simplicidade e extensibilidade. Ele permite criar aplicativos web robustos usando JavaScript no lado do servidor (backend). Com o Express, é possível definir rotas para diferentes URLs, lidar com solicitações HTTP, processar dados de formulários, configurar middlewares para diversas funcionalidades e muito mais, tudo de forma relativamente simples e organizada.
+
 ## Criando o servidor
 1. Cria o arquivo chamado ``server.ts`` na pasta ``src``, este arquivo ficará rodando em um determinada porta do computador
 2. Instale a biblioteca(framework) <span style="color:yellow">Express</span> 

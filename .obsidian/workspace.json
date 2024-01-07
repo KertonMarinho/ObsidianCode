@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node/0 preparando o desenvovimento/5 INSTALANDO O EXPRESS E CRIANDO UM SERVIDOR.md",
+                "file": "Node/1 Template engines/1 Mustache (instalação).md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node/0 preparando o desenvovimento/5 INSTALANDO O EXPRESS E CRIANDO UM SERVIDOR.md",
+                "file": "Node/1 Template engines/1 Mustache (instalação).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node/0 preparando o desenvovimento/5 INSTALANDO O EXPRESS E CRIANDO UM SERVIDOR.md",
+                "file": "Node/1 Template engines/1 Mustache (instalação).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node/0 preparando o desenvovimento/5 INSTALANDO O EXPRESS E CRIANDO UM SERVIDOR.md"
+                "file": "Node/1 Template engines/1 Mustache (instalação).md"
               }
             }
           },
@@ -173,13 +173,21 @@
   },
   "active": "dc5aa3788f857508",
   "lastOpenFiles": [
+    "Node/1 Template engines/0 Template engines significado.md",
+    "Node/0 preparando o desenvovimento/8 Criando pastas públicas.md",
+    "Anexos/Pasted image 20240106231737.png",
+    "Node/0 preparando o desenvovimento/7 Criando o 404 (página não encontrada).md",
+    "Node/0 preparando o desenvovimento/6 Criando rotas.md",
     "Node/0 preparando o desenvovimento/4 Nodemon.md",
+    "Node/0 preparando o desenvovimento/5 INSTALANDO O EXPRESS E CRIANDO UM SERVIDOR.md",
+    "Node/0 preparando o desenvovimento/1 Export e import.md",
+    "Node/0 preparando o desenvovimento/3 Importar bibliotecas de terceiros.md",
+    "Anexos/Pasted image 20240106221249.png",
+    "GROSSÁRIO DE DESENVOLVEDOR.md",
+    "Cores Markedown.md",
     "Anexos/Pasted image 20240106110049.png",
     "Node/0 preparando o desenvovimento/0 Criando o primeiro projeto.md",
     "Node/0 preparando o desenvovimento/2 habilitar no shell do windows para rodar script.md",
-    "Node/0 preparando o desenvovimento/1 Export e import.md",
-    "Node/0 preparando o desenvovimento/3 Importar bibliotecas de terceiros.md",
-    "Cores Markedown.md",
     "Anexos/Pasted image 20240106093342.png",
     "Anexos/Pasted image 20240106091446.png",
     "Anexos/Pasted image 20240106091232.png",
@@ -192,14 +200,8 @@
     "Comandos Markdown.md",
     "Anexos/Pasted image 20240105223755.png",
     "Anexos/Pasted image 20240105223631.png",
-    "Anexos/Pasted image 20240105223521.png",
-    "Anexos/Pasted image 20240105223456.png",
     "Sem título.md",
     "Node/1 Template engines/1 Mustache (instalação).md",
-    "Node/1 Template engines/0 Template engines significado.md",
-    "Node/0 preparando o desenvovimento/8 Criando pastas públicas.md",
-    "Node/0 preparando o desenvovimento/6 Criando rotas.md",
-    "Node/0 preparando o desenvovimento/5 INSTALANDO O EXPRESS E CRIANDO UM SERVIDOR.md",
     "Node/2 RECEBENDO DADOS/RECEBENDO DADOS VIA POST.md",
     "Node/1 Template engines/5 Mustache(else de listas).md",
     "Node/1 Template engines/2 Mustache(exibindo informações).md",
@@ -210,8 +212,6 @@
     "RECEBENDO DADOS 1",
     "Node/2 RECEBENDO DADOS",
     "Node/Sem título.canvas",
-    "Projetos Javascript/Lista de tarefas.md",
-    "Node/Sem título.md",
     "Algomania/ESTRUTURA DE DADOS",
     "Projetos Javascript",
     "javascript/Códigos prontos",
