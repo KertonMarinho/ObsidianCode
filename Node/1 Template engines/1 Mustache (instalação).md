@@ -7,9 +7,13 @@ npm install mustache-express
 2.  Instale o typescript do Mustache na dependência de desenvolvimento
 ```shell
 npm install --savedev @types/mustache-express
+
 ```
+3. retire a type``@types/express": "^4.17.21",`` e joga no desenvolvimento 
+![[Pasted image 20240107234740.png|300]]
+
+
 - <span style="color:brown">obs:</span> Tem que estar nas dependência de desenvolvimento no arquivo ``package.json``caso contrario pode  recorte e colar no local certo como na figura:
-![[Pasted image 20231018224756.png|300]]
 ---
 # Mustache (configuração)
 
@@ -32,7 +36,7 @@ server.set('view engine','mustache');
 ![[Pasted image 20231019223005.png]]
 
 ---
-4. . Seta o local da pasta da ``views``:
+4. . Seta o local da pasta da ``views`` em <u>server.ts</u>:
 ```ts
 server.set('views', path.join(__dirname,'views'));
 ```
@@ -53,7 +57,7 @@ server.engine('mustache', mustache());
 ---
 6. Coloque o projeto para rodar:
 ```ts
-npm run start -dev
+npm run start-dev
 ```
 ---
 7. Cria na pasta ``views`` o arquivo ``home.mustache``:
@@ -61,6 +65,7 @@ npm run start -dev
 ---
 8. Para colorir o texto do arquivo Mustache, abaixa a extensão no Vscode``Mustache Syntax``
 -  <span style="color:yellow">OBS:</span> Ele vem como padrão Plain text(sem cor, olhe no vscode, lado direito inferior), instale a extensão Mustache Syntax para colorir o texto( de Plain text vai mudar para mustache)
+- Copie o texto abaixo em ``home.mustache``
 
 ![[Pasted image 20240103100641.png|300]]
 9. Para exibir a página no arquivo ``home.mustache`` renderize o arquivo da rota em ``index.TS`` :

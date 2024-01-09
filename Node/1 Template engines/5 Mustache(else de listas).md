@@ -1,5 +1,5 @@
 - Quando não tiver nada para exibir execute isso.
-1. NO arquivo``hoem.mustache``
+1. NO arquivo``home.mustache``
 2. Utiliza como um else o acento ``^``
 ```html
 <ul>

@@ -8,14 +8,14 @@
 3. Importante! Tem  que ser antes das rotas.
 4. Usar o elemento ``urlencodeed``, ele habilita no corpo da requisição para que ajuste os dados para serem acessíveis dentro da rota
 ```ts
-server.use(espress.urlencoded({extended: true}));
+server.use(express.urlencoded({extended: true}));
 ```
 
 ![[Pasted image 20240105100015.png|500]]
 5. Inicia o servidor
 
 ```shell
-c:\projetos\node>run start-dev
+c:\projetos\node>npm run start-dev
 ```
 6. No arquivo da página ``idade.mustache`` mude o método para ``post``
 ![[Pasted image 20240105100400.png]]
@@ -28,7 +28,8 @@ router.post('/idade',(req: Request, res: Response)=>{
 });
 ```
 ![[Pasted image 20240105101120.png]]
-9. Como foi enviado no corpo da requisição e não na query String, troque no if (``req.query.ano``) para  ``re.body.ano``
+09. troca  a variável booleana mostrarIdadede para <u>true</u>
+10. Como foi enviado no corpo da requisição e não na query String, troque no if (``req.query.ano``) para  ``re.body.ano``
 ![[Pasted image 20240105101401.png|450]]
 ---
 ---

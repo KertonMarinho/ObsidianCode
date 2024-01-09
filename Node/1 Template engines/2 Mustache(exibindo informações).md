@@ -5,8 +5,8 @@
 1. Cria uma variável com o nome da pessoa no arquivo``index.TS``
 ```ts
 router.get('/', (req: Request, res: Response)=> {
-	let user: string = 'Kerton'
-	res.render('home',{ user})
+	let user: string = 'Kerton';
+	res.render('home',{ user});
 });
 //outro jeito:
 router.get('/', (req: Request, res: Response)=> {

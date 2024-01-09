@@ -6,7 +6,7 @@
 res.render('home'{
 		   name:'Kerton',
 		   lastName: 'Marinho'',
-		   procuts: [
+		   products: [
 			   {title: 'produto x', price: 10},
 			   {title: 'produto y', price: 15},
 			   {title: 'produto w', rpice: 20}

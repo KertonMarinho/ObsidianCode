@@ -1,4 +1,4 @@
-1. Cria uma rota para página em ``index.ts
+1. Cria uma rota na página em ``index.ts
 ```ts
 router.get('/nome', (req: Request, res: Response)=> {
 	res.render('pages/nome');
@@ -29,7 +29,7 @@ router.get('/nome', (req: Request, res: Response)=> {
 ``let nome: string = req.query.nome``
 ```ts
 router.get('/nome', (req: Request, res: Response)=> {
-	let nome: string = req.query.nome;=
+	let nome: string = req.query.nome;
 	res.render('pages/nome');
 })
 ```
