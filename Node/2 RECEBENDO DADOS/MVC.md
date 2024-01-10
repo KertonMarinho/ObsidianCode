@@ -56,13 +56,13 @@ export const sobre = (req: Request, res: Response) =>{
 ```
 10. Agora importa a pasta no arquivo ``index.ts``
 ```ts
-import * as infoController from '../controllers/homeControlller'
+import * as infoController from '../controllers/infoController'
 ```
 11. Agora na rota do <u>contato</u> use o caminho:
 ```ts
 router.get('/contato', infoController.contato);
 ```
-12. Na rota do <u>sobre</u> use o caminho:
+12. Fça o mesmo com a rota sobre, Na rota do <u>sobre</u> use o caminho:
 ```ts
 router.get('/sobre', infoController.sobre);
 ```
@@ -146,15 +146,15 @@ cosnt data: Product[]=[
 ```js
 export const Product = {
 	getAll: ()=> {
-		return data:
+		return data;
 	}
 };
 ```
 6. Agora tipa esta função(``product[]``):
 ```js
 export const Product = {
-	getAll: Product[] ()=> {
-		return data:
+	getAll:():  Product[] => {
+		return data;
 	}
 };
 ```
@@ -185,6 +185,7 @@ export const Product = {
 	},
 	getFromPriceAfter: (price: number): Product[] => {
 		return data.filter(item => item.price >= price);
+		// recebe:retorna:  (price: number): Product[]
 	
 ```
 2. Na pasta``home.controller.ts`` 

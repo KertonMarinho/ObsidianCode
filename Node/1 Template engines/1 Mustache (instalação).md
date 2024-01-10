@@ -29,8 +29,10 @@ import mustache from mustache-express;
 ```ts
 server.set('view engine','mustache');
 ```
+-  Esse código é usado em um aplicativo Node.js com o framework Express para configurar o mecanismo de visualização do aplicativo para usar o Mustache como o mecanismo de template._
 - Essa linha de código define o mecanismo de visualização padrão para o aplicativo como **mustache*.
 - O mecanismo de visualização é responsável por renderizar as respostas HTML do servidor
+- - Mustache é um mecanismo de template que permite a criação de modelos HTML reutilizáveis com espaços reservados para dados dinâmicos. Com essa configuração, o Express buscará automaticamente arquivos com extensão `.mustache` para renderizar as visualizações do aplicativo.
 ---
 3. Cria uma pasta na pasta ``SRC`` chamada ``views``
 ![[Pasted image 20231019223005.png]]
@@ -40,13 +42,17 @@ server.set('view engine','mustache');
 ```ts
 server.set('views', path.join(__dirname,'views'));
 ```
+- 'views'`: É a chave da configuração que estamos definindo. Neste caso específico, se refere ao diretório onde estão localizados os arquivos de visualização (templates).
+- `path.join(__dirname, 'views')`: Este trecho utiliza o módulo `path` do Node.js para juntar o caminho do diretório atual (`__dirname`) com o subdiretório 'views'.
+- `__dirname` é uma variável global do Node.js que se refere ao diretório do arquivo em que está sendo executado. Então, `path.join()` une esses dois caminhos para criar o caminho completo até o diretório de visualizações.+ 
+Portanto, essa linha de código está dizendo ao Express que os arquivos de visualização (como os arquivos Mustache, EJS, Pug etc.) estão localizados na pasta 'views', que é um subdiretório do diretório atual do aplicativo. Isso permite que o Express localize e renderize esses arquivos quando necessário para servir as páginas web.
 ---
 5. Seta a função para rodar o Mustache:
 ```ts
 server.engine('mustache', mustache());
 ```
-- . O método `engine` é usado para associar um mecanismo de template a uma extensão de arquivo específica
-- `mustache()` é uma função que cria uma instância do Mustache como mecanismo de template. Quando você chama `mustache()`, ela retorna um objeto que pode ser usado para renderizar seus modelos Mustache. Esse objeto configurado é o que o Express utilizará para renderizar os modelos Mustache.
+- `('mustache', mustache())`: aqui, `'mustache'` é o identificador do mecanismo de template que está sendo registrado, e `mustache()` está invocando uma função chamada `mustache` .
+
 >[!info]
 >Template, no contexto de desenvolvimento de software e design de páginas web, refere-se a um modelo ou estrutura predefinida que pode ser usada para criar documentos ou páginas consistentes e repetitivas.
 >Os templates servem como um esqueleto ou estrutura básica que pode ser preenchida com conteúdo específico, permitindo criar várias instâncias de um documento com base no mesmo modelo.

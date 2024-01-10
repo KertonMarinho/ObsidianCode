@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node/2 RECEBENDO DADOS/RECEBENDO DADOS VIA POST.md",
+                "file": "Git/Atualizando o arquivo remoto do gitHub.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node/2 RECEBENDO DADOS/RECEBENDO DADOS VIA POST.md",
+                "file": "Git/Atualizando o arquivo remoto do gitHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node/2 RECEBENDO DADOS/RECEBENDO DADOS VIA POST.md",
+                "file": "Git/Atualizando o arquivo remoto do gitHub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node/2 RECEBENDO DADOS/RECEBENDO DADOS VIA POST.md"
+                "file": "Git/Atualizando o arquivo remoto do gitHub.md"
               }
             }
           },
@@ -173,42 +173,43 @@
   },
   "active": "dc5aa3788f857508",
   "lastOpenFiles": [
-    "Node/2 RECEBENDO DADOS/RECEBENDO DADOS NA URL 1.md",
-    "Node/2 RECEBENDO DADOS/RECEBENDO DADOS VIA POST.md",
-    "Node/2 RECEBENDO DADOS/MVC.md",
-    "Node/1 Template engines/6 Mustache(conteúdo parcial).md",
-    "Node/1 Template engines/5 Mustache(else de listas).md",
-    "Node/1 Template engines/4 Mustache(exibindo listas``loop``).md",
-    "Node/1 Template engines/3 Mustache(exibição condicional).md",
-    "Node/1 Template engines/2 Mustache(exibindo informações).md",
+    "Git/Sincronizando o repositório local com o GitHub com https.md",
+    "Node/Projetos/nodeTs canil.md",
     "Node/1 Template engines/1 Mustache (instalação).md",
-    "Anexos/Pasted image 20240107234740.png",
-    "Node/0 preparando o desenvovimento/8 Criando pastas públicas.md",
-    "Node/1 Template engines/0 Template engines significado.md",
-    "Anexos/Pasted image 20240106231737.png",
-    "Node/0 preparando o desenvovimento/7 Criando o 404 (página não encontrada).md",
-    "Node/0 preparando o desenvovimento/6 Criando rotas.md",
-    "Node/0 preparando o desenvovimento/4 Nodemon.md",
-    "Node/0 preparando o desenvovimento/5 INSTALANDO O EXPRESS E CRIANDO UM SERVIDOR.md",
     "Node/0 preparando o desenvovimento/1 Export e import.md",
-    "Node/0 preparando o desenvovimento/3 Importar bibliotecas de terceiros.md",
-    "Anexos/Pasted image 20240106221249.png",
-    "GROSSÁRIO DE DESENVOLVEDOR.md",
-    "Cores Markedown.md",
-    "Anexos/Pasted image 20240106110049.png",
+    "Node/1 Template engines/0 Template engines significado.md",
     "Node/0 preparando o desenvovimento/0 Criando o primeiro projeto.md",
     "Node/0 preparando o desenvovimento/2 habilitar no shell do windows para rodar script.md",
+    "Node/0 preparando o desenvovimento/3 Importar bibliotecas de terceiros.md",
+    "Node/0 preparando o desenvovimento/4 Nodemon.md",
+    "Node/0 preparando o desenvovimento/8 Criando pastas públicas.md",
+    "Node/0 preparando o desenvovimento/6 Criando rotas.md",
+    "Node/0 preparando o desenvovimento/5 INSTALANDO O EXPRESS E CRIANDO UM SERVIDOR.md",
+    "Cores Markedown.md",
+    "Comandos Markdown.md",
+    "Node/Projetos",
+    "Git/Conectando ao GitHub com ssh.md",
+    "Git/Instalando e inicializando o Git.md",
+    "Node/2 RECEBENDO DADOS/VARIÁVEIS DE AMBIENTE.md",
+    "Node/2 RECEBENDO DADOS/MVC.md",
+    "Html e protocolos/Input.md",
+    "Html e protocolos/PROTOCOLOS E INFRAESTRUTURA.md",
+    "Node/1 Template engines/3 Mustache(exibição condicional).md",
+    "Node/1 Template engines/4 Mustache(exibindo listas``loop``).md",
+    "Node/1 Template engines/5 Mustache(else de listas).md",
+    "Node/2 RECEBENDO DADOS/RECEBENDO DADOS VIA POST.md",
+    "Node/1 Template engines/6 Mustache(conteúdo parcial).md",
+    "Node/2 RECEBENDO DADOS/RECEBENDO DADOS NA URL 1.md",
+    "Anexos/Pasted image 20240107234740.png",
+    "Anexos/Pasted image 20240106231737.png",
+    "Anexos/Pasted image 20240106221249.png",
+    "Anexos/Pasted image 20240106110049.png",
     "Anexos/Pasted image 20240106093342.png",
     "Anexos/Pasted image 20240106091446.png",
     "Anexos/Pasted image 20240106091232.png",
     "Anexos/Pasted image 20240106090654.png",
-    "Comandos do terminal do windows.md",
-    "Node/2 RECEBENDO DADOS/VARIÁVEIS DE AMBIENTE.md",
     "Anexos/Pasted image 20240105230829.png",
-    "Node/Uso do Mustache.md",
-    "Comandos Markdown.md",
     "Anexos/Pasted image 20240105223755.png",
-    "Sem título.md",
     "Node/2 RECEBENDO DADOS",
     "RECEBENDO DADOS 1",
     "Node/2 RECEBENDO DADOS",
@@ -219,7 +220,6 @@
     "TYPESCRIPT",
     "pdf/Tutorial_criar_conta_000webhost_vf.pdf",
     "pdf/Múltiplas contas GIT no mesmo computador.pdf",
-    "Anexos/Roteiro Utilizacao Figma.pdf",
     "Sem título.canvas",
     "Sem título 3.canvas",
     "Sem título 2.canvas",
