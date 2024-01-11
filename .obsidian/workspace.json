@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Atualizando o arquivo remoto do gitHub.md",
+                "file": "Node/Projetos/nodeTs canil.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Atualizando o arquivo remoto do gitHub.md",
+                "file": "Node/Projetos/nodeTs canil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Atualizando o arquivo remoto do gitHub.md",
+                "file": "Node/Projetos/nodeTs canil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Atualizando o arquivo remoto do gitHub.md"
+                "file": "Node/Projetos/nodeTs canil.md"
               }
             }
           },
@@ -173,6 +173,8 @@
   },
   "active": "dc5aa3788f857508",
   "lastOpenFiles": [
+    "Anexos/Pasted image 20240110224712.png",
+    "Git/Atualizando o arquivo remoto do gitHub.md",
     "Git/Sincronizando o repositório local com o GitHub com https.md",
     "Node/Projetos/nodeTs canil.md",
     "Node/1 Template engines/1 Mustache (instalação).md",
@@ -198,8 +200,6 @@
     "Node/1 Template engines/4 Mustache(exibindo listas``loop``).md",
     "Node/1 Template engines/5 Mustache(else de listas).md",
     "Node/2 RECEBENDO DADOS/RECEBENDO DADOS VIA POST.md",
-    "Node/1 Template engines/6 Mustache(conteúdo parcial).md",
-    "Node/2 RECEBENDO DADOS/RECEBENDO DADOS NA URL 1.md",
     "Anexos/Pasted image 20240107234740.png",
     "Anexos/Pasted image 20240106231737.png",
     "Anexos/Pasted image 20240106221249.png",

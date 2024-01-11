@@ -90,7 +90,7 @@ import path from 'path'; //configuração da pasta pública
 ```ts
 dotenv.config();
 ```
-3. Cria fora da pasta ``src`` o arquivo ``.env``
+3. Cria <u>fora</u> da pasta ``src`` o arquivo ``.env``
 4. No arquivo`.env` ,coloque a porta que vai rodar o projeto
 ```R
 PORT=4000
@@ -133,5 +133,113 @@ server.listen(process.env.PORT);
 6. Coloque o arquivo HTML da aula na pasta ``_html``(depois que finalizar o projeto pode deletar essa arquivo)
 7. Coloque o arquivo da aula ``css`` e ``images`` na pasta ``public``
 ---
+### Rotas
+1. Cria a pasta `` routes``
+2. Cria o arquivo`index.ts`na pasta `routes`
+3. No arquivo `index.ts` ,importa o ``router``
+```ts
+import { Router} from 'express';
+```
+4.  Inicia o ``router``
+```ts
+const router = Router();
+```
+5. exportar o ``router``
+```ts
+export default router;
+```
+6. Cria a rota ``home``
+```ts
+router.get('/', (req, res)=> {
+	res.send('home');
+});
+```
+7. Na pasta ``server.ts`` importa a rota ``home`` criada:
+```ts
+import mainRoutes from './routes/index';
+```
+8. Seta a rota ``home`` em ``server.ts`` no campo reservado das rotas
+```ts
+server.use(mainRoutes);
+```
+9. Cria a pasta Não encontrada
+```ts
+server.use((req, res)=> {
+	res.send('página não encontrada!');
+});
+```
+10. No ``terminal`` rode o projeto
+```shell
+npm run start-dev
+```
+11. Na pasta ``src``, cria a pasta ``controllers``
+12. Na pasta ``src``, cria a pasta ``models``
+13. Na pasta ``controllers`` ,cria o arquivo ``pageController.ts``
+14. Na pasta ``controllers`` ,cria o arquivo ``searchController.ts``
+15. No arquivo `pageController.ts`  importa o Request e Response do express:
+```ts
+import {Request, Response} from 'express';
+```
+16. Cria a estrutura na  página `pageController` já exportando:
+```ts
+export const home = (req:Request, res: Response) => {
+	//res.render('pages/page');
+};
+```
+17. Importa o controller <u>Page</u> no arquivo ``index.ts``
+```ts
+import * as PageController from '../controllers/pageController';
+```
+18. Importa o controller <u>search</u> no arquivo ``index.ts``
+```ts
+import * as SearchController from '../controllers/searchController';
+```
+19. Cria a estrutura na página ``searchController`` já exportando:
+```ts
+export const search = (req:Request, res: Response) => {
+	//res.render('pages/search');
+};
+```
+20. Cria as rotas do <u>controller</u> no ``index.ts``
+- Logo depois de ``const router``
+```ts
+router.get('/'), PageController.home);
+router.get('/dogs'), PageController.dogs);
+router.get('/cats'), PageController.cats);
+router.get('/fishes'), PageController.fishes);
+//sinaliza error mais e só cria em pages o proximo passo!
+```
+21. Em `pageController` cria a estrutura para cada rota:
+```ts
+export const home = (req:Request, res: Response) => {
+	//res.render('pages/page');
+};
+export const dogs = (req:Request, res: Response) => {
+	//res.render('pages/page');
+};
+export const cats = (req:Request, res: Response) => {
+	//res.render('pages/page');
+};
+export const fishes = (req:Request, res: Response) => {
+	//res.render('pages/page');
+};
 
+```
+22. Cria as rota do <u>search</u> em index.ts
+```ts
+...
+router.get('/fishes'), PageController.fishes);
+router.get('/search'), searchController.search);
+//sinaliza error mais e só cria em pages o proximo passo!
+```
+23. Verifique o controller no navegador está funcionando usando ``send``
+```ts
+//em pageController
+export const home = (req:Request, res: Response) => {
+	res.sen('home no controller!');
+};
+```
+![[Pasted image 20240110224712.png]]
 
+---
+### Separando os `views`
