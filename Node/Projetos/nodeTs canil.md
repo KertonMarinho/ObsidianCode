@@ -243,3 +243,33 @@ export const home = (req:Request, res: Response) => {
 
 ---
 ### Separando os `views`
+- Pare o projeto `crtl+c``
+- Antes começar faça o commit
+```shell
+git add.
+git commit -m "base criada"
+git push 
+```
+- Inicia o projeto `npm run start-dev`
+
+1. Cria em `src`a pasta `views`
+2. Na pasta `views`cria  a pasta ``pages`` 
+3. Na pasta `views`cria a pasta `partials`
+4. Na pasta `partials` cria o arquivo `header.mustache
+5. Na pasta `partials` cria o arquivo `footer.mustache`
+6. Vá em `html` pegue do começo`` linha 1`` até a `linha 26` (menu: `</nav>)` e recorte para a pasta `header.mustache`
+7. Vá em `header.mustache` em ``href= "css/style.css"`` coloque a barra no começo para ele pegar o começo do projeto(`"/css/style.css"`)
+8.  Vá em `header.mustache` em ``href= images/favicon.png"`` coloque a barra no começo para ele pegar o começo do projeto(`images/favicon.png"`)
+9. No arquivo ``header.mustache`` na class ``container``  coloque barra para ele ser a raiz do projeto(página home)
+
+![[Pasted image 20240111225301.png]]
+10. No arquivo `header.mustache` na class `container`, no form  method coloque a barra `/search`em `` action`
+![[Pasted image 20240111225740.png|500]]
+11. Acrescenta  nos links do projeto:
+![[Pasted image 20240111230020.png|500]]
+
+12. Em `html` recorte o rodape
+![[Pasted image 20240111230147.png]]
+13. Cole em `footer.mustache`
+14. parou no -2.6
+15. 
