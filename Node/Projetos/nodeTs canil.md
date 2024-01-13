@@ -271,5 +271,121 @@ git push
 12. Em `html` recorte o rodape
 ![[Pasted image 20240111230147.png]]
 13. Cole em `footer.mustache`
-14. parou no -2.6
-15. 
+14. Em`viwes`cria a pasta `pages`
+15. cria em `pages` o arquivo page.mustache
+16. Pego o resto do html e cole em ``page.mustache``
+17. No final do arquivo `page.mustache` cole o rodapé
+```ts
+{{>partials/footer}}
+```
+18. Em cima do mesmo arquivo, cole:
+```ts
+{{>partials/header}}
+```
+19 Para checar se está funcionando no arquivo ``pageController`` escrevas os <u>send</u>:
+![[Pasted image 20240112213626.png|500]]
+20. Em `pages.mustache`>`class container`>`item` apague todos class item  deixe somente um
+![[Pasted image 20240112214116.png|400]]
+---
+## Deixando a pagina dinâmica, modificando dados em cada página
+1. Para enviar dados da página, Em `pagesController`  , const ``home`` cria o objeto e coloque as informações relacioandas a este objeto:
+```ts
+export const home = (req: Request, res: response) => {
+	res.render('pages/page', {
+		banner: {
+			title: 'Todos os animais',
+			background: 'allanimals.jpg'
+		}
+	});
+}
+```
+2. Coloque uma condicional`{{#banner}}`caso ``banner`` existir aparece o texto "Todos os animais"
+```ts
+{{#banner}}
+<section class="banner" style="backgroun-image: url('images/allanimais.jpg')">Todos os animais</section>
+<h2>Todos os animais disponíveis para adoção</h2>
+{{/banner}}
+```
+3. troque o texto `Todos os animais`de `h2` pelo caminho da rota `{{title}}`
+```ts
+{{#banner}}
+<section class="banner" style="backgroun-image: url('images/allanimais.jpg')">Todos os animais</section>
+<h2>{{titile}} disponíveis para adoção</h2>
+{{/banner}}
+```
+4. troque a rota da imagem ``allanimais.jpg`` por `{{background}}`
+```ts
+{{#banner}}
+<section class="banner" style="backgroun-image: url('images/{{background}})">Todos os animais</section>
+<h2>{{titile}} disponíveis para adoção</h2>
+{{/banner}}
+```
+5. troque o texto em section `Todos os animais` por `{{title}}`
+```ts
+{{#banner}}
+<section class="banner" style="backgroun-image: url('images/{{background}})"> {{ title}}</section>
+<h2>{{titile}} disponíveis para adoção</h2>
+{{/banner}}
+```
+6.   Em `pagesController`  , const ``dog``s cria o objeto e coloque as informações relacionadas a este objeto:
+```ts
+export const dogs = (req: Request, res: response) => {
+	res.render('pages/page', {
+		banner: {
+			title: 'Cachorros',
+			background: 'banner_dog.jpg'
+		}
+	});
+}
+```
+7.   Em `pagesController`  , const ``cats`` cria o objeto e coloque as informações relacionadas a este objeto:
+```ts
+export const dogs = (req: Request, res: response) => {
+	res.render('pages/page', {
+		banner: {
+			title: 'Gatos',
+			background: 'banner_cat.jpg'
+		}
+	});
+}
+```
+8.   Em `pagesController`  , const ``fishes`` cria o objeto e coloque as informações relacionadas a este objeto:
+```ts
+export const dogs = (req: Request, res: response) => {
+	res.render('pages/page', {
+		banner: {
+			title: 'Peixes',
+			background: 'fishe.jpg'
+		}
+	});
+}
+```
+9. Checa se as páginas estão funcionando:
+![[Pasted image 20240112221017.png|400]]
+---
+## Ativando o menu
+- Uns dois jeitos para ativar o menu seria:
+1. Em `pageController` cria um objeto ``menu`` com identificação de qual esta ativo(true) em cada variável
+![[Pasted image 20240112222348.png|400]]
+- Para página dogs, e vai seguindo colocando true nas páginas ativas:
+![[Pasted image 20240112222512.png|400]]
+2. No arquivo `header.mustache` coloque uma condicional para cada item ``li``
+![[Pasted image 20240112222847.png]] 
+- Desconsidera o item acima 1 e 2
+- Para deixar o código mais organizado,  criaremos uma função que diz que qual  item esteja ativo e ela retorna um objeto com o item  ativo e o restante como falso. Igual acima mas bem mais organizado.
+1. Em `src`cria uma pasta chamado ``helpers`` nesta pasta colocaremos as funções do projeto
+2. Cria o arquivo `createMenuObject.ts` dentro da pasta `helpers`
+3. No arquivo `createMenuObject.ts` cria o objeto com a função:
+```ts
+export const createMenuObject = () => {};
+```
+4. Crie uma string que vai conter o menu que quero que estiver ativo
+```ts
+export const createMenuObject = (activeMenu) => {};
+```
+5. Tipa este objeto criado(`activeMenu`)
+```ts
+type MenuOptions= ' ' | 'all' | 'dog' | 'cat' | 'fisher'
+export const createMenuObject = (activeMenu: MenuOptions) => {};
+```
+6. Paou no -04:27
