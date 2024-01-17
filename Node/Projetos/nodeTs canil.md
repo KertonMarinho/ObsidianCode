@@ -371,7 +371,6 @@ export const dogs = (req: Request, res: response) => {
 ![[Pasted image 20240112222512.png|400]]
 2. No arquivo `header.mustache` coloque uma condicional para cada item ``li``
 ![[Pasted image 20240112222847.png]] 
-- Desconsidera o item acima 1 e 2
 - Para deixar o código mais organizado,  criaremos uma função que diz que qual  item esteja ativo e ela retorna um objeto com o item  ativo e o restante como falso. Igual acima mas bem mais organizado.
 1. Em `src`cria uma pasta chamado ``helpers`` nesta pasta colocaremos as funções do projeto
 2. Cria o arquivo `createMenuObject.ts` dentro da pasta `helpers`
@@ -388,4 +387,269 @@ export const createMenuObject = (activeMenu) => {};
 type MenuOptions= ' ' | 'all' | 'dog' | 'cat' | 'fisher'
 export const createMenuObject = (activeMenu: MenuOptions) => {};
 ```
-6. Paou no -04:27
+6. Cria objeto com todos falsos:
+```ts
+type MenuOptions= ' ' | 'all' | 'dog' | 'cat' | 'fisher'
+export const createMenuObject = (activeMenu: MenuOptions) => {
+	let returnObjetc = {
+	all: false,
+	dog: false,
+	cat: false,
+	fishe: false
+	};
+	return returnObject;
+	
+};
+```
+7. Cria a condicional
+```ts
+type MenuOptions= ' ' | 'all' | 'dog' | 'cat' | 'fisher'
+export const createMenuObject = (activeMenu: MenuOptions) => {
+	let returnObjetc = {
+	all: false,
+	dog: false,
+	cat: false,
+	fishe: false
+	};
+	if(activeMenu !== ' ') {
+		returnObject[activeMenu] = false;
+		}
+	return returnObject;
+	
+};
+```
+8. Agora importa ela no arquivo `pageController`
+```ts
+import { createMenuObject } from '../helpers/creteMenuObject'
+```
+9. Em  `pageController` Substitua o <u>valor</u> do menu por `createMenuObject('all')`
+![[Pasted image 20240114220224.png|400]]
+10. Faça nos outros substituindo `` all`` por ``dog,cat ou fish``
+----
+## Model do projeto
+1. Em `Models` cria o arquivo `pet.ts`
+2. Para  criar um model (função para fazer alguma coisa) com pelo menos três funções diferentes:
+		1. Pegar todos pets
+		2. Filtrar os pets por tipo
+		3. filtrar os pets pelo nome
+3. Cria no arquivo `pet.ts` um objeto
+```ts
+export const Pet = {};
+```
+4. Criar uma constante para que simule o banco de dados com arquivo txt enviado na aula(arquivo banco de dados)
+![[Pasted image 20240114222133.png|400]]
+5. Cria um type para a constate `data`
+```ts
+type Pet = { 
+	type: 'dog' | 'cat' | 'fish',
+	image: string,
+	name: string,
+	color: string,
+	sexo: 'masculino' | 'feminino'
+}
+```
+6. Use o type na constante `data`
+```ts
+	const data: Pet[] = [...]
+```
+7. Cria um objeto com função, já typada
+```ts
+export const Pet = {
+	getAll: (): Pet[] => {
+		return data;
+	}
+}
+```
+---
+## Model parte 2
+1. Função para filtra para o tipo do pet: 
+- Cria o type antes
+```ts
+type PetType = 'dog' | 'cat' | 'fish';
+...
+export const Pet = {
+	getAll: (): Pet[] => {
+		return data;
+	},
+	getFromType: (type:PetType): Pet[] => {
+		
+	}
+	
+}
+```
+2. Para um código mais legível ,coloque o novo type no type pet, no lugar de ``'dog' | 'cat' | 'fish'``
+```ts
+type Pet = { 
+	type: PetType,
+	image: string,
+	name: string,
+	color: string,
+	sexo: 'masculino' | 'feminino'
+}
+```
+3. Fazendo a filtragem do tipo
+```ts
+export const Pet = {
+	getAll: (): Pet[] => {
+		return data;
+	},
+	getFromType: (type:PetType): Pet[] => {
+		return data.filter(item => {
+			if(item.type ===type) {
+				return true;
+			} else{
+				return false;
+			}
+		});
+	}
+	
+};
+```
+4. Simplificando a função:
+```ts
+gwrFromType: (type: PetType): Pet[] => {
+	return data.filter(item => item.type ===type);
+},
+```
+5. Fazendo a filtragem do nome:
+```ts
+export const Pet {
+...
+getFromName: (name: string): Pet[] => {
+	return data.filter(iem => {
+		if(item.name.indexOf(name) > -1){
+			return true;
+		} else {
+			return false;
+		}
+	})
+}
+}
+```
+6. Simplificando o código:
+```ts
+export const Pet {
+...
+	getFromName: (name: string): Pet[] => {
+	return data.filter(item => item.name.indexOf(name) > -1);
+	}
+};
+
+```
+7. Para não ocorrer problema transforme o nome do cachorro e o nome que mandei em minúsculo para fazer a busca, pois o ``indexOf`` diferencia maiúscula da minúscula
+```ts
+export const Pet {
+...
+	getFromName: (name: string): Pet[] => {
+	return data.filter(item => 
+		item.name.toLowerCase().indexOf(name.toLowerCase()) > -1);
+	}
+};
+
+```
+8. Pegue o type do ``sex`` e faça um type para ele
+- antes:
+```ts
+type Pet = { 
+	type: PetType,
+	image: string,
+	name: string,
+	color: string,
+	sexo: 'masculino' | 'feminino'
+}
+```
+- depois:
+```ts
+type PetSex = 'masculino' | 'feminino';
+type Pet = { 
+	type: PetType,
+	image: string,
+	name: string,
+	color: string,
+	sexo: PetSex
+}
+```
+---
+## Listando os pet no controller
+1. importar os <u>models</u> no arquivo `pageController``
+```ts
+import { Pet } from '../models/pet';
+```
+2. Para exibir todos os animais na página principal, na rota home
+- arquivo `pageController`
+![[Pasted image 20240116212733.png|400]]
+3. Em vies -> pages -> pages.mustache, coloque a class item dentro das chaves condicional `{{#list}}`
+![[Pasted image 20240116213054.png|400]]
+4. acrescente as valores da class item
+![[Pasted image 20240116213415.png|400]]
+5. Para exibir o animais na pagina dos, em rotas dogs
+![[Pasted image 20240116215704.png|400]]
+- Como está pronto em views, deve aparecer os cachorros na página Dogs
+![[Pasted image 20240116215913.png|300]]
+6. Faça a mesma coisa para pagina cats e fishes
+![[Pasted image 20240116220048.png|400]]
+----
+## FAZENDO A BUSCA E A PÁGINA 404
+1. Em ``searchControlller`` importar o item do menu e o item do model
+```ts
+import { pet } from '../models/pet';
+import { createMenuObject } from '../helpers/createMoenuObject';
+```
+2. Cria em ``const search`` 
+```ts
+export const search ...
+	res.render('pages/page',{
+		menu: createMenuObject(' ');
+		
+	})
+```
+3. pegue a queryString da url
+![[Pasted image 20240116221115.png]]
+
+```ts
+export const search ...
+	//pega o que o usuário digitou
+	let query: string = req.query.q as string;
+//lista
+	let list = pet.getFromName(query);
+
+	res.render('pages/page',{
+		menu: createMenuObject(' ');
+		//manda a llsta
+		list
+		
+	})
+```
+---
+#### Quando não achar nada na busca, cria uma página para informar
+1. Em `pageController` 
+![[Pasted image 20240116221739.png|400]]
+### Quando  a página de busca ja está digitado alguma pesquisa, ele se mantem nesta pesquisa, para reinicia e corrigir este problema:
+1. Em `searchController`  mande o query para renderização da página em `const search` 
+![[Pasted image 20240116222121.png|400]]
+2. Em `pages=>header.mustache->class container-> input search` 
+coloque um value
+![[Pasted image 20240116222421.png]]
+
+---
+## Página não encontrada
+1. Cria outra p'gina em ``pages`` chamda ``404.mustache``
+2. Copie a pagina `page.mustache` (todo o conteúdo) para página 404
+3. remova o `banner`
+4. Remova a listagem
+5. Remova verificação ``{{^list}}
+
+  **![[Pasted image 20240116223042.png|400]]
+
+6. Em `server.ts`, logo depois de mainRoutes
+Cria a rota página 404:
+```ts
+server.use((req, res)=>{
+	res.render('pages/404');
+})
+```
+- Para conferir pagina não encontrada digite qualquer coisa mais a barra na url
+--- 
+### Se pesquisar sem nada no campode busca, aparecerá todos os animais, faremos que volta para pagina inicial em vrez de mostrar todos os animais:
+![[Pasted image 20240116224119.png|400]]
+
