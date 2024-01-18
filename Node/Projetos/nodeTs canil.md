@@ -653,3 +653,45 @@ server.use((req, res)=>{
 ### Se pesquisar sem nada no campode busca, aparecerá todos os animais, faremos que volta para pagina inicial em vrez de mostrar todos os animais:
 ![[Pasted image 20240116224119.png|400]]
 
+----
+## Colocando o projeto no ar 1
+1. Descubra qual versão do node está instalado no terminal
+```shell
+node -v
+```
+2. No arquivo `packge.json` adicione logo o começo  a descrição de qual versão o node está
+- O site de hospedagem precisa dessa informação
+- colocando o x depois da versão, ele será utilizado em qualquer subversão que tiver(exemplo 14.x)
+![[Pasted image 20240117214305.png|400]]
+3. Na pasta `src`cria o arquivo `Procfile`
+- nome maisculo
+- sem extensão de arquivo
+- indica neste arquivo como que faz para rodar o projeto
+- o servidor leia esse arquivo e inicia o arquivo para rodar o projeto
+- escreva web: npm start
+![[Pasted image 20240117214641.png]]
+4.  Cria o script start no arquivo `package.json` em `debug` -> `script`
+![[Pasted image 20240117214856.png]]
+
+4. cria o script postInstall para que pega o src e trasncrever
+![[Pasted image 20240117215245.png|400]]
+5. instale a biblioteca para fazer copias de pastas
+```shell
+npm install --save-dev copyfiles
+```
+6. no postInstall cria um script para que todas extensão `.mustache` seja copiado para pasta `src`
+![[Pasted image 20240117220040.png|400]]
+7. Agora no terminal rode o <u>PostInstall</u>
+```shell
+npm run postinstall
+```
+- criado a pasta views com o .mustache
+![[Pasted image 20240117220316.png]]
+8. Checa se o site está funcionando, antes rode o servidor
+```shell
+npm run start
+```
+---
+## Colocando o projeto no ar 2
+- preparar o projeto para colocar no ar
+``deploy = implantação
