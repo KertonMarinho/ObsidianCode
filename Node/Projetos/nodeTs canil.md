@@ -695,3 +695,43 @@ npm run start
 ## Colocando o projeto no ar 2
 - preparar o projeto para colocar no ar
 ``deploy = implantação
+1. cria uma conta no heroku
+2. Baixe no Heroku o programa <u>heroku cli</u> 
+3. Para testar no terminal
+
+```shell
+heroku --version
+```
+4. De o comando para logar
+```shell
+heroku login
+```
+5. No terminal na pasta de projetos
+- tem que ter repositório no git
+```shell
+heroku create 
+```
+6. de um commit
+```shell
+git add.
+git commit - m"comentario"
+git push heroku main //push nos dois heroku e brand main do projeto
+```
+7. se houver error no comando ``tsc`` ,instale o typescript dentro do projeto
+```shell
+npm install typescript
+```
+8. No arquivo ``package.json`` criia um script em debug
+![[Pasted image 20240118211057.png]]
+9. no postinstall modifique para o comando ``npm run tsc``
+![[Pasted image 20240118211227.png]]
+10. No terminal de o comando para abrir para ter acesso
+- O Heroku se não tiver acesso no primeiros minutos ele finaliza
+- se não abrir no terminal do Vscode, abra no terminal do windows
+```shell
+heroku open
+```
+
+>[!info]
+>Quando fazer o modificação do projeto de um push no heroku e no main ao mesmo tempo que automaticamente ele modificara as alterações
+
