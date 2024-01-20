@@ -21,10 +21,10 @@ tsc --init
 ```
 - outDir e rootDir
 ```js
-"outDir": "./dist",
-"rootDir": "./src"
+"outDir": "./dist", //no mudulo Modules
+"rootDir": "./src" //no modulo emit
 ```
-- descomente o module resolution em ``Module Resolution Options``
+- descomente o module resolution em ``Modules -> Resolution Options``
 ```json
 "moduleResolution": "node",
 ```
@@ -36,7 +36,9 @@ npm install express mustache-express dotenv
 ```
 2. Instale as dependências de desenvolvimento (types)
 ```shell
-npm install --save-dev @types/express @types/mustache-express @types/node
+npm i --save-dev @types/express
+npm i --save-dev @types/mustache-express
+npm i --save-dev @types/node
 ```
 ---
 ### Pastas do projeto
@@ -48,6 +50,11 @@ npm install --save-dev @types/express @types/mustache-express @types/node
 - Se não estiver instalado globalmente o Nodemon, Typscript e  Ts-node
 ```shell
 npm install -g nodemon typescript ts-node
+```
+
+- se tiver problema co express instale no terminal
+```ts
+npm i --save-dev @types/express
 ```
 ---
 ### Configuração do arquivo ``package.json``
@@ -71,10 +78,10 @@ Projeto feito no módulo do curso Node + Typescript
 `npm i -g typescript ts-node`
 
 ### instalação
-'npm install'
+`npm install`
 
 ### Para rodar o projeto
-'npm run start-dev'
+`npm run start-dev`
 
 ```
 ---
@@ -82,7 +89,7 @@ Projeto feito no módulo do curso Node + Typescript
 1. No arquivo ``server.ts`` importe:
 ```ts
 import express from "express";
-import doten from 'dotenv';
+import dotenv from 'dotenv';
 import mustache from 'mustache-express';
 import path from 'path'; //configuração da pasta pública
 ```
@@ -176,7 +183,7 @@ npm run start-dev
 12. Na pasta ``src``, cria a pasta ``models``
 13. Na pasta ``controllers`` ,cria o arquivo ``pageController.ts``
 14. Na pasta ``controllers`` ,cria o arquivo ``searchController.ts``
-15. No arquivo `pageController.ts`  importa o Request e Response do express:
+15. No arquivo `pageController.ts` e  `searchCOntroller` importa o Request e Response do express:
 ```ts
 import {Request, Response} from 'express';
 ```
@@ -203,10 +210,10 @@ export const search = (req:Request, res: Response) => {
 20. Cria as rotas do <u>controller</u> no ``index.ts``
 - Logo depois de ``const router``
 ```ts
-router.get('/'), PageController.home);
-router.get('/dogs'), PageController.dogs);
-router.get('/cats'), PageController.cats);
-router.get('/fishes'), PageController.fishes);
+router.get('/', PageController.home);
+router.get('/dogs', PageController.dogs);
+router.get('/cats', PageController.cats);
+router.get('/fishes', PageController.fishes);
 //sinaliza error mais e só cria em pages o proximo passo!
 ```
 21. Em `pageController` cria a estrutura para cada rota:
@@ -236,7 +243,7 @@ router.get('/search'), searchController.search);
 ```ts
 //em pageController
 export const home = (req:Request, res: Response) => {
-	res.sen('home no controller!');
+	res.send('home no controller!');
 };
 ```
 ![[Pasted image 20240110224712.png]]

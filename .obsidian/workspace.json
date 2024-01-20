@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node/Projetos/nodeTs canil.md",
+                "file": "Node/2 RECEBENDO DADOS/VARIÁVEIS DE AMBIENTE.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node/Projetos/nodeTs canil.md",
+                "file": "Node/2 RECEBENDO DADOS/VARIÁVEIS DE AMBIENTE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node/Projetos/nodeTs canil.md",
+                "file": "Node/2 RECEBENDO DADOS/VARIÁVEIS DE AMBIENTE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node/Projetos/nodeTs canil.md"
+                "file": "Node/2 RECEBENDO DADOS/VARIÁVEIS DE AMBIENTE.md"
               }
             }
           },
@@ -173,27 +173,27 @@
   },
   "active": "dc5aa3788f857508",
   "lastOpenFiles": [
+    "Node/2 RECEBENDO DADOS/RECEBENDO DADOS VIA POST.md",
+    "Node/1 Template engines/3 Mustache(exibição condicional).md",
+    "Node/1 Template engines/2 Mustache(exibindo informações).md",
+    "Node/0 preparando o desenvovimento/8 Criando pastas públicas.md",
+    "Node/0 preparando o desenvovimento/7 Criando o 404 (página não encontrada).md",
+    "Node/0 preparando o desenvovimento/6 Criando rotas.md",
+    "Node/0 preparando o desenvovimento/4 Nodemon.md",
+    "Node/0 preparando o desenvovimento/3 Importar bibliotecas de terceiros.md",
+    "Node/0 preparando o desenvovimento/1 Export e import.md",
+    "Node/Projetos/nodeTs canil.md",
     "Node/2 RECEBENDO DADOS/VARIÁVEIS DE AMBIENTE.md",
     "Node/2 RECEBENDO DADOS/MVC.md",
-    "Node/2 RECEBENDO DADOS/RECEBENDO DADOS VIA POST.md",
     "Node/2 RECEBENDO DADOS/RECEBENDO DADOS NA URL 1.md",
     "Node/1 Template engines/6 Mustache(conteúdo parcial).md",
     "Node/1 Template engines/5 Mustache(else de listas).md",
     "Node/1 Template engines/4 Mustache(exibindo listas``loop``).md",
-    "Node/1 Template engines/3 Mustache(exibição condicional).md",
-    "Node/1 Template engines/2 Mustache(exibindo informações).md",
     "Node/1 Template engines/1 Mustache (instalação).md",
     "Node/1 Template engines/0 Template engines significado.md",
-    "Node/0 preparando o desenvovimento/8 Criando pastas públicas.md",
-    "Node/0 preparando o desenvovimento/7 Criando o 404 (página não encontrada).md",
-    "Node/0 preparando o desenvovimento/6 Criando rotas.md",
     "Node/0 preparando o desenvovimento/5 INSTALANDO O EXPRESS E CRIANDO UM SERVIDOR.md",
-    "Node/0 preparando o desenvovimento/4 Nodemon.md",
-    "Node/0 preparando o desenvovimento/3 Importar bibliotecas de terceiros.md",
-    "Node/0 preparando o desenvovimento/1 Export e import.md",
     "Node/0 preparando o desenvovimento/2 habilitar no shell do windows para rodar script.md",
     "Node/0 preparando o desenvovimento/0 Criando o primeiro projeto.md",
-    "Node/Projetos/nodeTs canil.md",
     "Comandos Markdown.md",
     "Anexos/Pasted image 20240118211227.png",
     "Anexos/Pasted image 20240118211057.png",
