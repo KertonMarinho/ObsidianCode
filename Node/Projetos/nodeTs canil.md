@@ -523,7 +523,7 @@ gwrFromType: (type: PetType): Pet[] => {
 export const Pet {
 ...
 getFromName: (name: string): Pet[] => {
-	return data.filter(iem => {
+	return data.filter(item => {
 		if(item.name.indexOf(name) > -1){
 			return true;
 		} else {
@@ -600,7 +600,7 @@ import { Pet } from '../models/pet';
 1. Em ``searchControlller`` importar o item do menu e o item do model
 ```ts
 import { pet } from '../models/pet';
-import { createMenuObject } from '../helpers/createMoenuObject';
+import { createMenuObject } from '../helpers/createMenuObject';
 ```
 2. Cria em ``const search`` 
 ```ts
@@ -621,7 +621,7 @@ export const search ...
 	let list = pet.getFromName(query);
 
 	res.render('pages/page',{
-		menu: createMenuObject(' ');
+		menu: createMenuObject(' '),
 		//manda a llsta
 		list
 		
@@ -629,8 +629,13 @@ export const search ...
 ```
 ---
 #### Quando não achar nada na busca, cria uma página para informar
-1. Em `pageController` 
+1. Em `page.mustache` 
 ![[Pasted image 20240116221739.png|400]]
+
+
+>[!warning]
+>{{^list}} = quando list não existir mostra essa class
+
 ### Quando  a página de busca ja está digitado alguma pesquisa, ele se mantem nesta pesquisa, para reinicia e corrigir este problema:
 1. Em `searchController`  mande o query para renderização da página em `const search` 
 ![[Pasted image 20240116222121.png|400]]
