@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node/4 Banco de dados mysql_postgreSQL/Introdução ao Mysql e Postgree.md",
+                "file": "BANCO DE DADOS/Instalação do MySQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node/4 Banco de dados mysql_postgreSQL/Introdução ao Mysql e Postgree.md",
+                "file": "BANCO DE DADOS/Instalação do MySQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node/4 Banco de dados mysql_postgreSQL/Introdução ao Mysql e Postgree.md",
+                "file": "BANCO DE DADOS/Instalação do MySQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node/4 Banco de dados mysql_postgreSQL/Introdução ao Mysql e Postgree.md"
+                "file": "BANCO DE DADOS/Instalação do MySQL.md"
               }
             }
           },
@@ -171,13 +171,17 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "def1af6ec34e20f0",
+  "active": "dc5aa3788f857508",
   "lastOpenFiles": [
+    "Anexos/Pasted image 20240125225459.png",
+    "Anexos/Pasted image 20240125225237.png",
+    "Anexos/Pasted image 20240125225053.png",
+    "BANCO DE DADOS/Instalação MySQL.md",
+    "BANCO DE DADOS/Instalação do MySQL.md",
+    "BANCO DE DADOS/Introdução MySQL.md",
+    "Node/4 Banco de dados mysql_postgreSQL/Introdução ao Mysql e Postgree.md",
     "Node/4 Banco de dados mysql_postgreSQL/Postgree",
     "Node/4 Banco de dados mysql_postgreSQL/MySQl",
-    "BANCO DE DADOS/Instalação MySQL.md",
-    "Node/4 Banco de dados mysql_postgreSQL/Introdução ao Mysql e Postgree.md",
-    "BANCO DE DADOS/Introdução MySQL.md",
     "Comandos Markdown.md",
     "BANCO DE DADOS",
     "Cores Markedown.md",
@@ -201,7 +205,6 @@
     "Node/2 RECEBENDO DADOS/MVC.md",
     "Node/2 RECEBENDO DADOS/RECEBENDO DADOS NA URL 1.md",
     "Node/1 Template engines/6 Mustache(conteúdo parcial).md",
-    "Node/1 Template engines/5 Mustache(else de listas).md",
     "Anexos/Pasted image 20240118211227.png",
     "Anexos/Pasted image 20240118211057.png",
     "Anexos/Pasted image 20240117220316.png",
@@ -210,8 +213,6 @@
     "Anexos/Pasted image 20240117214856.png",
     "Anexos/Pasted image 20240117214641.png",
     "Anexos/Pasted image 20240117214305.png",
-    "Anexos/Pasted image 20240116224119.png",
-    "Anexos/Pasted image 20240116223042.png",
     "Node/3 Projetos",
     "Node/2 RECEBENDO DADOS",
     "RECEBENDO DADOS 1",
@@ -219,7 +220,6 @@
     "Node/Sem título.canvas",
     "Algomania/ESTRUTURA DE DADOS",
     "Projetos Javascript",
-    "javascript/Códigos prontos",
     "Sem título.canvas",
     "Sem título 3.canvas",
     "Sem título 2.canvas",
