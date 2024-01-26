@@ -649,7 +649,9 @@ coloque um value
 2. Copie a pagina `page.mustache` (todo o conteúdo) para página 404
 3. remova o `banner`
 4. Remova a listagem
-5. Remova verificação ``{{^list}}
+5. Remova verificação ``{{#list}} e {{/list}}
+6. Fica igual a baixo
+7. remova div class item e substitua por `<h2>`página não encontrada
 
   **![[Pasted image 20240116223042.png|400]]
 
@@ -662,7 +664,8 @@ server.use((req, res)=>{
 ```
 - Para conferir pagina não encontrada digite qualquer coisa mais a barra na url
 --- 
-### Se pesquisar sem nada no campode busca, aparecerá todos os animais, faremos que volta para pagina inicial em vrez de mostrar todos os animais:
+### Se pesquisar sem nada no campo de busca, aparecerá todos os animais, faremos que volta para pagina inicial em vez de mostrar todos os animais:
+1. Em `searchController`
 ![[Pasted image 20240116224119.png|400]]
 
 ----

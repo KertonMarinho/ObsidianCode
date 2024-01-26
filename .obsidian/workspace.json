@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node/Projetos/nodeTs canil.md",
+                "file": "Node/4 Banco de dados mysql_postgreSQL/Introdução ao Mysql e Postgree.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node/Projetos/nodeTs canil.md",
+                "file": "Node/4 Banco de dados mysql_postgreSQL/Introdução ao Mysql e Postgree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node/Projetos/nodeTs canil.md",
+                "file": "Node/4 Banco de dados mysql_postgreSQL/Introdução ao Mysql e Postgree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node/Projetos/nodeTs canil.md"
+                "file": "Node/4 Banco de dados mysql_postgreSQL/Introdução ao Mysql e Postgree.md"
               }
             }
           },
@@ -171,10 +171,23 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "dc5aa3788f857508",
+  "active": "def1af6ec34e20f0",
   "lastOpenFiles": [
+    "Node/4 Banco de dados mysql_postgreSQL/Postgree",
+    "Node/4 Banco de dados mysql_postgreSQL/MySQl",
+    "BANCO DE DADOS/Instalação MySQL.md",
+    "Node/4 Banco de dados mysql_postgreSQL/Introdução ao Mysql e Postgree.md",
+    "BANCO DE DADOS/Introdução MySQL.md",
     "Comandos Markdown.md",
-    "Node/Projetos/nodeTs canil.md",
+    "BANCO DE DADOS",
+    "Cores Markedown.md",
+    "Challenge.md",
+    "link internos.md",
+    "obsidian.md",
+    "Sem título.md",
+    "Node/3 Projetos/nodeTs canil.md",
+    "RECEBENDO DADOS 1/RECEBENDO DADOS NA URL 1.md",
+    "Node/4 Banco de dados mysql_postgreSQL",
     "Node/2 RECEBENDO DADOS/VARIÁVEIS DE AMBIENTE.md",
     "Node/2 RECEBENDO DADOS/RECEBENDO DADOS VIA POST.md",
     "Node/1 Template engines/3 Mustache(exibição condicional).md",
@@ -189,12 +202,6 @@
     "Node/2 RECEBENDO DADOS/RECEBENDO DADOS NA URL 1.md",
     "Node/1 Template engines/6 Mustache(conteúdo parcial).md",
     "Node/1 Template engines/5 Mustache(else de listas).md",
-    "Node/1 Template engines/4 Mustache(exibindo listas``loop``).md",
-    "Node/1 Template engines/1 Mustache (instalação).md",
-    "Node/1 Template engines/0 Template engines significado.md",
-    "Node/0 preparando o desenvovimento/5 INSTALANDO O EXPRESS E CRIANDO UM SERVIDOR.md",
-    "Node/0 preparando o desenvovimento/2 habilitar no shell do windows para rodar script.md",
-    "Node/0 preparando o desenvovimento/0 Criando o primeiro projeto.md",
     "Anexos/Pasted image 20240118211227.png",
     "Anexos/Pasted image 20240118211057.png",
     "Anexos/Pasted image 20240117220316.png",
@@ -205,11 +212,7 @@
     "Anexos/Pasted image 20240117214305.png",
     "Anexos/Pasted image 20240116224119.png",
     "Anexos/Pasted image 20240116223042.png",
-    "Git/Atualizando o arquivo remoto do gitHub.md",
-    "Git/Sincronizando o repositório local com o GitHub com https.md",
-    "Cores Markedown.md",
-    "Node/Projetos",
-    "Git/Conectando ao GitHub com ssh.md",
+    "Node/3 Projetos",
     "Node/2 RECEBENDO DADOS",
     "RECEBENDO DADOS 1",
     "Node/2 RECEBENDO DADOS",
@@ -217,9 +220,6 @@
     "Algomania/ESTRUTURA DE DADOS",
     "Projetos Javascript",
     "javascript/Códigos prontos",
-    "TYPESCRIPT",
-    "pdf/Tutorial_criar_conta_000webhost_vf.pdf",
-    "pdf/Múltiplas contas GIT no mesmo computador.pdf",
     "Sem título.canvas",
     "Sem título 3.canvas",
     "Sem título 2.canvas",
