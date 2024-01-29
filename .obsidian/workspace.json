@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node/Introdução ao Mysql e Postgree.md",
+                "file": "BANCO DE DADOS/TIPOS DE DADOS.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node/Introdução ao Mysql e Postgree.md",
+                "file": "BANCO DE DADOS/TIPOS DE DADOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node/Introdução ao Mysql e Postgree.md",
+                "file": "BANCO DE DADOS/TIPOS DE DADOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node/Introdução ao Mysql e Postgree.md"
+                "file": "BANCO DE DADOS/TIPOS DE DADOS.md"
               }
             }
           },
@@ -171,23 +171,27 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "def1af6ec34e20f0",
+  "active": "dc5aa3788f857508",
   "lastOpenFiles": [
-    "BANCO DE DADOS/Instalação MySQL no linux.md",
+    "Anexos/Pasted image 20240128224042.png",
+    "Anexos/Pasted image 20240128223236.png",
+    "BANCO DE DADOS/OPÇÃO DE INFORMAÇÕES NA COLUNA.md",
+    "BANCO DE DADOS/TIPOS DE DADOS.md",
+    "Anexos/Pasted image 20240128222722.png",
+    "BANCO DE DADOS/3 VISÃO GERAL DO HEIDISQL.md",
+    "Anexos/Pasted image 20240128221304.png",
+    "Anexos/Pasted image 20240128220727.png",
+    "Anexos/Pasted image 20240128220618.png",
+    "Anexos/Pasted image 20240128220448.png",
+    "Anexos/Pasted image 20240128215609.png",
+    "Anexos/Pasted image 20240128215547.png",
+    "BANCO DE DADOS/2 Instalação MySQL no linux.md",
+    "Node/Introdução ao Mysql e Postgree.md",
     "Comandos Markdown.md",
     "Anexos/Pasted image 20240126234227.png",
     "Anexos/Pasted image 20240126233929.png",
-    "Anexos/Pasted image 20240126232550.png",
-    "Anexos/Pasted image 20240126231927.png",
-    "Anexos/Pasted image 20240126230320.png",
-    "Anexos/Pasted image 20240126230209.png",
-    "Anexos/Pasted image 20240126230032.png",
-    "BANCO DE DADOS/Instalação do MySQL no windows.md",
-    "Anexos/Pasted image 20240125225459.png",
-    "Anexos/Pasted image 20240125225237.png",
-    "Anexos/Pasted image 20240125225053.png",
-    "BANCO DE DADOS/Introdução MySQL.md",
-    "Node/Introdução ao Mysql e Postgree.md",
+    "BANCO DE DADOS/1 Instalação do MySQL no windows.md",
+    "BANCO DE DADOS/0 Introdução MySQL.md",
     "Node/4 Banco de dados mysql_postgreSQL/Postgree",
     "Node/4 Banco de dados mysql_postgreSQL/MySQl",
     "BANCO DE DADOS",
@@ -209,9 +213,6 @@
     "Node/0 preparando o desenvovimento/4 Nodemon.md",
     "Node/0 preparando o desenvovimento/3 Importar bibliotecas de terceiros.md",
     "Node/0 preparando o desenvovimento/1 Export e import.md",
-    "Node/2 RECEBENDO DADOS/MVC.md",
-    "Node/2 RECEBENDO DADOS/RECEBENDO DADOS NA URL 1.md",
-    "Node/1 Template engines/6 Mustache(conteúdo parcial).md",
     "Node/3 Projetos",
     "Node/2 RECEBENDO DADOS",
     "RECEBENDO DADOS 1",
