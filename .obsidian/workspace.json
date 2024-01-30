@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7173612d1c9e2fa1",
+        "id": "f5d6320c96f49bdf",
         "type": "tabs",
         "children": [
           {
-            "id": "dc5aa3788f857508",
+            "id": "c40de959cbff3d56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BANCO DE DADOS/TIPOS DE DADOS.md",
+                "file": "BANCO DE DADOS/EXERCÍCIO, PLANEJANDO UM BANCO DE DADOS.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BANCO DE DADOS/TIPOS DE DADOS.md",
+                "file": "BANCO DE DADOS/EXERCÍCIO, PLANEJANDO UM BANCO DE DADOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BANCO DE DADOS/TIPOS DE DADOS.md",
+                "file": "BANCO DE DADOS/EXERCÍCIO, PLANEJANDO UM BANCO DE DADOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BANCO DE DADOS/TIPOS DE DADOS.md"
+                "file": "BANCO DE DADOS/EXERCÍCIO, PLANEJANDO UM BANCO DE DADOS.md"
               }
             }
           },
@@ -171,26 +171,28 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "dc5aa3788f857508",
+  "active": "c40de959cbff3d56",
   "lastOpenFiles": [
+    "Anexos/Pasted image 20240129223757.png",
+    "Anexos/Pasted image 20240129222709.png",
+    "Anexos/Pasted image 20240129222555.png",
+    "Anexos/Pasted image 20240129222445.png",
+    "Anexos/Pasted image 20240129222224.png",
+    "BANCO DE DADOS/TIPOS DE DADOS.md",
+    "BANCO DE DADOS/EXERCÍCIO, PLANEJANDO UM BANCO DE DADOS.md",
+    "Projetos Javascript/Relógio contador de tempo(com setIntervall).md",
+    "BANCO DE DADOS/1 Instalação do MySQL no windows.md",
     "Anexos/Pasted image 20240128224042.png",
     "Anexos/Pasted image 20240128223236.png",
     "BANCO DE DADOS/OPÇÃO DE INFORMAÇÕES NA COLUNA.md",
-    "BANCO DE DADOS/TIPOS DE DADOS.md",
     "Anexos/Pasted image 20240128222722.png",
     "BANCO DE DADOS/3 VISÃO GERAL DO HEIDISQL.md",
     "Anexos/Pasted image 20240128221304.png",
     "Anexos/Pasted image 20240128220727.png",
     "Anexos/Pasted image 20240128220618.png",
-    "Anexos/Pasted image 20240128220448.png",
-    "Anexos/Pasted image 20240128215609.png",
-    "Anexos/Pasted image 20240128215547.png",
     "BANCO DE DADOS/2 Instalação MySQL no linux.md",
     "Node/Introdução ao Mysql e Postgree.md",
     "Comandos Markdown.md",
-    "Anexos/Pasted image 20240126234227.png",
-    "Anexos/Pasted image 20240126233929.png",
-    "BANCO DE DADOS/1 Instalação do MySQL no windows.md",
     "BANCO DE DADOS/0 Introdução MySQL.md",
     "Node/4 Banco de dados mysql_postgreSQL/Postgree",
     "Node/4 Banco de dados mysql_postgreSQL/MySQl",
@@ -211,8 +213,6 @@
     "Node/0 preparando o desenvovimento/7 Criando o 404 (página não encontrada).md",
     "Node/0 preparando o desenvovimento/6 Criando rotas.md",
     "Node/0 preparando o desenvovimento/4 Nodemon.md",
-    "Node/0 preparando o desenvovimento/3 Importar bibliotecas de terceiros.md",
-    "Node/0 preparando o desenvovimento/1 Export e import.md",
     "Node/3 Projetos",
     "Node/2 RECEBENDO DADOS",
     "RECEBENDO DADOS 1",

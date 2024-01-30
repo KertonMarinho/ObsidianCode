@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "OiDatabaseData2",
+      "OiBancoDeDado",
       "OiFileTypeNodeIcon130301",
       "OiIcons8Typescript",
-      "OiQuestionMarkIcon34771",
-      "OiLetterOIconPng20914(1)",
-      "OiTerminalWindowIcon143500"
+      "OiQuestionMarkIcon34771"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -62,5 +62,9 @@
     "iconName": null,
     "inheritanceIcon": "OiIcons8Typescript"
   },
-  "Node/0 preparando o desenvovimento": "OiFileTypeNodeIcon130301"
+  "Node/0 preparando o desenvovimento": "OiFileTypeNodeIcon130301",
+  "BANCO DE DADOS": {
+    "iconName": "OiDatabaseData2",
+    "inheritanceIcon": "OiDatabaseData2"
+  }
 }
