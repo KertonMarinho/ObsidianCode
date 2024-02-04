@@ -29,5 +29,37 @@
 ![[Pasted image 20240129223757.png|200]].
 7. O minestoque será do tipo `int`,  <u>não permitir nulo</u> e coloque um valor padrão `0`
 
->parou no -07:09
+---
+# TABELA DOS FORNCEDORES
+1. Cria nova tablea para os fornecedores
+2. Adicione as colunas:
+	- ID
+	- Nome
+	- Telefone
+3. A coluna do ID terá `chave primaria` e `auto-increment
+4. O nome será `varchar` e tamanho em `100`e <u>não permitir nulo</u>
+5. Telefone será `Varchar`(pois o telefone possui caracteres), 
+---
+# RELAÇÃO ENTRE TABELAS(PRODUTO X FORNCEDORES
+- Usa-se o campo ID por exemplo fornecedores para refêrenciar outras tabelas
+1. Na tabela `Produto` cria uma coluna com oo nome `id_fornecedor`, tipo int  e não permitir nulo
+- Com o arquivo do professor cadastre os produtos, usuários e fornecedores
+ 2. Do usuário
+![[Pasted image 20240204114203.png]]
+3. Do Produto: 
+![[Pasted image 20240204114239.png]]
+4. fornecedores:
+![[Pasted image 20240204114311.png]]
+
+
+> [!SUMMARY] Inserção de dados™
+> Pra quem não entendeu, é só no HeidiSQL, "consulta", copia os dados que ele informou:
+ > INSERT IGNORE INTO `usuarios` (`id`, `nome`, `datacadastro`) VALUES  
+(1, 'Bonieky', '2007-12-10'),  
+(2, 'Pedro', '2009-04-15'),  
+(3, 'João', '2011-03-18'),  
+(4, 'Jéssica', '2019-07-22'),  
+(5, 'Beatriz', '2021-01-11');             
+>
+>aperte o em executar, ou F9, depois só da F5 pra atualizar, os dados serão importados.
 
