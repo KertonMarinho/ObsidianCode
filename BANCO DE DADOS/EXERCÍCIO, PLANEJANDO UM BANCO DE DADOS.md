@@ -42,8 +42,10 @@
 ---
 # RELAÇÃO ENTRE TABELAS(PRODUTO X FORNCEDORES
 - Usa-se o campo ID por exemplo fornecedores para refêrenciar outras tabelas
-1. Na tabela `Produto` cria uma coluna com oo nome `id_fornecedor`, tipo int  e não permitir nulo
-- Com o arquivo do professor cadastre os produtos, usuários e fornecedores
+1. Na tabela `Produto` cria uma coluna com oo nome `id_fornecedor`, tipo int  e não permitir nulo.
+- isso vair permitir que uma tabela se referência outra
+----
+# Com o arquivo do professor cadastre os produtos, usuários e fornecedores
  2. Do usuário
 ![[Pasted image 20240204114203.png]]
 3. Do Produto: 
@@ -63,3 +65,39 @@
 >
 >aperte o em executar, ou F9, depois só da F5 pra atualizar, os dados serão importados.
 
+# Como inserir dados na tabelas
+
+1. Abra o HeidiSQL ,abra a página consulta e digite estes códigos:
+```md
+INSERT IGNORE INTO usuario (id, nome, data_cadastro ) VALUES
+(1, 'Bonieky', '2007-12-10'),
+(2, 'Pedro', '2009-04-15'),
+(3, 'João', '2011-03-18'),
+(4, 'Jéssica', '2019-07-22'),
+(5, 'Beatriz', '2021-01-11');
+```
+2. Abre nova pagina de consulta `consulta#2` e digite estes comandos:
+```md
+INSERT IGNORE INTO `fornecedores` (`id`, `nome`, `telefone`) VALUES
+(1, 'XYZ', '(11)9999-9999'),
+(2, 'Bigsoft', '(12) 8888-8888'),
+(3, 'BLA', '(13)7777-7777'),
+(4, 'Positivo ', '(14)6666-6666'),
+(5, 'LG', '(15)5555-5555'),
+(6, 'NASA', '(16)44444-4444');
+```
+3. Abra nove página com `consulta#3` e digite estes códigos:
+```md
+INSERT IGNORE INTO `produtos` (`id`, `nome`, `preco`, `estoque`, `minimoestoque`, `id_fornecedor`) VALUES  
+(1, 'Teclado Gamer XYZ', 200, 10, 5, 0),  
+(2, 'Mouse 9200dpi', 125.66, 36, 15, 0),  
+(3, 'Monitor 99\' ultrawide', 999, 14, 10, 0),  
+(4, 'Notebook 50gb ram', 9546, 7, 10, 0),  
+(5, 'Teclado Numérico  x', 37, 5, 5, 0),  
+(6, 'Cadeira Gamer BLA ', 864, 12, 10, 0),  
+(7, 'Monitor 55\' curvo ', 140, 33, 35, 0),  
+(8, 'PC da Nasa', 54536, 2, 1, 0),  
+(9, 'PC Ruim', 50, 75, 50, 0),  
+(10, 'Cubo Mágico 13 faces', 3, 324, 350, 0);
+```
+Em todos coloque salvar ou tecla f9.

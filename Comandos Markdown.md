@@ -70,11 +70,11 @@ para gerar uma chamda utiliza
 
 >[!info]
 >este é um bloco de chamda
->ele suprote a notaçao *markdown* e [[link internos]]
+>ele suprote a notaçao *markdown* e [[programas internos]]
 
 >[!warning]
 >este é um bloco de chamda
->ele suprote a notaçao *markdown* e [[link internos]].
+>ele suprote a notaçao *markdown* e [[programas internos]].
 
 > [!SUMMARY] The Point™
 > The point is that you own this folder just like the other folder of camping photos that you created yourself.

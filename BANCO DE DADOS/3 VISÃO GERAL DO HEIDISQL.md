@@ -8,8 +8,10 @@
 www.heidisql.com
 >dowload->installer
 
+- Vai apacecer o outro porgrama e sgue ele
+
 2. Em gerenciador de sessões
-**![[Pasted image 20240128215609.png|300]]
+**![[Pasted image 20240128215609.png|400]]
 
 - Servidor /Ip: onde vai ser o local do seu pc ou o ip do servidor externo
 - usuário: geralmente root por padrão

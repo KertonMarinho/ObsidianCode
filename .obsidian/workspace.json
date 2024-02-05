@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Challenge.md",
+                "file": "BANCO DE DADOS/EXERCÍCIO, PLANEJANDO UM BANCO DE DADOS.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Challenge.md",
+                "file": "BANCO DE DADOS/EXERCÍCIO, PLANEJANDO UM BANCO DE DADOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Challenge.md",
+                "file": "BANCO DE DADOS/EXERCÍCIO, PLANEJANDO UM BANCO DE DADOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Challenge.md"
+                "file": "BANCO DE DADOS/EXERCÍCIO, PLANEJANDO UM BANCO DE DADOS.md"
               }
             }
           },
@@ -173,7 +173,15 @@
   },
   "active": "c40de959cbff3d56",
   "lastOpenFiles": [
+    "BANCO DE DADOS/TIPOS DE DADOS.md",
+    "BANCO DE DADOS/OPÇÃO DE INFORMAÇÕES NA COLUNA.md",
+    "BANCO DE DADOS/3 VISÃO GERAL DO HEIDISQL.md",
+    "BANCO DE DADOS/1 Instalação do MySQL no windows.md",
+    "BANCO DE DADOS/2 Instalação MySQL no linux.md",
+    "BANCO DE DADOS/0 Introdução MySQL.md",
+    "programas internos.md",
     "Site help or works.md",
+    "Challenge.md",
     "Comandos do terminal do windows.md",
     "BANCO DE DADOS/EXERCÍCIO, PLANEJANDO UM BANCO DE DADOS.md",
     "Comandos Markdown.md",
@@ -185,22 +193,14 @@
     "Anexos/Pasted image 20240129222555.png",
     "Anexos/Pasted image 20240129222445.png",
     "Anexos/Pasted image 20240129222224.png",
-    "BANCO DE DADOS/TIPOS DE DADOS.md",
     "Projetos Javascript/Relógio contador de tempo(com setIntervall).md",
-    "BANCO DE DADOS/1 Instalação do MySQL no windows.md",
     "Anexos/Pasted image 20240128224042.png",
     "Anexos/Pasted image 20240128223236.png",
-    "BANCO DE DADOS/OPÇÃO DE INFORMAÇÕES NA COLUNA.md",
-    "BANCO DE DADOS/3 VISÃO GERAL DO HEIDISQL.md",
-    "BANCO DE DADOS/2 Instalação MySQL no linux.md",
     "Node/Introdução ao Mysql e Postgree.md",
-    "BANCO DE DADOS/0 Introdução MySQL.md",
     "Node/4 Banco de dados mysql_postgreSQL/Postgree",
     "Node/4 Banco de dados mysql_postgreSQL/MySQl",
     "BANCO DE DADOS",
     "Cores Markedown.md",
-    "Challenge.md",
-    "link internos.md",
     "obsidian.md",
     "Sem título.md",
     "Node/3 Projetos/nodeTs canil.md",

@@ -1,5 +1,4 @@
-1. Pesquise no Google
-	- MySQL istaller
+1. Entra no site [MySQL :: Download MySQL Installer](https://dev.mysql.com/downloads/installer/)
 2. Seleciona o Sistema Operacional
 ![[Pasted image 20240125225053.png|400]]
 3. No Instalador click no servidor Apenas
