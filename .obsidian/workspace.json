@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BANCO DE DADOS/EXERCÍCIO, PLANEJANDO UM BANCO DE DADOS.md",
+                "file": "BANCO DE DADOS/SQL COMANDOS/WHERE.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BANCO DE DADOS/EXERCÍCIO, PLANEJANDO UM BANCO DE DADOS.md",
+                "file": "BANCO DE DADOS/SQL COMANDOS/WHERE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BANCO DE DADOS/EXERCÍCIO, PLANEJANDO UM BANCO DE DADOS.md",
+                "file": "BANCO DE DADOS/SQL COMANDOS/WHERE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BANCO DE DADOS/EXERCÍCIO, PLANEJANDO UM BANCO DE DADOS.md"
+                "file": "BANCO DE DADOS/SQL COMANDOS/WHERE.md"
               }
             }
           },
@@ -173,17 +173,27 @@
   },
   "active": "c40de959cbff3d56",
   "lastOpenFiles": [
+    "Anexos/Pasted image 20240205222223.png",
+    "Anexos/Pasted image 20240205221550.png",
+    "Anexos/Pasted image 20240205221307.png",
+    "BANCO DE DADOS/SQL COMANDOS/SELECT.md",
+    "BANCO DE DADOS/SQL COMANDOS/WHERE.md",
+    "Anexos/Pasted image 20240205220344.png",
+    "Anexos/Pasted image 20240205220254.png",
+    "Cores Markedown.md",
+    "BANCO DE DADOS/0 Introdução MySQL.md",
+    "BANCO DE DADOS/SQL COMANDOS",
+    "BANCO DE DADOS/EXERCÍCIO, PLANEJANDO UM BANCO DE DADOS.md",
+    "Sem título",
     "BANCO DE DADOS/TIPOS DE DADOS.md",
     "BANCO DE DADOS/OPÇÃO DE INFORMAÇÕES NA COLUNA.md",
     "BANCO DE DADOS/3 VISÃO GERAL DO HEIDISQL.md",
     "BANCO DE DADOS/1 Instalação do MySQL no windows.md",
     "BANCO DE DADOS/2 Instalação MySQL no linux.md",
-    "BANCO DE DADOS/0 Introdução MySQL.md",
     "programas internos.md",
     "Site help or works.md",
     "Challenge.md",
     "Comandos do terminal do windows.md",
-    "BANCO DE DADOS/EXERCÍCIO, PLANEJANDO UM BANCO DE DADOS.md",
     "Comandos Markdown.md",
     "Anexos/Pasted image 20240204114311.png",
     "Anexos/Pasted image 20240204114239.png",
@@ -191,16 +201,11 @@
     "Anexos/Pasted image 20240129223757.png",
     "Anexos/Pasted image 20240129222709.png",
     "Anexos/Pasted image 20240129222555.png",
-    "Anexos/Pasted image 20240129222445.png",
-    "Anexos/Pasted image 20240129222224.png",
     "Projetos Javascript/Relógio contador de tempo(com setIntervall).md",
-    "Anexos/Pasted image 20240128224042.png",
-    "Anexos/Pasted image 20240128223236.png",
     "Node/Introdução ao Mysql e Postgree.md",
     "Node/4 Banco de dados mysql_postgreSQL/Postgree",
     "Node/4 Banco de dados mysql_postgreSQL/MySQl",
     "BANCO DE DADOS",
-    "Cores Markedown.md",
     "obsidian.md",
     "Sem título.md",
     "Node/3 Projetos/nodeTs canil.md",
@@ -210,16 +215,11 @@
     "Node/2 RECEBENDO DADOS/RECEBENDO DADOS VIA POST.md",
     "Node/1 Template engines/3 Mustache(exibição condicional).md",
     "Node/1 Template engines/2 Mustache(exibindo informações).md",
-    "Node/0 preparando o desenvovimento/8 Criando pastas públicas.md",
-    "Node/0 preparando o desenvovimento/7 Criando o 404 (página não encontrada).md",
-    "Node/0 preparando o desenvovimento/6 Criando rotas.md",
     "Node/3 Projetos",
     "Node/2 RECEBENDO DADOS",
     "RECEBENDO DADOS 1",
     "Node/2 RECEBENDO DADOS",
     "Node/Sem título.canvas",
-    "Algomania/ESTRUTURA DE DADOS",
-    "Projetos Javascript",
     "Sem título.canvas",
     "Sem título 3.canvas",
     "Sem título 2.canvas",
