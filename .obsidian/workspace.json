@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BANCO DE DADOS/10 WHERE BETWEEN E IN.md",
+                "file": "BANCO DE DADOS/18 JOIN ( left, inner, right ).md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BANCO DE DADOS/10 WHERE BETWEEN E IN.md",
+                "file": "BANCO DE DADOS/18 JOIN ( left, inner, right ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BANCO DE DADOS/10 WHERE BETWEEN E IN.md",
+                "file": "BANCO DE DADOS/18 JOIN ( left, inner, right ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BANCO DE DADOS/10 WHERE BETWEEN E IN.md"
+                "file": "BANCO DE DADOS/18 JOIN ( left, inner, right ).md"
               }
             }
           },
@@ -173,54 +173,54 @@
   },
   "active": "def1af6ec34e20f0",
   "lastOpenFiles": [
-    "Anexos/Pasted image 20240206221527.png",
-    "BANCO DE DADOS/11 WHERE LIKE.md",
-    "BANCO DE DADOS/10 WHERE BETWEEN E IN.md",
-    "Anexos/Pasted image 20240206220541.png",
-    "Anexos/Pasted image 20240206220403.png",
-    "Cores Markedown.md",
-    "BANCO DE DADOS/09 WHERE AND, OR E OPERADORES.md",
-    "Anexos/Pasted image 20240206214734.png",
-    "Anexos/Pasted image 20240206214314.png",
+    "BANCO DE DADOS/17 JOIN.md",
+    "BANCO DE DADOS/18 JOIN ( left, inner, right ).md",
+    "Anexos/Pasted image 20240208200450.png",
+    "Anexos/Pasted image 20240208195649.png",
+    "BANCO DE DADOS/16 SUBQUERY.md",
+    "Anexos/Pasted image 20240208194612.png",
+    "Anexos/Pasted image 20240208192615.png",
     "BANCO DE DADOS/08 WHERE.md",
-    "Anexos/Pasted image 20240205222223.png",
-    "Anexos/Pasted image 20240205221550.png",
-    "Anexos/Pasted image 20240205221307.png",
     "BANCO DE DADOS/07 SELECT.md",
-    "Anexos/Pasted image 20240205220344.png",
-    "Anexos/Pasted image 20240205220254.png",
-    "BANCO DE DADOS/02 Introdução MySQL.md",
-    "BANCO DE DADOS/SQL COMANDOS",
+    "BANCO DE DADOS/15 GROUP BY.md",
+    "2024-02-07.md",
+    "Sem título.canvas",
+    "Node/2 RECEBENDO DADOS/VARIÁVEIS DE AMBIENTE.md",
+    "BANCO DE DADOS/14 COUNT, AVG E SUM.md",
+    "BANCO DE DADOS/13 LIMIT.md",
+    "BANCO DE DADOS/12 ORDER BY.md",
+    "BANCO DE DADOS/11 WHERE BETWEEN E IN.md",
+    "BANCO DE DADOS/10 WHERE LIKE.md",
+    "BANCO DE DADOS/09 WHERE AND, OR E OPERADORES.md",
     "BANCO DE DADOS/06 EXERCÍCIO, PLANEJANDO UM BANCO DE DADOS.md",
-    "Sem título",
     "BANCO DE DADOS/05 TIPOS DE DADOS.md",
     "BANCO DE DADOS/04 OPÇÃO DE INFORMAÇÕES NA COLUNA.md",
     "BANCO DE DADOS/03 VISÃO GERAL DO HEIDISQL.md",
     "BANCO DE DADOS/00 Instalação do MySQL no windows.md",
     "BANCO DE DADOS/01 Instalação MySQL no linux.md",
+    "BANCO DE DADOS/02 Introdução MySQL.md",
+    "Anexos/Pasted image 20240207220755.png",
+    "Anexos/Pasted image 20240207220412.png",
+    "Anexos/Pasted image 20240207220016.png",
+    "Cores Markedown.md",
+    "Anexos/Pasted image 20240207215625.png",
+    "Anexos/Pasted image 20240207215413.png",
+    "Anexos/Pasted image 20240207215034.png",
+    "BANCO DE DADOS/SQL COMANDOS",
+    "Sem título",
     "programas internos.md",
     "Site help or works.md",
     "Challenge.md",
     "Comandos do terminal do windows.md",
-    "Comandos Markdown.md",
-    "Anexos/Pasted image 20240204114311.png",
-    "Projetos Javascript/Relógio contador de tempo(com setIntervall).md",
-    "Node/Introdução ao Mysql e Postgree.md",
     "Node/4 Banco de dados mysql_postgreSQL/Postgree",
     "Node/4 Banco de dados mysql_postgreSQL/MySQl",
     "BANCO DE DADOS",
-    "obsidian.md",
-    "Sem título.md",
-    "Node/3 Projetos/nodeTs canil.md",
-    "RECEBENDO DADOS 1/RECEBENDO DADOS NA URL 1.md",
     "Node/4 Banco de dados mysql_postgreSQL",
-    "Node/2 RECEBENDO DADOS/VARIÁVEIS DE AMBIENTE.md",
     "Node/3 Projetos",
     "Node/2 RECEBENDO DADOS",
     "RECEBENDO DADOS 1",
     "Node/2 RECEBENDO DADOS",
     "Node/Sem título.canvas",
-    "Sem título.canvas",
     "Sem título 3.canvas",
     "Sem título 2.canvas",
     "Sem título 1.canvas"
