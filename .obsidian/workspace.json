@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BANCO DE DADOS/18 JOIN ( left, inner, right ).md",
+                "file": "BANCO DE DADOS/20 UPDATE.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BANCO DE DADOS/18 JOIN ( left, inner, right ).md",
+                "file": "BANCO DE DADOS/20 UPDATE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BANCO DE DADOS/18 JOIN ( left, inner, right ).md",
+                "file": "BANCO DE DADOS/20 UPDATE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BANCO DE DADOS/18 JOIN ( left, inner, right ).md"
+                "file": "BANCO DE DADOS/20 UPDATE.md"
               }
             }
           },
@@ -173,8 +173,12 @@
   },
   "active": "def1af6ec34e20f0",
   "lastOpenFiles": [
-    "BANCO DE DADOS/17 JOIN.md",
+    "BANCO DE DADOS/19 INSERT INTO.md",
+    "BANCO DE DADOS/20 UPDATE.md",
     "BANCO DE DADOS/18 JOIN ( left, inner, right ).md",
+    "Anexos/Pasted image 20240211221351.png",
+    "Anexos/Pasted image 20240211221234.png",
+    "BANCO DE DADOS/17 JOIN.md",
     "Anexos/Pasted image 20240208200450.png",
     "Anexos/Pasted image 20240208195649.png",
     "BANCO DE DADOS/16 SUBQUERY.md",
@@ -204,14 +208,10 @@
     "Anexos/Pasted image 20240207220016.png",
     "Cores Markedown.md",
     "Anexos/Pasted image 20240207215625.png",
-    "Anexos/Pasted image 20240207215413.png",
-    "Anexos/Pasted image 20240207215034.png",
     "BANCO DE DADOS/SQL COMANDOS",
     "Sem título",
     "programas internos.md",
     "Site help or works.md",
-    "Challenge.md",
-    "Comandos do terminal do windows.md",
     "Node/4 Banco de dados mysql_postgreSQL/Postgree",
     "Node/4 Banco de dados mysql_postgreSQL/MySQl",
     "BANCO DE DADOS",
