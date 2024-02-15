@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BANCO DE DADOS/20 UPDATE.md",
+                "file": "BANCO DE DADOS/DELETE.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BANCO DE DADOS/20 UPDATE.md",
+                "file": "BANCO DE DADOS/DELETE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BANCO DE DADOS/20 UPDATE.md",
+                "file": "BANCO DE DADOS/DELETE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BANCO DE DADOS/20 UPDATE.md"
+                "file": "BANCO DE DADOS/DELETE.md"
               }
             }
           },
@@ -173,8 +173,9 @@
   },
   "active": "c40de959cbff3d56",
   "lastOpenFiles": [
-    "Cores Markedown.md",
     "BANCO DE DADOS/20 UPDATE.md",
+    "BANCO DE DADOS/DELETE.md",
+    "Cores Markedown.md",
     "BANCO DE DADOS/19 INSERT INTO.md",
     "BANCO DE DADOS/18 JOIN ( left, inner, right ).md",
     "Anexos/Pasted image 20240211221351.png",
@@ -211,7 +212,6 @@
     "BANCO DE DADOS/SQL COMANDOS",
     "Sem título",
     "programas internos.md",
-    "Site help or works.md",
     "Node/4 Banco de dados mysql_postgreSQL/Postgree",
     "Node/4 Banco de dados mysql_postgreSQL/MySQl",
     "BANCO DE DADOS",
