@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BANCO DE DADOS/DELETE.md",
+                "file": "Node/INSTALANO O SERVIDOR POSTGRESQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BANCO DE DADOS/DELETE.md",
+                "file": "Node/INSTALANO O SERVIDOR POSTGRESQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BANCO DE DADOS/DELETE.md",
+                "file": "Node/INSTALANO O SERVIDOR POSTGRESQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BANCO DE DADOS/DELETE.md"
+                "file": "Node/INSTALANO O SERVIDOR POSTGRESQL.md"
               }
             }
           },
@@ -173,8 +173,11 @@
   },
   "active": "c40de959cbff3d56",
   "lastOpenFiles": [
+    "Anexos/Pasted image 20240215224056.png",
+    "Node/Introdução ao Mysql e Postgree.md",
+    "Node/INSTALANO O SERVIDOR POSTGRESQL.md",
+    "BANCO DE DADOS/21 DELETE.md",
     "BANCO DE DADOS/20 UPDATE.md",
-    "BANCO DE DADOS/DELETE.md",
     "Cores Markedown.md",
     "BANCO DE DADOS/19 INSERT INTO.md",
     "BANCO DE DADOS/18 JOIN ( left, inner, right ).md",
@@ -203,15 +206,12 @@
     "BANCO DE DADOS/04 OPÇÃO DE INFORMAÇÕES NA COLUNA.md",
     "BANCO DE DADOS/03 VISÃO GERAL DO HEIDISQL.md",
     "BANCO DE DADOS/00 Instalação do MySQL no windows.md",
-    "BANCO DE DADOS/01 Instalação MySQL no linux.md",
-    "BANCO DE DADOS/02 Introdução MySQL.md",
     "Anexos/Pasted image 20240207220755.png",
     "Anexos/Pasted image 20240207220412.png",
     "Anexos/Pasted image 20240207220016.png",
     "Anexos/Pasted image 20240207215625.png",
     "BANCO DE DADOS/SQL COMANDOS",
     "Sem título",
-    "programas internos.md",
     "Node/4 Banco de dados mysql_postgreSQL/Postgree",
     "Node/4 Banco de dados mysql_postgreSQL/MySQl",
     "BANCO DE DADOS",
