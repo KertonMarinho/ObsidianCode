@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DISPLAY, POSITION E Z-INDEX.md",
+                "file": "CSS/TRANSFORMAÇÕES E TRANSIÇÕES.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,6 +45,24 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "03ae55a524826ad6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3a0328aa42a7902",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cores Markedown.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DISPLAY, POSITION E Z-INDEX.md",
+                "file": "CSS/TRANSFORMAÇÕES E TRANSIÇÕES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DISPLAY, POSITION E Z-INDEX.md",
+                "file": "CSS/TRANSFORMAÇÕES E TRANSIÇÕES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DISPLAY, POSITION E Z-INDEX.md"
+                "file": "CSS/TRANSFORMAÇÕES E TRANSIÇÕES.md"
               }
             }
           },
@@ -198,16 +216,25 @@
   },
   "active": "15b11af7b4b1c8f4",
   "lastOpenFiles": [
-    "Anexos/Pasted image 20240303230011.png",
-    "Anexos/Pasted image 20240303225848.png",
-    "Anexos/Pasted image 20240303225422.png",
-    "Anexos/Pasted image 20240303225341.png",
-    "CSS/FLOAT, CLEAR, ELEMENTOS BLOCK E INLINE.md",
+    "Cores Markedown.md",
+    "CSS/TRANSFORMAÇÕES E TRANSIÇÕES.md",
+    "Comandos Markdown.md",
+    "CSS/OUTRAS FORMATAÇõES.md",
+    "Anexos/Pasted image 20240307223939.png",
+    "Anexos/Pasted image 20240307223748.png",
+    "Anexos/Pasted image 20240307223022.png",
+    "CSS/Barra de elemento.md",
+    "Anexos/Pasted image 20240307222354.png",
+    "Anexos/Pasted image 20240307222201.png",
+    "Anexos/Pasted image 20240307222013.png",
+    "CSS/PSEUDOCLASSES E PSEUDOELEMENTOS.md",
+    "Anexos/Pasted image 20240307220756.png",
+    "Anexos/Pasted image 20240307220736.png",
+    "Anexos/Pasted image 20240307220657.png",
+    "Anexos/Pasted image 20240307220609.png",
+    "CSS/ARVORE DE DOCUMENTO.md",
     "DISPLAY, POSITION E Z-INDEX.md",
-    "Anexos/Pasted image 20240303224943.png",
-    "Anexos/Pasted image 20240303224902.png",
-    "Anexos/Pasted image 20240303224834.png",
-    "Anexos/Pasted image 20240303224534.png",
+    "CSS/FLOAT, CLEAR, ELEMENTOS BLOCK E INLINE.md",
     "Sem título.md",
     "CSS",
     "Html e protocolos/Tabelas.md",
@@ -223,19 +250,10 @@
     "Node/4 Banco de dados mysql_postgreSQL/INSTALANDO UM CLIENTE SQL.md",
     "Node/4 Banco de dados mysql_postgreSQL/Introdução ao Mysql e Postgree.md",
     "Node/4 Banco de dados mysql_postgreSQL/INSTALANO O SERVIDOR POSTGRESQL.md",
-    "Anexos/Pasted image 20240215224056.png",
     "BANCO DE DADOS/20 UPDATE.md",
-    "Cores Markedown.md",
     "BANCO DE DADOS/19 INSERT INTO.md",
     "BANCO DE DADOS/18 JOIN ( left, inner, right ).md",
-    "Anexos/Pasted image 20240211221351.png",
-    "Anexos/Pasted image 20240211221234.png",
-    "BANCO DE DADOS/17 JOIN.md",
-    "BANCO DE DADOS/16 SUBQUERY.md",
-    "BANCO DE DADOS/15 GROUP BY.md",
-    "2024-02-07.md",
     "Sem título.canvas",
-    "Node/2 RECEBENDO DADOS/VARIÁVEIS DE AMBIENTE.md",
     "BANCO DE DADOS/SQL COMANDOS",
     "Node/4 Banco de dados mysql_postgreSQL/Postgree",
     "Node/4 Banco de dados mysql_postgreSQL/MySQl",
