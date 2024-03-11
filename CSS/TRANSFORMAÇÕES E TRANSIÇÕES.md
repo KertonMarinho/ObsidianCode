@@ -53,4 +53,13 @@ seletor { trasnform: trasnlate(x,y)};
 ```css
 	matrix(scaleX(),SkewY(), sclaeY(), trasnlateX(),translateY())
 ```
-paou -7.21
+
+---
+# TRANSIÇÕES CSS
+- Permite criar transições ao definir uma mudança de valor de uma propriedade CSS, de modo que ela ( a mudança de valor) ocorra de forma suave, em um espaço de tempo especificado.
+## Propriedade de tranasição:
+- Transition
+- transition-delay
+- Transition-duration
+- Transition-property
+- Transution-timing-function
