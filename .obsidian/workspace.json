@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/GRID.md",
+                "file": "CSS/RESPONSIVIDADE EM IMAGENS CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/GRID.md",
+                "file": "CSS/RESPONSIVIDADE EM IMAGENS CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/GRID.md",
+                "file": "CSS/RESPONSIVIDADE EM IMAGENS CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/GRID.md"
+                "file": "CSS/RESPONSIVIDADE EM IMAGENS CSS.md"
               }
             }
           },
@@ -216,24 +216,27 @@
   },
   "active": "15b11af7b4b1c8f4",
   "lastOpenFiles": [
-    "Anexos/Pasted image 20240312223731.png",
-    "Anexos/Pasted image 20240312223658.png",
-    "Anexos/Pasted image 20240312223615.png",
-    "Anexos/Pasted image 20240312223353.png",
-    "Anexos/Pasted image 20240312223302.png",
-    "Anexos/Pasted image 20240312223058.png",
-    "Anexos/Pasted image 20240312223013.png",
-    "Anexos/Pasted image 20240312222846.png",
-    "Anexos/Pasted image 20240312222736.png",
+    "Anexos/Pasted image 20240313224105.png",
+    "Anexos/Pasted image 20240313224002.png",
+    "CSS/MEDIA QUERIES.md",
+    "CSS/RESPONSIVIDADE EM IMAGENS CSS.md",
+    "Anexos/Pasted image 20240313223400.png",
+    "Anexos/Pasted image 20240313223314.png",
+    "Anexos/Pasted image 20240313223204.png",
+    "Anexos/Pasted image 20240313222753.png",
+    "Anexos/Pasted image 20240313222725.png",
+    "Anexos/Pasted image 20240313222657.png",
+    "Anexos/Pasted image 20240313222607.png",
+    "Anexos/Pasted image 20240313222324.png",
+    "CSS/FLEXBOX.md",
+    "Anexos/Pasted image 20240313221528.png",
     "Cores Markedown.md",
     "CSS/GRID.md",
-    "Anexos/Pasted image 20240312222524.png",
     "Html e protocolos/html e css semânticos.md",
     "Html e protocolos/PROTOCOLOS E INFRAESTRUTURA.md",
     "Html e protocolos/Input.md",
     "Html e protocolos/Tabelas.md",
     "Html e protocolos/Tags.md",
-    "Anexos/Pasted image 20240312222227.png",
     "CSS/TRANSFORMAÇÕES E TRANSIÇÕES.md",
     "Comandos Markdown.md",
     "CSS/OUTRAS FORMATAÇõES.md",
@@ -250,9 +253,6 @@
     "BANCO DE DADOS/07 SELECT.md",
     "BANCO DE DADOS/06 EXERCÍCIO, PLANEJANDO UM BANCO DE DADOS.md",
     "BANCO DE DADOS/05 TIPOS DE DADOS.md",
-    "BANCO DE DADOS/21 DELETE.md",
-    "Node/4 Banco de dados mysql_postgreSQL/INSTALANDO UM CLIENTE SQL.md",
-    "Node/4 Banco de dados mysql_postgreSQL/Introdução ao Mysql e Postgree.md",
     "Sem título.canvas",
     "BANCO DE DADOS/SQL COMANDOS",
     "Node/4 Banco de dados mysql_postgreSQL/Postgree",
