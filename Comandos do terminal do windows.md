@@ -1,3 +1,4 @@
+cd
 # Comandos:
 - <span style="color:yellow">cd </span>  navegue entre as pastas
 - <span style="color:yellow">LS</span> visualize o que tem dentro da pasta

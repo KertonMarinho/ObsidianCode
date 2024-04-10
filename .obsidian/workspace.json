@@ -37,32 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/RESPONSIVIDADE EM IMAGENS CSS.md",
+                "file": "CSS/OUTRAS FORMATAÇõES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3341baf83250f93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Alterando repositório.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "03ae55a524826ad6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c3a0328aa42a7902",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cores Markedown.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -140,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/RESPONSIVIDADE EM IMAGENS CSS.md",
+                "file": "Git/Alterando repositório.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/RESPONSIVIDADE EM IMAGENS CSS.md",
+                "file": "Git/Alterando repositório.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/RESPONSIVIDADE EM IMAGENS CSS.md"
+                "file": "Git/Alterando repositório.md"
               }
             }
           },
@@ -214,45 +208,45 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "15b11af7b4b1c8f4",
+  "active": "b3341baf83250f93",
   "lastOpenFiles": [
-    "Anexos/Pasted image 20240313224105.png",
-    "Anexos/Pasted image 20240313224002.png",
-    "CSS/MEDIA QUERIES.md",
+    "Comandos do terminal do windows.md",
+    "Git/Clonando um repositório de terceiros.md",
     "CSS/RESPONSIVIDADE EM IMAGENS CSS.md",
-    "Anexos/Pasted image 20240313223400.png",
-    "Anexos/Pasted image 20240313223314.png",
-    "Anexos/Pasted image 20240313223204.png",
-    "Anexos/Pasted image 20240313222753.png",
-    "Anexos/Pasted image 20240313222725.png",
-    "Anexos/Pasted image 20240313222657.png",
-    "Anexos/Pasted image 20240313222607.png",
-    "Anexos/Pasted image 20240313222324.png",
+    "CSS/MEDIA QUERIES.md",
     "CSS/FLEXBOX.md",
-    "Anexos/Pasted image 20240313221528.png",
-    "Cores Markedown.md",
-    "CSS/GRID.md",
-    "Html e protocolos/html e css semânticos.md",
+    "CSS/TRANSFORMAÇÕES E TRANSIÇÕES.md",
+    "CSS/OUTRAS FORMATAÇõES.md",
+    "CSS/PSEUDOCLASSES E PSEUDOELEMENTOS.md",
+    "CSS/ARVORE DE DOCUMENTO.md",
+    "CSS/FLOAT, CLEAR, ELEMENTOS BLOCK E INLINE.md",
     "Html e protocolos/PROTOCOLOS E INFRAESTRUTURA.md",
     "Html e protocolos/Input.md",
     "Html e protocolos/Tabelas.md",
     "Html e protocolos/Tags.md",
-    "CSS/TRANSFORMAÇÕES E TRANSIÇÕES.md",
+    "Html e protocolos/html e css semânticos.md",
+    "CSS/GRID.md",
+    "javascript/BOM(Browser object Model).md",
+    "Anexos/Pasted image 20240318212422.png",
+    "Anexos/Pasted image 20240318212242.png",
+    "Anexos/Pasted image 20240318212037.png",
+    "Anexos/Pasted image 20240318211846.png",
+    "Anexos/Pasted image 20240318211808.png",
+    "Anexos/Pasted image 20240318211728.png",
+    "Anexos/Pasted image 20240318211347.png",
+    "Cores Markedown.md",
+    "Anexos/Pasted image 20240313224105.png",
+    "Anexos/Pasted image 20240313224002.png",
+    "Anexos/Pasted image 20240313223400.png",
     "Comandos Markdown.md",
-    "CSS/OUTRAS FORMATAÇõES.md",
     "CSS/Barra de elemento.md",
-    "CSS/PSEUDOCLASSES E PSEUDOELEMENTOS.md",
-    "CSS/ARVORE DE DOCUMENTO.md",
     "DISPLAY, POSITION E Z-INDEX.md",
-    "CSS/FLOAT, CLEAR, ELEMENTOS BLOCK E INLINE.md",
     "Sem título.md",
     "CSS",
     "BANCO DE DADOS/10 WHERE LIKE.md",
     "BANCO DE DADOS/09 WHERE AND, OR E OPERADORES.md",
     "BANCO DE DADOS/08 WHERE.md",
     "BANCO DE DADOS/07 SELECT.md",
-    "BANCO DE DADOS/06 EXERCÍCIO, PLANEJANDO UM BANCO DE DADOS.md",
-    "BANCO DE DADOS/05 TIPOS DE DADOS.md",
     "Sem título.canvas",
     "BANCO DE DADOS/SQL COMANDOS",
     "Node/4 Banco de dados mysql_postgreSQL/Postgree",

@@ -1,4 +1,4 @@
-
+ 
 <h1 style="color:yellow">Fluxo de Trabalho</h1>
 ![[Pasted image 20230918213947.png|500]]
 - <span style="color:orange">Add</span> adiciona mudanças ao index(arquivo temporário)
