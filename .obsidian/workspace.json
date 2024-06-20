@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node/4 Banco de dados mysql_postgreSQL/Criando um BD (MySQL).md",
+                "file": "Git/Usar chave para conectar ao repositório gitHub.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node/4 Banco de dados mysql_postgreSQL/Criando um BD (MySQL).md",
+                "file": "Git/Usar chave para conectar ao repositório gitHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node/4 Banco de dados mysql_postgreSQL/Criando um BD (MySQL).md",
+                "file": "Git/Usar chave para conectar ao repositório gitHub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node/4 Banco de dados mysql_postgreSQL/Criando um BD (MySQL).md"
+                "file": "Git/Usar chave para conectar ao repositório gitHub.md"
               }
             }
           },
@@ -210,6 +210,17 @@
   },
   "active": "b3341baf83250f93",
   "lastOpenFiles": [
+    "Anexos/Pasted image 20240619230228.png",
+    "Anexos/Pasted image 20240619230011.png",
+    "Anexos/Pasted image 20240619225634.png",
+    "Git/Sincronizando o repositório local com o GitHub com https.md",
+    "Git/Usar chave para conectar ao repositório gitHub.md",
+    "Git/Conectando ao GitHub com ssh.md",
+    "Comandos do terminal do windows.md",
+    "Projetos Javascript/Relógio contador de tempo(com setIntervall).md",
+    "Git/Alterando repositório.md",
+    "Node/1 Template engines/0 Template engines significado.md",
+    "Node/4 Banco de dados mysql_postgreSQL/Criando um BD (MySQL).md",
     "Anexos/Pasted image 20240428222144.png",
     "Anexos/Pasted image 20240428222043.png",
     "Anexos/Pasted image 20240428221934.png",
@@ -218,11 +229,7 @@
     "Anexos/Pasted image 20240428221617.png",
     "Anexos/Pasted image 20240428221139.png",
     "Anexos/Pasted image 20240428221102.png",
-    "Anexos/Pasted image 20240428220715.png",
-    "Anexos/Pasted image 20240428220535.png",
-    "Anexos/Pasted image 20240428220436.png",
     "Node/4 Banco de dados mysql_postgreSQL/INSTALANDO UM CLIENTE SQL.md",
-    "Node/4 Banco de dados mysql_postgreSQL/Criando um BD (MySQL).md",
     "Comandos Markdown.md",
     "Node/2 RECEBENDO DADOS/RECEBENDO DADOS VIA POST.md",
     "Node/2 RECEBENDO DADOS/VARIÁVEIS DE AMBIENTE.md",
@@ -237,15 +244,8 @@
     "Node/1 Template engines/3 Mustache(exibição condicional).md",
     "Node/1 Template engines/2 Mustache(exibindo informações).md",
     "Node/1 Template engines/1 Mustache (instalação).md",
-    "Node/1 Template engines/0 Template engines significado.md",
     "Node/0 preparando o desenvovimento/8 Criando pastas públicas.md",
     "Node/0 preparando o desenvovimento/7 Criando o 404 (página não encontrada).md",
-    "Node/0 preparando o desenvovimento/6 Criando rotas.md",
-    "Node/0 preparando o desenvovimento/5 INSTALANDO O EXPRESS E CRIANDO UM SERVIDOR.md",
-    "Node/0 preparando o desenvovimento/3 Importar bibliotecas de terceiros.md",
-    "Node/0 preparando o desenvovimento/1 Export e import.md",
-    "Node/0 preparando o desenvovimento/2 habilitar no shell do windows para rodar script.md",
-    "Node/0 preparando o desenvovimento/0 Criando o primeiro projeto.md",
     "CSS",
     "Sem título.canvas",
     "BANCO DE DADOS/SQL COMANDOS",
