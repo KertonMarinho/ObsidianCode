@@ -28,5 +28,5 @@ cd c:/users/kerton
 ---
 # voltar pasta anterior
 ```shel
-..cd
+cd..
 ```

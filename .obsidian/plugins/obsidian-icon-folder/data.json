@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiBrandPython",
+      "OiImgFiletypeIcon151817",
       "OiDatabaseData2",
       "OiBancoDeDado",
-      "OiFileTypeNodeIcon130301",
-      "OiIcons8Typescript",
-      "OiQuestionMarkIcon34771"
+      "OiFileTypeNodeIcon130301"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -66,5 +66,6 @@
   "BANCO DE DADOS": {
     "iconName": "OiDatabaseData2",
     "inheritanceIcon": "OiDatabaseData2"
-  }
+  },
+  "PYTHON (automatizando processos)": "TiBrandPython"
 }
