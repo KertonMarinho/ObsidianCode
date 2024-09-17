@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f818e6e2e468447c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PYTHON (automatizando processos)/0 Configuração python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "2e944a0c2cc69999",
@@ -164,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON (automatizando processos)/2 Automação Web - web Scraping com beatiful soup.md",
+                "file": "PYTHON (automatizando processos)/0 Configuração python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON (automatizando processos)/2 Automação Web - web Scraping com beatiful soup.md",
+                "file": "PYTHON (automatizando processos)/0 Configuração python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON (automatizando processos)/2 Automação Web - web Scraping com beatiful soup.md"
+                "file": "PYTHON (automatizando processos)/0 Configuração python.md"
               }
             }
           },
@@ -238,10 +250,17 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "c62db00ce771aaeb",
+  "active": "f818e6e2e468447c",
   "lastOpenFiles": [
-    "Cores Markedown.md",
     "PYTHON (automatizando processos)/2 Automação Web - web Scraping com beatiful soup.md",
+    "Node/0 preparando o desenvovimento/0 Criando o primeiro projeto.md",
+    "Node/1 Template engines/0 Template engines significado.md",
+    "Html e protocolos/PROTOCOLOS E INFRAESTRUTURA.md",
+    "Html e protocolos/Input.md",
+    "Html e protocolos/Tabelas.md",
+    "Html e protocolos/Tags.md",
+    "git here.md",
+    "Cores Markedown.md",
     "PYTHON (automatizando processos)/0 Configuração python.md",
     "Anexos/Pasted image 20240912200040.png",
     "Comandos do terminal do windows.md",
@@ -257,7 +276,6 @@
     "PYTHON (automatizando processos)",
     "Sem título",
     "Anexos/Pasted image 20240908222301.png",
-    "Html e protocolos/Tabelas.md",
     "Node/4 Banco de dados mysql_postgreSQL/Criando um BD (MySQL).md",
     "CSS/OUTRAS FORMATAÇõES.md",
     "CSS/FLOAT, CLEAR, ELEMENTOS BLOCK E INLINE.md",
@@ -272,16 +290,11 @@
     "Git/Conectando ao GitHub com ssh.md",
     "Projetos Javascript/Relógio contador de tempo(com setIntervall).md",
     "Git/Alterando repositório.md",
-    "Node/1 Template engines/0 Template engines significado.md",
     "Anexos/Pasted image 20240428222144.png",
     "Anexos/Pasted image 20240428222043.png",
     "Anexos/Pasted image 20240428221934.png",
     "Anexos/Pasted image 20240428221756.png",
     "Node/4 Banco de dados mysql_postgreSQL/INSTALANDO UM CLIENTE SQL.md",
-    "Comandos Markdown.md",
-    "Node/2 RECEBENDO DADOS/RECEBENDO DADOS VIA POST.md",
-    "Node/2 RECEBENDO DADOS/VARIÁVEIS DE AMBIENTE.md",
-    "Node/4 Banco de dados mysql_postgreSQL/Introdução ao Mysql e Postgree.md",
     "CSS",
     "BANCO DE DADOS/SQL COMANDOS",
     "Node/4 Banco de dados mysql_postgreSQL/Postgree",

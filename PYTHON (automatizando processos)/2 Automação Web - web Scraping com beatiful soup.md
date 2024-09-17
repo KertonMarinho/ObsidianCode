@@ -15,8 +15,16 @@ http://_domain_name/robots.tx
 - Você pode usá-lo para extrair tabelas, listas, parágrafos e também pode colocar filtros para extrair informações de páginas da web.
 - O Beatiful Soup 4 é mais rápido, tem mais recursos e funciona com analisadores de terceiros como lxml e html5lib
 - Para isntalar:
-```
+``` shell
 pip install beautifulsoup4
 ```
 biblioteca beautufull soup:
 www.crummy.com/software/BeautifulSoup/bs4/doc/
+
+- Importar no python o beatifullsoup4:
+```shell
+python
+from bs4 import BeautifulSoup 
+```
+
+parou no 1;58
