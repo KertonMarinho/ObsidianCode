@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON (automatizando processos)/0 Configuração python.md",
+                "file": "PYTHON (automatizando processos)/2 Automação Web - web Scraping com beatiful soup.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON (automatizando processos)/0 Configuração python.md",
+                "file": "PYTHON (automatizando processos)/2 Automação Web - web Scraping com beatiful soup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON (automatizando processos)/0 Configuração python.md",
+                "file": "PYTHON (automatizando processos)/2 Automação Web - web Scraping com beatiful soup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON (automatizando processos)/0 Configuração python.md"
+                "file": "PYTHON (automatizando processos)/2 Automação Web - web Scraping com beatiful soup.md"
               }
             }
           },
@@ -252,6 +252,14 @@
   },
   "active": "f818e6e2e468447c",
   "lastOpenFiles": [
+    "javascript/Arrays.md",
+    "javascript/CONDICIONAL.md",
+    "javascript/Comentários.md",
+    "javascript/Declaração de função.md",
+    "javascript/Requisições/CALLBACK.md",
+    "javascript/Requisições/API (Aplication Programming Interface).md",
+    "javascript/Códigos prontos/Função randômica.md",
+    "PYTHON (automatizando processos)/0 Configuração python.md",
     "PYTHON (automatizando processos)/2 Automação Web - web Scraping com beatiful soup.md",
     "Node/0 preparando o desenvovimento/0 Criando o primeiro projeto.md",
     "Node/1 Template engines/0 Template engines significado.md",
@@ -261,7 +269,6 @@
     "Html e protocolos/Tags.md",
     "git here.md",
     "Cores Markedown.md",
-    "PYTHON (automatizando processos)/0 Configuração python.md",
     "Anexos/Pasted image 20240912200040.png",
     "Comandos do terminal do windows.md",
     "PYTHON (automatizando processos)/1 Fundamentos de Python para automação.md",
@@ -281,20 +288,13 @@
     "CSS/FLOAT, CLEAR, ELEMENTOS BLOCK E INLINE.md",
     "DISPLAY, POSITION E Z-INDEX.md",
     "Sem título.canvas",
-    "Node/4 Banco de dados mysql_postgreSQL/INSTALANO O SERVIDOR POSTGRESQL.md",
-    "Git/Usar chave para conectar ao repositório gitHub.md",
     "Anexos/Pasted image 20240619230228.png",
     "Anexos/Pasted image 20240619230011.png",
     "Anexos/Pasted image 20240619225634.png",
-    "Git/Sincronizando o repositório local com o GitHub com https.md",
-    "Git/Conectando ao GitHub com ssh.md",
-    "Projetos Javascript/Relógio contador de tempo(com setIntervall).md",
-    "Git/Alterando repositório.md",
     "Anexos/Pasted image 20240428222144.png",
     "Anexos/Pasted image 20240428222043.png",
     "Anexos/Pasted image 20240428221934.png",
     "Anexos/Pasted image 20240428221756.png",
-    "Node/4 Banco de dados mysql_postgreSQL/INSTALANDO UM CLIENTE SQL.md",
     "CSS",
     "BANCO DE DADOS/SQL COMANDOS",
     "Node/4 Banco de dados mysql_postgreSQL/Postgree",
