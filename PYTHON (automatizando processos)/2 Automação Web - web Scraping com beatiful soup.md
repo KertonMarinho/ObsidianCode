@@ -14,17 +14,33 @@ http://_domain_name/robots.tx
 - É uma biblioteca python para extrair dados de arquivos HTML e XML
 - Você pode usá-lo para extrair tabelas, listas, parágrafos e também pode colocar filtros para extrair informações de páginas da web.
 - O Beatiful Soup 4 é mais rápido, tem mais recursos e funciona com analisadores de terceiros como lxml e html5lib
-- Para isntalar:
+
+### Passos para usar:
+1.  Para instalar:
 ``` shell
 pip install beautifulsoup4
 ```
 biblioteca beautufull soup:
 www.crummy.com/software/BeautifulSoup/bs4/doc/
+- Para instalar versão usada no curso:
+```
+pip install beautifulsoup4==4.11.1
+```
+2. entre na pasta do arquivo que vai ser usado:
+- Pelo terminal
+```shell
+"C:\Users\kerto\Area Work\Curso Udemy Python\arquivos\generic_simple.html"
+```
 
-- Importar no python o beatifullsoup4:
+3.  Importar para o Python o beatifullsoup4 na pasta do projeto:
 ```shell
 python
 from bs4 import BeautifulSoup 
 ```
 
-parou no 1;58
+4. Abre o arquivo html do projeto
+```shell
+html_file = open("generic_simple.html")
+```
+# parou no 
+3:17 ainda não fiz  2,3 e 4
