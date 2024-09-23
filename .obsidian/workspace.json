@@ -66,39 +66,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f818e6e2e468447c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PYTHON (automatizando processos)/2 Automação Web - web Scraping com beatiful soup.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
-      },
-      {
-        "id": "2e944a0c2cc69999",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "52988cfb35c88249",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cores Markedown.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -250,10 +220,19 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "f818e6e2e468447c",
+  "active": "c62db00ce771aaeb",
   "lastOpenFiles": [
-    "GROSSÁRIO DE DESENVOLVEDOR.md",
+    "Anexos/Pasted image 20240922223305.png",
+    "Anexos/Pasted image 20240922213714.png",
+    "Anexos/Pasted image 20240922212322.png",
+    "Anexos/Pasted image 20240922212120.png",
+    "Anexos/Pasted image 20240922211826.png",
+    "Anexos/Pasted image 20240922211741.png",
+    "Anexos/Pasted image 20240922211009.png",
+    "Anexos/Pasted image 20240922210948.png",
+    "Cores Markedown.md",
     "PYTHON (automatizando processos)/2 Automação Web - web Scraping com beatiful soup.md",
+    "GROSSÁRIO DE DESENVOLVEDOR.md",
     "Git/ignore arquivos do gitHUb.md",
     "javascript/Arrays.md",
     "javascript/CONDICIONAL.md",
@@ -270,7 +249,6 @@
     "Html e protocolos/Tabelas.md",
     "Html e protocolos/Tags.md",
     "git here.md",
-    "Cores Markedown.md",
     "Anexos/Pasted image 20240912200040.png",
     "Comandos do terminal do windows.md",
     "PYTHON (automatizando processos)/1 Fundamentos de Python para automação.md",
@@ -286,15 +264,7 @@
     "Sem título",
     "Anexos/Pasted image 20240908222301.png",
     "Node/4 Banco de dados mysql_postgreSQL/Criando um BD (MySQL).md",
-    "CSS/OUTRAS FORMATAÇõES.md",
     "Sem título.canvas",
-    "Anexos/Pasted image 20240619230228.png",
-    "Anexos/Pasted image 20240619230011.png",
-    "Anexos/Pasted image 20240619225634.png",
-    "Anexos/Pasted image 20240428222144.png",
-    "Anexos/Pasted image 20240428222043.png",
-    "Anexos/Pasted image 20240428221934.png",
-    "Anexos/Pasted image 20240428221756.png",
     "CSS",
     "BANCO DE DADOS/SQL COMANDOS",
     "Node/4 Banco de dados mysql_postgreSQL/Postgree",
