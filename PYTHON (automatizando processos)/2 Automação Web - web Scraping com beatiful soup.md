@@ -150,3 +150,18 @@ len(sopu.find_all("a"))
 ---
 # Web Scraping - conceitos essenciais(aula 14)
 
+## exemplo de pegar uma tabela de um arquivo html
+- Cria um arquivo chamado ``script_data_rows.py no Vscode
+
+```python
+ from bs4 import BeautifulSoup
+ # abrir o arquivo
+ html_file = open("data_in_table.html", mode="r", enconding="utf-8")
+ # estancia o objeto BeautufulSoup
+ soup= BeautulSoup(html_file)
+ # recuperar a tabela
+ table = soup.find(id="main_table")
+ # pegar as linhas da tabela
+ table_rows = table.find_all("tr")
+ print(table_rows)
+```
